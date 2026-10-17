@@ -1,0 +1,328 @@
+[
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "128d1893-1ea5-4500-8ee7-fd49d266747f",
+  "langs": [
+   "en",
+   "es",
+   "de",
+   "fr",
+   "ru",
+   "zh",
+   "pt",
+   "ar",
+   "is"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Google), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "google/gemini-4-argon",
+  "page": "panama-papers",
+  "revisions": {
+   "ar": 76861231,
+   "de": 269608849,
+   "en": 1376123590,
+   "es": 174508374,
+   "fr": 240360196,
+   "is": 1863845,
+   "pt": 69841004,
+   "ru": 152419930,
+   "zh": 94357698
+  },
+  "summary": "The nine language versions of the Panama Papers article share core facts about the 2016 leak of 11.5 million documents (2.6 TB) from Mossack Fonseca via an anonymous source to Süddeutsche Zeitung and the ICIJ, but diverge significantly in scope, regional focus, and updates through 2024–2026. Longer editions such as Spanish, English, German, and French provide extensive country-by-country breakdowns and legal developments, including the 2018 closure of the firm and the June 2024 acquittal of 28 defendants in Panama, whereas shorter versions like Arabic and Icelandic focus heavily on their respective regions and lack post-2016 developments. Several factual and numerical discrepancies appear across versions, including the number of participating media organizations and countries, the founding date of Mossack Fonseca (1977 vs. 1986), the exact date of the founders' 2017 arrest, and the total money moved through the firm ($2 trillion vs. $1 trillion). Framing also varies around geopolitical allegations: Russian, Chinese, French, Spanish, and Portuguese versions devote substantial space to claims of Western bias or US government funding of the investigation, while English omits those allegations and focuses on technical data security, tax haven mechanics, and Panamanian domestic reactions.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:076ab0d31f020b8a",
+   "output": "strict JSON schema",
+   "provider": "Google",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 212,
+    "kept": 209
+   },
+   "reasoning": "medium",
+   "seconds": 381,
+   "tokensIn": 86677,
+   "tokensOut": 43854,
+   "usd": 0.6119,
+   "version": "google/gemini-4-argon",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "19ed6d4a-ec2c-44cd-86ed-f10e0b023799",
+  "langs": [
+   "en",
+   "es",
+   "de",
+   "fr",
+   "ru",
+   "zh",
+   "pt",
+   "ar",
+   "is"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "z-ai/glm-5.3",
+  "page": "panama-papers",
+  "revisions": {
+   "ar": 76861231,
+   "de": 269608849,
+   "en": 1376123590,
+   "es": 174508374,
+   "fr": 240360196,
+   "is": 1863845,
+   "pt": 69841004,
+   "ru": 152419930,
+   "zh": 94357698
+  },
+  "summary": "The nine versions differ sharply in scope: Spanish is by far the longest and richest in country-by-country detail; English is long but organised around themes; German and French are mid-length with strong national and legal follow-up; Russian and Chinese concentrate on Russia and China respectively; Portuguese covers reactions broadly; Arabic and Icelandic are short. The most consequential substantive differences concern the number of media partners, the fate and prosecution of Mossack Fonseca (its 2018 closure and the 2024 acquittals are absent from most versions), the Iceland resignation date (5 vs 6 April 2016), whether Putin's inner circle's $2 billion offshore flows are reported, and the claim — stated as fact in Russian, quoted elsewhere, absent in English — that the US government or George Soros funded the investigation. Tone is broadly critical of the firm and neutral-to-sympathetic to journalists everywhere; the Russian version alone gives extensive space to the Kremlin's framing of the leak as an anti-Russian operation.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:076ab0d31f020b8a",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 255,
+    "kept": 226
+   },
+   "reasoning": "medium",
+   "seconds": 505,
+   "tokensIn": 92335,
+   "tokensOut": 35108,
+   "usd": 0.2837,
+   "version": "z-ai/glm-5.3",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "59cdbc6a-09a1-402c-8616-d2e8b94e3b15",
+  "langs": [
+   "en",
+   "es",
+   "de",
+   "fr",
+   "ru",
+   "zh",
+   "pt",
+   "ar",
+   "is"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Anthropic), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "anthropic/claude-opus-5.5",
+  "page": "panama-papers",
+  "revisions": {
+   "ar": 76861231,
+   "de": 269608849,
+   "en": 1376123590,
+   "es": 174508374,
+   "fr": 240360196,
+   "is": 1863845,
+   "pt": 69841004,
+   "ru": 152419930,
+   "zh": 94357698
+  },
+  "summary": "The nine versions differ greatly in length. English, Spanish and German are long, French and Russian are mid-length, and Portuguese, Chinese, Arabic and Icelandic are short or focused on one aspect. Several basic figures disagree across versions: the number of media partners and countries, the number of world leaders named, the date of the Icelandic resignation, the founders' arrest date, the money passing through the firm, and the taxes recovered. The later legal story (closure in 2018, arrests, the 2024 acquittal, Fonseca's death, the appeal) is told only in English, German and French, and each gives it a different weight; Spanish records the firm's disappearance and fines but not the trial. Claims that the US government funded or steered the investigation are reported in Russian, French, Spanish, Chinese and Portuguese, while English and German do not raise them. Chinese censorship gets long treatment in Chinese and appears briefly in Spanish, German, French and Russian; Galizia's murder appears only in English, German and French, plus an empty heading in Spanish.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:076ab0d31f020b8a",
+   "output": "strict JSON schema",
+   "provider": "Anthropic",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 211,
+    "kept": 209
+   },
+   "reasoning": "medium",
+   "seconds": 406,
+   "tokensIn": 149947,
+   "tokensOut": 53879,
+   "usd": 1.6774,
+   "version": "anthropic/claude-opus-5.5",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "b4321057-8c6d-48a4-82b9-f363018945e9",
+  "langs": [
+   "en",
+   "es",
+   "de",
+   "fr",
+   "ru",
+   "zh",
+   "pt",
+   "ar",
+   "is"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "moonshotai/kimi-k3",
+  "page": "panama-papers",
+  "revisions": {
+   "ar": 76861231,
+   "de": 269608849,
+   "en": 1376123590,
+   "es": 174508374,
+   "fr": 240360196,
+   "is": 1863845,
+   "pt": 69841004,
+   "ru": 152419930,
+   "zh": 94357698
+  },
+  "summary": "All nine versions agree on the core facts: 11.5 million documents (2.6 TB) from Mossack Fonseca, leaked by an anonymous source to Süddeutsche Zeitung, shared via the ICIJ, and published on 3 April 2016. Beyond that they diverge sharply in scope and emphasis: the Spanish version is an encyclopedic country-by-country compendium, while the Arabic and Icelandic versions are short and nationally focused. Numbers disagree across versions (107 vs 109 vs 116 media outlets; 76 vs 78 vs 80 countries; 12 vs 72 vs 143 leaders/politicians named; 1970s–2016 vs 1977–2015 date ranges; 149 vs 150 documents published at launch). The Russian, Spanish, French, Chinese and Portuguese versions give room to claims that the US government or George Soros funded the investigation, which the English and German versions omit entirely; conversely the English version omits the Putin/Roldugin material that is central in most others. Only English, German and French cover the firm's 2024 trial outcome and recovered-tax figures, and even there English says both founders were acquitted while German says proceedings against the deceased Fonseca were dropped.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:076ab0d31f020b8a",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 219,
+    "kept": 219
+   },
+   "reasoning": "medium",
+   "seconds": 1308,
+   "tokensIn": 105359,
+   "tokensOut": 49630,
+   "usd": 1.0605,
+   "version": "moonshotai/kimi-k3",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "codex",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "cec5ca5a-0d59-4eeb-87d7-38a61c3172a2",
+  "langs": [
+   "en",
+   "es",
+   "de",
+   "fr",
+   "ru",
+   "zh",
+   "pt",
+   "ar",
+   "is"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs; read-only in the Codex CLI, without network access and without sight of any other run; answered to a fixed JSON schema.",
+  "model": "gpt-6-astra",
+  "page": "panama-papers",
+  "revisions": {
+   "ar": 76861231,
+   "de": 269608849,
+   "en": 1376123590,
+   "es": 174508374,
+   "fr": 240360196,
+   "is": 1863845,
+   "pt": 69841004,
+   "ru": 152419930,
+   "zh": 94357698
+  },
+  "summary": "The nine files share the core story but differ substantially in geographic emphasis and coverage of later events. They give different counts of leaders and different dates for Iceland’s resignation, the founders’ detention, and the period covered by the records. Legal caveats, government responses, and the 2024 acquittals also receive different treatment. The short Icelandic and Arabic accounts warrant more limited expectations than the longer versions. Coverage marks partial mentions as true and explains missing components; tone scores describe wording and emphasis, including attributed criticism, without judging which account is correct.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:55722665a301fe33",
+   "output": "JSON schema, through the Codex CLI",
+   "priced": "list",
+   "quotes": {
+    "given": 203,
+    "kept": 202
+   },
+   "reasoning": "ultra",
+   "requests": 100,
+   "seconds": 1217,
+   "tokens": 279905,
+   "tokensCached": 5766912,
+   "tokensIn": 6198343,
+   "tokensOut": 107068,
+   "usd": 15.43,
+   "version": "gpt-6-astra",
+   "via": "Codex CLI"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "d14fabff-33ed-4530-81ea-a293340d294c",
+  "langs": [
+   "en",
+   "es",
+   "de",
+   "fr",
+   "ru",
+   "zh",
+   "pt",
+   "ar",
+   "is"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by xAI), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "x-ai/grok-4.7",
+  "page": "panama-papers",
+  "revisions": {
+   "ar": 76861231,
+   "de": 269608849,
+   "en": 1376123590,
+   "es": 174508374,
+   "fr": 240360196,
+   "is": 1863845,
+   "pt": 69841004,
+   "ru": 152419930,
+   "zh": 94357698
+  },
+  "summary": "All nine versions describe the same April 2016 publication of Mossack Fonseca records, first handled by Süddeutsche Zeitung and then by a large international reporting group. They do not use the same counts of outlets, countries or journalists, and they do not agree on the day Iceland’s prime minister left office or on what a Panama court did with the founders in 2024. Longer versions usually separate legal offshore use from fraud, evasion and sanctions-breaking, and they give room to Russia, China, Britain and Pakistan; the English text names many people but not Chinese censorship, the Putin-circle money trail, or Nawaz Sharif’s 2017 removal. Arabic, Icelandic and parts of the Chinese and Portuguese texts are much shorter and stop at scale, a national angle, or a list of names. Where the source and the reporting teams are described, the wording is generally respectful; the firm and named officials are described through secrecy, conflicts of interest and investigations, while Panama is often only the setting unless a government response is set out.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:076ab0d31f020b8a",
+   "output": "strict JSON schema",
+   "provider": "xAI",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 238,
+    "kept": 236
+   },
+   "reasoning": "medium",
+   "seconds": 484,
+   "tokensIn": 86641,
+   "tokensOut": 54503,
+   "usd": 0.4986,
+   "version": "x-ai/grok-4.7",
+   "via": "OpenRouter"
+  }
+ }
+]

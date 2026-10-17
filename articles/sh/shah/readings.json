@@ -1,0 +1,271 @@
+[
+ {
+  "agent": "claude-code",
+  "answers": [
+   {
+    "note": "Does not mention Jaleh Square or Black Friday; it says rioting and turmoil 'brought down four successive governments'.",
+    "point": "e4a19920-c97f-4c71-8f35-1ba1841bbe99",
+    "question": "How many people died at Jaleh Square in Tehran on 8 September 1978 (Black Friday), and who were they?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the Cinema Rex fire.",
+    "point": "3de9cc1c-bcbc-4c36-8c89-dee3a8c14442",
+    "question": "Who set the fire at the Cinema Rex in Abadan in August 1978?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as English, Arabic and Russian: Iranians, Mosaddegh's opponents, acted with US and UK support. Its lead says the two states 'helped restore him to power'; it does not name the CIA or MI6.",
+    "point": "e7701db5-7c91-416d-842b-bd3eacd463b0",
+    "question": "Who carried out the coup that overthrew Mosaddegh in August 1953?",
+    "quote": "Mosaddegh’s opponents, with the covert support and assistance of the United States and the United Kingdom, restored Mohammad Reza to power",
+    "says": "same"
+   },
+   {
+    "note": "Does not mention the 1949 attempt on his life.",
+    "point": "1210c02b-4895-4f54-832f-59e976e1136f",
+    "question": "Who was the man who shot the Shah at Tehran University on 4 February 1949 acting for?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the 1949 attempt on his life.",
+    "point": "b460a7ea-bbcb-40ed-80a0-438f16dac1d1",
+    "question": "How many bullets hit the Shah in the 1949 assassination attempt?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as Persian, Arabic and Spanish: lymphatic cancer. It names the illness he was treated for in the United States and does not state a cause of death; it names neither Waldenström's disease, leukaemia nor pancreatic cancer.",
+    "point": "9fe8863a-321f-4c11-8b71-14ae95010b33",
+    "question": "What illness did the Shah die of?",
+    "quote": "before entering the United States on October 22, 1979, for medical treatment of lymphatic cancer",
+    "says": "same"
+   },
+   {
+    "note": "States no age. Its dates, born 26 October 1919 and died 27 July 1980, make him 60, the age Persian, Russian and English give, rather than Arabic's 'about 61'.",
+    "point": "7407fd27-3104-47df-8182-3b81f3a4294f",
+    "question": "How old was the Shah when he died on 27 July 1980?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not say when his cancer was diagnosed.",
+    "point": "573b829a-3d28-4661-893b-1749ab9262ea",
+    "question": "When was the Shah's cancer diagnosed?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the 1971 celebration at Persepolis.",
+    "point": "cfe8aac9-b953-4bb3-8a19-344f53dc3545",
+    "question": "How much did the 1971 celebration of 2,500 years of the Iranian monarchy at Persepolis cost?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Mentions Farah Diba only as the third wife who bore the crown prince in October 1960; no coronation.",
+    "point": "272ee511-f320-47cb-87f0-244e8b217c58",
+    "question": "When was Farah Pahlavi crowned Shahbanu (empress)?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Names SAVAK ('the secret police') and its activities 'in suppressing dissent', but not when or with whose help it was founded.",
+    "point": "33f6930d-b859-4d21-8b60-04ed6ce29041",
+    "question": "Who helped found SAVAK, the secret police, in 1957?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Gives no death toll for political violence under the Shah or for the revolution.",
+    "point": "a01dca98-4156-49a0-82f1-9aefb42bf1dc",
+    "question": "How many people were killed in political violence under the Shah and in the revolution that ended his reign?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the military college. It says he 'returned to Iran in 1935' from Switzerland, where German and Hebrew put his return in 1936 and Turkish starts his military studies in 1935.",
+    "point": "8743e3bb-f13c-47a9-873a-7f6b21662d38",
+    "question": "When did Mohammad Reza attend and complete military college in Iran?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the imperial calendar.",
+    "point": "ec367a75-f625-4e90-837c-07018c46439c",
+    "question": "When was the imperial calendar introduced?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the Qom demonstration of January 1978.",
+    "point": "dfe29d78-9928-4d6a-87e2-e5d9badb3033",
+    "question": "How many people were killed in the Qom demonstration on 9 January 1978?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the shooting in Jaleh Square.",
+    "point": "7a0c9ae4-a9b5-468d-8f00-045b0fe2a05b",
+    "question": "How is the shooting in Jaleh Square on Black Friday explained?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the title Shahanshah or the 1967 coronation.",
+    "point": "46f6bbb9-e85b-4ab6-84b5-cef876ec9751",
+    "question": "In which year did Mohammad Reza Pahlavi adopt the title Shahanshah (Emperor)?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not say when Khomeini was exiled or that he went to Iraq; in 1978 it has him 'living in exile in Paris'.",
+    "point": "b704d6bf-3999-4130-8347-56362a48c9ac",
+    "question": "When was Khomeini exiled from Iran to Iraq?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the Guadeloupe conference.",
+    "point": "b0170a45-a041-4840-86ee-8ccdb1037f43",
+    "question": "What was decided at the January 1979 Guadeloupe conference of Western leaders regarding the Shah?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not name Fawzia or date the marriage; it says only that his first two marriages ended in divorce.",
+    "point": "fc4fcdb9-645c-4be0-8860-c0faa8a90b4e",
+    "question": "On what date was the Shah's marriage to Princess Fawzia of Egypt celebrated in Cairo?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the June 1963 uprising.",
+    "point": "5e3b7e1f-3534-4d0b-84cc-a268449cc0f6",
+    "question": "How many people were killed in the June 1963 uprising (15 Khordad)?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Gives no date or place: his first two marriages 'ended in divorce when they failed to produce a male heir to the throne'.",
+    "point": "c396c39e-09fb-4b74-8cbb-c34d23d80ce2",
+    "question": "When and where was the divorce from Fawzia finalized?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as English and Turkish, and as the Persian lead: 16 January 1979.",
+    "point": "5dcbfba6-2aa1-4acd-814e-97ddcfcc5136",
+    "question": "On what date did the Shah leave Iran in January 1979?",
+    "quote": "On January 16, 1979, the shah left the country, and Khomeini assumed control.",
+    "says": "same"
+   },
+   {
+    "note": "Does not mention the Guadeloupe conference.",
+    "point": "36272288-423e-4971-8fe5-dd4b94a5df49",
+    "question": "On what date(s) did the Guadeloupe conference on the Iran crisis take place?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not name Le Rosey or say whether he finished there: he 'was educated in Switzerland and returned to Iran in 1935'. It mentions no later return to Switzerland for the maturité (French).",
+    "point": "77cc2fc8-7dec-4389-81be-1e155afbbb6f",
+    "question": "Did Mohammad Reza complete his diploma at Institut Le Rosey in Switzerland?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as English and German: Egypt first, then Morocco, the Bahamas, Mexico and the United States, later Panama and Cairo. It does not list Ecuador (Spanish).",
+    "point": "2a6dd502-5575-49c0-8877-ef302ba9e536",
+    "question": "Which countries did the Shah pass through in exile after leaving Iran?",
+    "quote": "The shah traveled to Egypt, Morocco, The Bahamas, and Mexico before entering the United States on October 22, 1979, for medical treatment of lymphatic cancer.",
+    "says": "same"
+   },
+   {
+    "note": "Names neither event, as the Hebrew, Russian and Turkish versions also do not. It gives the escalation as rioting and turmoil in the major cities that 'brought down four successive governments'.",
+    "point": "0bdf78d2-c206-4b8a-8cb5-64832576de7f",
+    "question": "How are the Jaleh Square massacre and the Cinema Rex fire treated in accounts of the revolution's escalation?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not say when he was proclaimed Crown Prince.",
+    "point": "388b4a33-9a80-44bb-884a-4fece9fd3893",
+    "question": "On what exact date was Mohammad Reza Pahlavi proclaimed Crown Prince of Iran?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as Turkish and French: 16 September 1941 (Persian's 25 Shahrivar 1320 is the same day). It dates his accession, not an oath before parliament, which English and German put on 17 September.",
+    "point": "06e17147-1ddc-43c0-8073-b84fda39fee1",
+    "question": "On what date did Mohammad Reza Pahlavi take the oath of office before parliament to become Shah?",
+    "quote": "Mohammad Reza then replaced his father on the throne (September 16, 1941).",
+    "says": "same"
+   },
+   {
+    "note": "Does not mention the Senate.",
+    "point": "07dcc016-00f6-4fba-80cf-766df7263d6e",
+    "question": "How were the members of the Iranian Senate selected following its establishment in 1949?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the 1967 coronation.",
+    "point": "94945c9e-3a09-4047-8f93-e32b72b46610",
+    "question": "Were foreign dignitaries and heads of state invited to and present at the Shah's 1967 coronation ceremony?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention national debt; it says Iran 'began to reap greater revenues from its petroleum exports beginning in 1973'.",
+    "point": "d8541b85-c337-4397-832e-e506e3612221",
+    "question": "What was the status of Iran's national debt during the 1970s?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as English, Persian and Arabic in describing state literacy and health programmes (the two corps, the eradication of malaria), without figures. It also lists 'the unequal distribution of oil wealth' among grounds of opposition; it gives no 'worst indicators' (Spanish).",
+    "point": "2cf3c24f-ce64-451c-8b5e-f8800e07026a",
+    "question": "How did social indicators such as education and health in Iran perform during the 1960s and 1970s, and how were oil revenues used?",
+    "quote": "He also established a literacy corps and a health corps for the large but isolated rural population.",
+    "says": "same"
+   },
+   {
+    "note": "Does not mention a newspaper headline.",
+    "point": "67e421c1-b148-4330-8199-a88722ee3070",
+    "question": "Which Iranian newspaper published the famous headline announcing the Shah's departure on 16 January 1979, and what did it say?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Gives no personal reason or request: he 'fled the Iranian Revolution' after turmoil brought down four governments. It mentions neither Bakhtiar's request (English, French), tiredness (French, German) nor a wish to avoid bloodshed (Persian, Arabic).",
+    "point": "bb02285b-cba5-4543-8cc3-e1a048324662",
+    "question": "Why did the Shah leave Iran in January 1979?",
+    "quote": "was the shah of Iran from 1941 to 1979, when he fled the Iranian Revolution",
+    "says": "different"
+   },
+   {
+    "note": "Does not mention Israel.",
+    "point": "eb28743f-8126-4770-8464-363f63e9e813",
+    "question": "When did Iran recognize Israel under Mohammad Reza, and was it the first Muslim state to do so?",
+    "quote": "",
+    "says": "silent"
+   }
+  ],
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-17T01:00:00.000Z",
+  "id": "c9ce9c84-6015-4689-ad28-0cd77b32ef5b",
+  "model": "claude-opus-5-5",
+  "name": "Encyclopædia Britannica",
+  "page": "shah",
+  "source": "P1417",
+  "summary": "Britannica's short entry is silent on 29 of the 36 points, gives the same answer as one group of versions on 6 and a different answer on 1. It agrees with English, Arabic and Russian that Iranians carried out the 1953 coup with US and UK support, with Persian, Arabic and Spanish on lymphatic cancer, and with most versions on 16 January 1979 and the route of his exile; on why he left Iran it gives no reason beyond that he 'fled the Iranian Revolution'. Its own entry on Mosaddegh puts the same coup differently, as 'orchestrated by' the United States and the United Kingdom.",
+  "url": "https://web.archive.org/web/20261010080646/https://www.britannica.com/biography/Mohammad-Reza-Shah-Pahlavi"
+ }
+]

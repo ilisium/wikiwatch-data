@@ -1,0 +1,190 @@
+{
+ "versions": [
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "По данным Би-би-си, исходные документы были проанализированы рядом независимых и надёжных экспертов, а расследование было проведено справедливо и беспристрастно и представляет общественный интерес."
+      },
+      {
+       "kind": "quote",
+       "text": "расследование было проведено справедливо и беспристрастно и представляет общественный интерес"
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays journalists more harshly than the other versions (-0.3 against a median of 0.9, on a scale of −2 to +2, read alike by 6 runs)."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out the murder of Daphne Caruana Galizia, which 5 of the 7 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out whether offshore companies are legal, which 7 of the 7 other full versions give."
+    }
+   ],
+   "score": 18,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=265026313&oldid=265025853",
+       "kind": "diff",
+       "text": "2026-03-08, KurtR, 2 references: /* Weitere Reaktionen */ WP:Q privater blog"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "Für ihre Recherchen zu dieser Affäre erhielt das ICIJ 2017 den renommierten Pulitzer-Preis."
+      },
+      {
+       "kind": "quote",
+       "text": "Für ihre Recherchen zu dieser Affäre erhielt das ICIJ 2017 den renommierten Pulitzer-Preis."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays journalists more favourably than the other versions (1.7 against a median of 0.7, on a scale of −2 to +2, read alike by 6 runs)."
+    }
+   ],
+   "score": 14,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Pakistan's prime minister disqualified, which 7 of the 7 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Panama's response, which 6 of the 7 other full versions give."
+    }
+   ],
+   "score": 12,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "pt",
+   "language": "Portuguese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out the murder of Daphne Caruana Galizia, which 5 of the 7 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Panama's response, which 6 of the 7 other full versions give."
+    }
+   ],
+   "score": 12,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "mientras que la posición del gobierno panameño ha ido variando, distanciándose progresivamente del bufete de Mossack Fonseca."
+      },
+      {
+       "kind": "quote",
+       "text": "El Gobierno de Panamá en comunicado lamento la salida por diferencias internas y agradeció el trabajo y recomendaciones realizadas."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays panama less harshly than the other versions (0.0 against a median of -1.0, on a scale of −2 to +2, read alike by 6 runs)."
+    }
+   ],
+   "score": 6,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "zh",
+   "language": "Chinese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out the murder of Daphne Caruana Galizia, which 5 of the 7 other full versions give."
+    }
+   ],
+   "score": 6,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "is",
+   "language": "Icelandic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  }
+ ]
+}

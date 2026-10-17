@@ -1,0 +1,213 @@
+{
+ "versions": [
+  {
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://es.wikipedia.org/w/index.php?diff=171773783&oldid=171773711",
+       "kind": "diff",
+       "text": "2026-01-28, PedroAcero76, 3 references: /* Influencia y recepción de Nietzsche */Sobrerrefereciación innecesaria, además de que las fuentes no sustentan específicamente casi nada de dicho párrafo: no se trata de añadir fuentes a bulto, sino de que venga expresamente citada la información del texto."
+      },
+      {
+       "href": "https://es.wikipedia.org/w/index.php?diff=171773711&oldid=171737190",
+       "kind": "diff",
+       "text": "2026-01-28, PedroAcero76, 3 references: /* Visión de las mujeres */No sé si esos artículos periodísticos son muy fiables, pero no referencia nada del epígrafe: ni se menciona el posfeminismo, ni a Schopenhauer ni a Parerga, etc., salvo error por mi parte."
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 2 removals taking out 6 references."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "33% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 24,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "it",
+   "language": "Italian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2025-12-27: 3 reverts by Mannivu"
+      },
+      {
+       "kind": "war",
+       "text": "2026-06-20: 3 reverts by Quinlan83"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "2 edit wars in the last year (three reverts or more within a day)."
+    }
+   ],
+   "score": 16,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1368753573&oldid=1368406596",
+       "kind": "diff",
+       "text": "2026-08-10, Kongcubed, 8 references: Reverting recent edits to the long-standing lead, especially https://en.wikipedia.org/w/index.php?title=Friedrich_Nietzsche&diff=prev&oldid=1364960216 by User:Partyclams. Opposition to antisemitism and nationalism is cited in the body."
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 8 references."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "20% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "24% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "15% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "pt",
+   "language": "Portuguese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "pl",
+   "language": "Polish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://pl.wikipedia.org/w/index.php?diff=79739670&oldid=79640452",
+       "kind": "diff",
+       "text": "2026-05-11, Knaf49, 1 references: no summary"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 5,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ja",
+   "language": "Japanese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "zh",
+   "language": "Chinese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  }
+ ]
+}

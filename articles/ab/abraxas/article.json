@@ -1,0 +1,479 @@
+{
+ "asked": "Abraxas",
+ "description": "mystical word of Gnostic origins that carries many meanings, including as a proper name",
+ "id": "abraxas",
+ "missing": [
+  {
+   "lang": "he",
+   "language": "Hebrew"
+  },
+  {
+   "lang": "id",
+   "language": "Indonesian"
+  },
+  {
+   "lang": "hi",
+   "language": "Hindi"
+  },
+  {
+   "lang": "bn",
+   "language": "Bengali"
+  },
+  {
+   "lang": "sw",
+   "language": "Swahili"
+  },
+  {
+   "lang": "ur",
+   "language": "Urdu"
+  },
+  {
+   "lang": "th",
+   "language": "Thai"
+  }
+ ],
+ "qid": "Q207730",
+ "title": "Abraxas",
+ "versions": [
+  {
+   "characters": 52524,
+   "citations": 85,
+   "lang": "en",
+   "language": "English",
+   "protection": null,
+   "readers": 23170,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://en.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 24953,
+   "citations": 15,
+   "lang": "ko",
+   "language": "Korean",
+   "protection": null,
+   "readers": 492,
+   "revid": null,
+   "title": "아브라삭스",
+   "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B8%8C%EB%9D%BC%EC%82%AD%EC%8A%A4"
+  },
+  {
+   "characters": 15610,
+   "citations": 23,
+   "lang": "es",
+   "language": "Spanish",
+   "protection": null,
+   "readers": 3512,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://es.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 15587,
+   "citations": 20,
+   "lang": "it",
+   "language": "Italian",
+   "protection": null,
+   "readers": 1472,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://it.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 13606,
+   "citations": 9,
+   "lang": "nl",
+   "language": "Dutch",
+   "protection": null,
+   "readers": 379,
+   "revid": null,
+   "title": "Abraxas (god)",
+   "url": "https://nl.wikipedia.org/wiki/Abraxas_(god)"
+  },
+  {
+   "characters": 12061,
+   "citations": 2,
+   "lang": "cs",
+   "language": "Czech",
+   "protection": null,
+   "readers": 166,
+   "revid": null,
+   "title": "Abraxas (náboženství)",
+   "url": "https://cs.wikipedia.org/wiki/Abraxas_(n%C3%A1bo%C5%BEenstv%C3%AD)"
+  },
+  {
+   "characters": 11205,
+   "citations": 27,
+   "lang": "fr",
+   "language": "French",
+   "protection": null,
+   "readers": 2034,
+   "revid": null,
+   "title": "Abraxas (religion)",
+   "url": "https://fr.wikipedia.org/wiki/Abraxas_(religion)"
+  },
+  {
+   "characters": 10362,
+   "citations": 8,
+   "lang": "de",
+   "language": "German",
+   "protection": null,
+   "readers": 2631,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://de.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 9423,
+   "citations": 3,
+   "lang": "az",
+   "language": "Azerbaijani",
+   "protection": null,
+   "readers": 36,
+   "revid": null,
+   "title": "Abraksas",
+   "url": "https://az.wikipedia.org/wiki/Abraksas"
+  },
+  {
+   "characters": 8663,
+   "citations": 22,
+   "lang": "uk",
+   "language": "Ukrainian",
+   "protection": null,
+   "readers": 104,
+   "revid": null,
+   "title": "Абраксас",
+   "url": "https://uk.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B0%D0%BA%D1%81%D0%B0%D1%81"
+  },
+  {
+   "characters": 8610,
+   "citations": 11,
+   "lang": "pt",
+   "language": "Portuguese",
+   "protection": null,
+   "readers": 1247,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://pt.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 5978,
+   "citations": 0,
+   "lang": "pl",
+   "language": "Polish",
+   "protection": null,
+   "readers": 555,
+   "revid": null,
+   "title": "Abraxas (mitologia)",
+   "url": "https://pl.wikipedia.org/wiki/Abraxas_(mitologia)"
+  },
+  {
+   "characters": 5472,
+   "citations": 5,
+   "lang": "vi",
+   "language": "Vietnamese",
+   "protection": null,
+   "readers": 65,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://vi.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 5107,
+   "citations": 6,
+   "lang": "ca",
+   "language": "Catalan",
+   "protection": null,
+   "readers": 63,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://ca.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 3829,
+   "citations": 7,
+   "lang": "ru",
+   "language": "Russian",
+   "protection": null,
+   "readers": 2114,
+   "revid": null,
+   "title": "Абраксас",
+   "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B0%D0%BA%D1%81%D0%B0%D1%81"
+  },
+  {
+   "characters": 3275,
+   "citations": 4,
+   "lang": "sv",
+   "language": "Swedish",
+   "protection": null,
+   "readers": 107,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://sv.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 2969,
+   "citations": 5,
+   "lang": "ar",
+   "language": "Arabic",
+   "protection": null,
+   "readers": null,
+   "revid": null,
+   "title": "أبركساس",
+   "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D8%B1%D9%83%D8%B3%D8%A7%D8%B3"
+  },
+  {
+   "characters": 2393,
+   "citations": 1,
+   "lang": "ro",
+   "language": "Romanian",
+   "protection": null,
+   "readers": 70,
+   "revid": null,
+   "title": "Abrakax",
+   "url": "https://ro.wikipedia.org/wiki/Abrakax"
+  },
+  {
+   "characters": 2179,
+   "citations": 4,
+   "lang": "sq",
+   "language": "Albanian",
+   "protection": null,
+   "readers": 17,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://sq.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 2142,
+   "citations": 0,
+   "lang": "hy",
+   "language": "Armenian",
+   "protection": null,
+   "readers": 30,
+   "revid": null,
+   "title": "Աբրաքսաս",
+   "url": "https://hy.wikipedia.org/wiki/%D4%B1%D5%A2%D6%80%D5%A1%D6%84%D5%BD%D5%A1%D5%BD"
+  },
+  {
+   "characters": 2112,
+   "citations": 5,
+   "lang": "te",
+   "language": "Telugu",
+   "protection": null,
+   "readers": 5,
+   "revid": null,
+   "title": "అబ్రక్సాస్",
+   "url": "https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%AC%E0%B1%8D%E0%B0%B0%E0%B0%95%E0%B1%8D%E0%B0%B8%E0%B0%BE%E0%B0%B8%E0%B1%8D"
+  },
+  {
+   "characters": 1994,
+   "citations": 0,
+   "lang": "nn",
+   "language": "Norwegian Nynorsk",
+   "protection": null,
+   "readers": 6,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://nn.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 1833,
+   "citations": 0,
+   "lang": "eo",
+   "language": "Esperanto",
+   "protection": null,
+   "readers": 8,
+   "revid": null,
+   "title": "Abrakso",
+   "url": "https://eo.wikipedia.org/wiki/Abrakso"
+  },
+  {
+   "characters": 1822,
+   "citations": 0,
+   "lang": "cy",
+   "language": "Welsh",
+   "protection": null,
+   "readers": 3,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://cy.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 1817,
+   "citations": 4,
+   "lang": "sr",
+   "language": "Serbian",
+   "protection": null,
+   "readers": 43,
+   "revid": null,
+   "title": "Абраксас",
+   "url": "https://sr.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B0%D0%BA%D1%81%D0%B0%D1%81"
+  },
+  {
+   "characters": 1812,
+   "citations": 4,
+   "lang": "hr",
+   "language": "Croatian",
+   "protection": null,
+   "readers": 89,
+   "revid": null,
+   "title": "Abraksas",
+   "url": "https://hr.wikipedia.org/wiki/Abraksas"
+  },
+  {
+   "characters": 1769,
+   "citations": 0,
+   "lang": "no",
+   "language": "Norwegian",
+   "protection": null,
+   "readers": 44,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://no.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 1629,
+   "citations": 0,
+   "lang": "ml",
+   "language": "Malayalam",
+   "protection": null,
+   "readers": 7,
+   "revid": null,
+   "title": "അബ്രക്സസ്",
+   "url": "https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AC%E0%B5%8D%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B4%B8%E0%B5%8D"
+  },
+  {
+   "characters": 1615,
+   "citations": 0,
+   "lang": "la",
+   "language": "Latin",
+   "protection": null,
+   "readers": 6,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://la.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 1614,
+   "citations": 2,
+   "lang": "tr",
+   "language": "Turkish",
+   "protection": null,
+   "readers": 152,
+   "revid": null,
+   "title": "Abraksas",
+   "url": "https://tr.wikipedia.org/wiki/Abraksas"
+  },
+  {
+   "characters": 1550,
+   "citations": 0,
+   "lang": "hu",
+   "language": "Hungarian",
+   "protection": null,
+   "readers": 105,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://hu.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 1376,
+   "citations": 0,
+   "lang": "zh",
+   "language": "Chinese",
+   "protection": null,
+   "readers": 448,
+   "revid": null,
+   "title": "阿卜拉克薩斯",
+   "url": "https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%9C%E6%8B%89%E5%85%8B%E8%96%A9%E6%96%AF"
+  },
+  {
+   "characters": 1269,
+   "citations": 5,
+   "lang": "el",
+   "language": "Greek",
+   "protection": null,
+   "readers": 140,
+   "revid": null,
+   "title": "Αβράξας",
+   "url": "https://el.wikipedia.org/wiki/%CE%91%CE%B2%CF%81%CE%AC%CE%BE%CE%B1%CF%82"
+  },
+  {
+   "characters": 1193,
+   "citations": 0,
+   "lang": "eu",
+   "language": "Basque",
+   "protection": null,
+   "readers": 4,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://eu.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 1034,
+   "citations": 0,
+   "lang": "fa",
+   "language": "Persian",
+   "protection": null,
+   "readers": 147,
+   "revid": null,
+   "title": "ابراکساس",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D8%B1%D8%A7%DA%A9%D8%B3%D8%A7%D8%B3"
+  },
+  {
+   "characters": 945,
+   "citations": 0,
+   "lang": "sk",
+   "language": "Slovak",
+   "protection": null,
+   "readers": 17,
+   "revid": null,
+   "title": "Abraxas (mytológia)",
+   "url": "https://sk.wikipedia.org/wiki/Abraxas_(mytol%C3%B3gia)"
+  },
+  {
+   "characters": 803,
+   "citations": 0,
+   "lang": "ja",
+   "language": "Japanese",
+   "protection": null,
+   "readers": 1165,
+   "revid": null,
+   "title": "アブラクサス",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%A9%E3%82%AF%E3%82%B5%E3%82%B9"
+  },
+  {
+   "characters": 784,
+   "citations": 0,
+   "lang": "fi",
+   "language": "Finnish",
+   "protection": null,
+   "readers": 105,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://fi.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 589,
+   "citations": 0,
+   "lang": "gl",
+   "language": "Galician",
+   "protection": null,
+   "readers": 5,
+   "revid": null,
+   "title": "Abraxas",
+   "url": "https://gl.wikipedia.org/wiki/Abraxas"
+  },
+  {
+   "characters": 415,
+   "citations": 1,
+   "lang": "mk",
+   "language": "Macedonian",
+   "protection": null,
+   "readers": 13,
+   "revid": null,
+   "title": "Абраксас",
+   "url": "https://mk.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B0%D0%BA%D1%81%D0%B0%D1%81"
+  }
+ ]
+}

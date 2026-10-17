@@ -1,0 +1,328 @@
+[
+ {
+  "agent": "codex",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "14a73795-7f1f-4c1b-82eb-89ef1998a27d",
+  "langs": [
+   "en",
+   "de",
+   "fr",
+   "es",
+   "ru",
+   "zh",
+   "ar",
+   "fa",
+   "tr"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs; read-only in the Codex CLI, without network access and without sight of any other run; answered to a fixed JSON schema.",
+  "model": "gpt-6-astra",
+  "page": "wikipedia",
+  "revisions": {
+   "ar": 76835489,
+   "de": 269851832,
+   "en": 1379559220,
+   "es": 175641544,
+   "fa": 44410752,
+   "fr": 240270276,
+   "ru": 155458592,
+   "tr": 38092394,
+   "zh": 94064175
+  },
+  "summary": "The nine files share an account of Wikipedia as a collaborative encyclopedia, but differ substantially in historical detail, statistics, criticism and recent developments. Numerical differences often involve different reference dates or counting categories, although some passages give different figures for the same event or study. The versions also assign different causes to Larry Sanger's departure and give different weight and attribution to political criticism. Coverage of fundraising criticism, country restrictions, organizational editing and AI varies considerably; the much shorter Turkish article warrants particular caution when interpreting omissions. Coverage flags below include partial mentions, explained in notes, while tone is generally descriptive or mixed rather than uniformly favorable or unfavorable.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:635903cd5af68b45",
+   "output": "JSON schema, through the Codex CLI",
+   "priced": "list",
+   "quotes": {
+    "given": 230,
+    "kept": 230
+   },
+   "reasoning": "ultra",
+   "requests": 85,
+   "seconds": 1025,
+   "tokens": 176205,
+   "tokensCached": 5289728,
+   "tokensIn": 5621837,
+   "tokensOut": 81350,
+   "usd": 12.68,
+   "version": "gpt-6-astra",
+   "via": "Codex CLI"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "4d055a10-a866-49cf-828e-39c6f9421fc7",
+  "langs": [
+   "en",
+   "de",
+   "fr",
+   "es",
+   "ru",
+   "zh",
+   "ar",
+   "fa",
+   "tr"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Google), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "google/gemini-4-argon",
+  "page": "wikipedia",
+  "revisions": {
+   "ar": 76835489,
+   "de": 269851832,
+   "en": 1379559220,
+   "es": 175641544,
+   "fa": 44410752,
+   "fr": 240270276,
+   "ru": 155458592,
+   "tr": 38092394,
+   "zh": 94064175
+  },
+  "summary": "The nine language editions of the Wikipedia article vary widely in length, recency, and topical focus, ranging from comprehensive, up-to-date overviews in English and German (which include 2025 and 2026 developments such as generative AI impacts and staff unionization) to much shorter or older texts in Turkish, Arabic, and Persian. Because different editions were updated at different times, basic statistics such as total article counts (from 15 million in parts of the Arabic text to over 68 million in English and Turkish), language counts, and server locations frequently conflict. The versions also differ on early historical details, such as why Larry Sanger left the project, who first proposed the wiki model, and which non-English language edition was launched first. Coverage of controversies and political bias is highly localized: Spanish devotes an entire subsection to Argentine political disputes between Kirchnerism and Macrism, Russian highlights neo-Marxist and anti-Israel biases, French covers the 2021 Chinese Wikipedia infiltration and far-right revisionism on the Croatian edition, and German details a 2025 investigation threat by US prosecutor Ed Martin.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:8fd45eb2ec7d311e",
+   "output": "strict JSON schema",
+   "provider": "Google",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 248,
+    "kept": 202
+   },
+   "reasoning": "medium",
+   "seconds": 411,
+   "tokensIn": 137733,
+   "tokensOut": 49280,
+   "usd": 0.7683,
+   "version": "google/gemini-4-argon",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "5cee1332-e6ac-4100-83db-8d3e43582817",
+  "langs": [
+   "en",
+   "de",
+   "fr",
+   "es",
+   "ru",
+   "zh",
+   "ar",
+   "fa",
+   "tr"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by xAI), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "x-ai/grok-4.7",
+  "page": "wikipedia",
+  "revisions": {
+   "ar": 76835489,
+   "de": 269851832,
+   "en": 1379559220,
+   "es": 175641544,
+   "fa": 44410752,
+   "fr": 240270276,
+   "ru": 155458592,
+   "tr": 38092394,
+   "zh": 94064175
+  },
+  "summary": "The nine articles agree that Wikipedia is a free, volunteer-written encyclopedia that grew out of Nupedia in January 2001 and is hosted by the donation-funded Wikimedia Foundation, but they do not agree on the launch day, how many language editions exist, or several later dates. Longer versions (English, German, French, Spanish, and to a lesser extent Russian) cover governance, reliability studies, bias, and censorship; Chinese, Arabic, Persian, and Turkish are shorter, and Arabic and Persian still give much older size figures. The same disputes are framed differently: China’s block, the length of Turkey’s block, the Nature comparison with Britannica, and whether Larry Sanger is a co-founder or a later critic. Named incidents also diverge: Essjay appears only in German, Grokipedia only in Chinese, and the Seigenthaler case in English, Chinese, and Arabic. Tone toward Wikipedia itself is mostly neutral to mildly positive; editors and critics are given more cautious or critical space, especially in Russian, German, and Spanish.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:8fd45eb2ec7d311e",
+   "output": "strict JSON schema",
+   "provider": "xAI",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 212,
+    "kept": 206
+   },
+   "reasoning": "medium",
+   "seconds": 465,
+   "tokensIn": 133564,
+   "tokensOut": 45857,
+   "usd": 0.5405,
+   "version": "x-ai/grok-4.7",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "75111890-c75e-4ed7-8b7c-4441b5b4a11e",
+  "langs": [
+   "en",
+   "de",
+   "fr",
+   "es",
+   "ru",
+   "zh",
+   "ar",
+   "fa",
+   "tr"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Anthropic), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "anthropic/claude-opus-5.5",
+  "page": "wikipedia",
+  "revisions": {
+   "ar": 76835489,
+   "de": 269851832,
+   "en": 1379559220,
+   "es": 175641544,
+   "fa": 44410752,
+   "fr": 240270276,
+   "ru": 155458592,
+   "tr": 38092394,
+   "zh": 94064175
+  },
+  "summary": "The nine versions agree on the core facts: a 15 January 2001 launch as a wiki offshoot of Nupedia, Jimmy Wales and Larry Sanger as founders, and donation funding through the Wikimedia Foundation. They differ sharply in length, recency and emphasis. The English, German, French and Spanish versions are long and current to 2025–2026. The Arabic, Persian and Turkish texts are short and use older figures (Arabic cites 2009, Persian 2015), and the Chinese text is longer but its statistics mostly date from 2020–2023. Figures disagree on the launch date (Chinese gives 13 January for the site going online), the number of language editions (from 291 to 364), the details of the 2005 Nature study (40 or 42 articles, 50 experts), the length of the Turkish block (991 vs 992 days) and when China blocked the site (2004, 2005, 2015 or 2019). Framing differs most on Larry Sanger: French alone recounts Wales removing his co-founder label, Spanish attributes his 2002 exit to disagreements with Wales, and Russian reports his permanent ban citing the New York Post. Framing also differs on political bias, which English, French, Spanish and Russian present as a live accusation and German frames through a US prosecutor's 'attack on free knowledge'. AI, the Turkish block and covert editing are absent from several of the shorter versions.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:8fd45eb2ec7d311e",
+   "output": "strict JSON schema",
+   "provider": "Anthropic",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 215,
+    "kept": 215
+   },
+   "reasoning": "medium",
+   "seconds": 398,
+   "tokensIn": 244593,
+   "tokensOut": 53055,
+   "usd": 2.0395,
+   "version": "anthropic/claude-opus-5.5",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "b1cd8ba3-5e17-4e0a-8d62-1fc603a05784",
+  "langs": [
+   "en",
+   "de",
+   "fr",
+   "es",
+   "ru",
+   "zh",
+   "ar",
+   "fa",
+   "tr"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "moonshotai/kimi-k3",
+  "page": "wikipedia",
+  "revisions": {
+   "ar": 76835489,
+   "de": 269851832,
+   "en": 1379559220,
+   "es": 175641544,
+   "fa": 44410752,
+   "fr": 240270276,
+   "ru": 155458592,
+   "tr": 38092394,
+   "zh": 94064175
+  },
+  "summary": "All nine versions agree on the core story — a free, volunteer-written encyclopedia launched in January 2001 out of Nupedia, hosted by the donation-funded Wikimedia Foundation — but they diverge sharply in scale, currency and emphasis. Figures disagree almost everywhere: language editions range from 291 (fa) to 364 (ru), total articles from 35 million (fa, dated 2015) to 68 million (en, tr), and even the Turkish block is counted as 991 days in French but 992 in Turkish. The Chinese version alone gives a different launch date (13 January) and omits the political-bias debates that the English, French, Spanish, Russian and German versions all cover, while the Russian version uniquely relays Larry Sanger's claims about CIA involvement and banned right-wing sources. Several notable episodes appear in only one version: the Croatian Wikipedia takeover (fr), the Essjay scandal (de), and fundraising criticism (de). Tone ranges from celebratory (fa, de) to largely critical (tr), with most versions mixing praise for the project's scale with substantial criticism sections.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:8fd45eb2ec7d311e",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 215,
+    "kept": 212
+   },
+   "reasoning": "medium",
+   "seconds": 1217,
+   "tokensIn": 172582,
+   "tokensOut": 46162,
+   "usd": 1.2102,
+   "version": "moonshotai/kimi-k3",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "ecb8ae2f-e463-4191-8af0-7b637ce9c9b7",
+  "langs": [
+   "en",
+   "de",
+   "fr",
+   "es",
+   "ru",
+   "zh",
+   "ar",
+   "fa",
+   "tr"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "z-ai/glm-5.3",
+  "page": "wikipedia",
+  "revisions": {
+   "ar": 76835489,
+   "de": 269851832,
+   "en": 1379559220,
+   "es": 175641544,
+   "fa": 44410752,
+   "fr": 240270276,
+   "ru": 155458592,
+   "tr": 38092394,
+   "zh": 94064175
+  },
+  "summary": "The nine versions differ most on scale and currency of figures: total articles range from 15 million (Arabic, dated 2009) to over 68 million (English, 2024–2026 data), and language-edition counts range from 281 (Persian, 2015 data) to 364 (Russian). Framing diverges on disputed episodes: the Spanish fork, the Seigenthaler and Essjay incidents, the founders' dispute, and blocks in Turkey, Russia and China are covered very unevenly, with the English version notably omitting the Turkish and Russian blocks while the French, German, Russian, Persian and Turkish versions give them detail. Sanger's political-bias criticism appears only in the English and Russian versions, and with different weight. Only the Chinese version describes Grokipedia, and only a few versions (English, German, French, Russian, Chinese) treat Wikipedia's relationship with AI. Tone is broadly neutral across versions, with the German and French leaning positive toward Wikipedia, and the Spanish giving unusual room to criticism of administrators.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:8fd45eb2ec7d311e",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 243,
+    "kept": 225
+   },
+   "reasoning": "medium",
+   "seconds": 621,
+   "tokensIn": 150797,
+   "tokensOut": 43237,
+   "usd": 0.4012,
+   "version": "z-ai/glm-5.3",
+   "via": "OpenRouter"
+  }
+ }
+]

@@ -1,0 +1,324 @@
+[
+ {
+  "agent": "codex",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "3be471fc-7775-4cf3-8695-e160978b6fb1",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other run, read-only, without network access and without sight of the other run; answered to a fixed JSON schema.",
+  "model": "gpt-6-astra",
+  "page": "mosaddegh",
+  "revisions": {
+   "ar": 76014607,
+   "de": 269197684,
+   "en": 1378744044,
+   "es": 172655386,
+   "fa": 44449707,
+   "fr": 240343974,
+   "he": 43482459,
+   "ru": 154598981,
+   "tr": 38065684
+  },
+  "summary": "The nine texts share an oil-nationalisation and overthrow narrative, but give different weight to foreign intervention, constitutional conflict and domestic opposition. English and Arabic emphasize intelligence operations, while German and French devote substantial space to legal disputes and alternative explanations; Hebrew places particularly strong blame on Mosaddegh’s conduct. Dates, referendum figures, casualty counts and accounts of his sentence differ, sometimes within a version. Omissions from the short Russian, Spanish and Turkish articles carry less comparative weight than omissions from the longer accounts. A coverage value of true can indicate partial coverage, explicitly qualified in the note; tone scores describe wording and emphasis rather than historical correctness.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:04cce22c15681f6b",
+   "output": "JSON schema, through the Codex CLI",
+   "priced": "list",
+   "quotes": {
+    "given": 194,
+    "kept": 194
+   },
+   "reasoning": "ultra",
+   "requests": 66,
+   "seconds": 1105,
+   "tokens": 133503,
+   "tokensCached": 3287040,
+   "tokensIn": 3534024,
+   "tokensOut": 75263,
+   "usd": 9.52,
+   "version": "gpt-6-astra",
+   "via": "Codex CLI"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "5b87fe76-ee74-424d-8d5f-9a587ae9b933",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by xAI), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "x-ai/grok-4.7",
+  "page": "mosaddegh",
+  "revisions": {
+   "ar": 76014607,
+   "de": 269197684,
+   "en": 1378744044,
+   "es": 172655386,
+   "fa": 44449707,
+   "fr": 240343974,
+   "he": 43482459,
+   "ru": 154598981,
+   "tr": 38065684
+  },
+  "summary": "The nine versions share a core: Mosaddegh nationalised Iranian oil, clashed with Britain, held extraordinary powers, and was removed in August 1953 with United States and British involvement, then tried and held until his death in 1967. The long articles disagree on birth and death dates, referendum totals, oil-output figures, and how many died on 21 July 1952 and 19 August 1953, and they do not tell the mid-August sequence the same way. English, Persian, and Arabic centre 19 August on a foreign-planned coup and paid crowds; French also records a claim that the services had withdrawn; German reports scholarship that Western intelligence has been overstated. Russian, Spanish, and Turkish are much shorter and leave out the decree, the referendum’s mechanics, or later CIA releases. Tone toward Mosaddegh runs from strongly admiring in Persian and Spanish to sceptical in German and Hebrew; the Shah, Britain, and the CIA are generally colder, and clergy and Tudeh are often barely judged outside the long articles.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:2da06641fa3819f0",
+   "output": "strict JSON schema",
+   "provider": "xAI",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 233,
+    "kept": 232
+   },
+   "reasoning": "medium",
+   "seconds": 508,
+   "tokensIn": 94904,
+   "tokensOut": 46417,
+   "usd": 0.4666,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "5cdca96d-12dd-4ea6-8c0b-6d5b38e17ba6",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "z-ai/glm-5.3",
+  "page": "mosaddegh",
+  "revisions": {
+   "ar": 76014607,
+   "de": 269197684,
+   "en": 1378744044,
+   "es": 172655386,
+   "fa": 44449707,
+   "fr": 240343974,
+   "he": 43482459,
+   "ru": 154598981,
+   "tr": 38065684
+  },
+  "summary": "The nine versions differ sharply in length and emphasis: the Persian (fa) article is by far the longest (~91,000 characters) and the most detailed on Iranian domestic politics, clergy relations and the 25 Mordad (15-16 August) first coup attempt, while the Russian, Spanish, Turkish and Hebrew versions are very short (3,000-8,000 characters) and omit many contested points, so absences there often reflect brevity rather than editorial choice. Substantive disagreements include Mosaddegh's birth date (16 June 1882 in en/fa/de vs 19 May 1882 in es/he), his death date (5 March 1967 in most versions vs 7 March 1967 in the French running text), the date of the events (19 August vs 18 August in es), the reported referendum results (99% with 2,043,300 vs 1,300 votes in en; 99.9% with 115 'no' votes in Tehran in fa; 155,544 vs 115 in Tehran in fr/de), the number killed on 19 August (around 300 in en/ar/he/fr/de vs 41 dead and 75 wounded in fa), the execution date of Hossein Fatemi (10 November 1954 in en vs 29 October 1953 in ar), and oil-production figures. The clearest framing split is over the 1953 events themselves: en, ar, ru and fr present a CIA/MI6 coup (Operation Ajax), fa stresses that the imperial army carried it out with clergy support, he and tr present it as a coup by Mosaddegh's opponents with alleged American backing, and de alone includes the revisionist view (Takeyh) that the Western intelligence role has been overstated. Only the German version engages revisionist scholarship; only fa reports Mosaddegh's own later view blaming Britain rather than the United States.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:2da06641fa3819f0",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 243,
+    "kept": 209
+   },
+   "reasoning": "medium",
+   "seconds": 117,
+   "tokensIn": 111228,
+   "tokensOut": 40075,
+   "usd": 0.4981,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "claude-code",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "94f68bca-a0a3-4930-8581-51ac64f4a6dc",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Read on 15 October 2026 from each version's plain text: opening sections in full, then each contested fact searched for in every language and its sentences read; tone judged from the lead and the passages found, for Mosaddegh, the Shah and the US/CIA. Quotes taken from the files by anchor phrases, so they are exact. Without sight of the other run.",
+  "model": "claude-opus-5-5",
+  "page": "mosaddegh",
+  "revisions": {
+   "ar": 76014607,
+   "de": 269197684,
+   "en": 1378744044,
+   "es": 172655386,
+   "fa": 44449707,
+   "fr": 240343974,
+   "he": 43482459,
+   "ru": 154598981,
+   "tr": 38065684
+  },
+  "summary": "Mosaddegh's article is warmest in Persian and Turkish and most critical in German, which calls his 1952 powers an 'Ermächtigungsgesetz' (enabling act) and reports that former allies saw it as a breach of the constitution. Arabic is the only version to call the 1953 referendum rigged in its opening lines; Hebrew calls its results clearly skewed, while Persian presents it as Iran's first referendum and Russian, Spanish and Turkish leave it out. Who removed him differs: the CIA and MI6 in Arabic and Spanish, the Shah with their help in Hebrew and French. Only German mentions a historian (Takeyh) who disputes the usual account.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:04cce22c15681f6b",
+   "output": "JSON written to the schema",
+   "priced": "list",
+   "quotes": {
+    "given": 75,
+    "kept": 75
+   },
+   "requests": 9,
+   "tokensCached": 2464710,
+   "tokensIn": 2499996,
+   "tokensOut": 14474,
+   "toolCalls": 11,
+   "usd": 1.06,
+   "version": "claude-opus-5-5",
+   "via": "Claude Code"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "c9075f8a-56cc-4bdd-8d8b-346688f1d85f",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Google), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "google/gemini-4-argon",
+  "page": "mosaddegh",
+  "revisions": {
+   "ar": 76014607,
+   "de": 269197684,
+   "en": 1378744044,
+   "es": 172655386,
+   "fa": 44449707,
+   "fr": 240343974,
+   "he": 43482459,
+   "ru": 154598981,
+   "tr": 38065684
+  },
+  "summary": "The nine Wikipedia language versions of the article on Mohammad Mosaddegh vary greatly in length, detail, and historical framing, ranging from brief summaries in Russian, Spanish, and Turkish to comprehensive biographies in Persian, French, and German. While all versions cover the 1951 oil nationalization and the August 1953 overthrow involving the CIA and MI6, they differ on key factual details such as Mosaddegh's birth date, whether he obtained Swiss citizenship, the number of casualties during the August 1953 events, and whether he was initially sentenced to death before his sentence was commuted to three years in prison. The longer versions (Persian, French, and German) dedicate substantial space to constitutional debates over the August 1953 referendum and the Shah's dismissal decree, as well as the turning of former National Front allies and Shia clergy against Mosaddegh. In contrast, the English, Russian, and Spanish versions emphasize Western intelligence orchestration and social reforms, while the German version uniquely incorporates extensive critical sections questioning Mosaddegh's democratic credentials and citing revisionist historiography.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:2da06641fa3819f0",
+   "output": "strict JSON schema",
+   "provider": "Google",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 238,
+    "kept": 193
+   },
+   "reasoning": "medium",
+   "seconds": 321,
+   "tokensIn": 97522,
+   "tokensOut": 47599,
+   "usd": 0.671,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "d6d23309-2a16-497d-8a45-c8a3a4e5c08d",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "moonshotai/kimi-k3",
+  "page": "mosaddegh",
+  "revisions": {
+   "ar": 76014607,
+   "de": 269197684,
+   "en": 1378744044,
+   "es": 172655386,
+   "fa": 44449707,
+   "fr": 240343974,
+   "he": 43482459,
+   "ru": 154598981,
+   "tr": 38065684
+  },
+  "summary": "All nine versions agree on the core story: Mosaddegh nationalised the Anglo-Iranian Oil Company, was overthrown in August 1953, and was imprisoned and then held under house arrest until his death in 1967. They diverge sharply in scale and emphasis: the Persian and French versions are long, detailed narratives, while Russian, Spanish and Turkish are very short and leave out most contested episodes (the referendum, the failed first coup attempt, the farman). Points of factual disagreement include the death toll of 19 August (41 in the Persian version versus roughly 200–300 in English, Arabic, French, German and Hebrew), the trial outcome (a death sentence commuted to three years in Arabic, French and German versus a direct three-year sentence in English, Persian, Hebrew, Russian and Spanish), and the date of Hossein Fatemi's execution. Framing differs most on the crowds of 19 August (paid mobs versus popular royalist rising), on whether the Tudeh party remained Mosaddegh's main support or abandoned him, and on the farman's legality, with French and German versions giving room to the constitutional case for the Shah's right of dismissal and German, French and Persian versions including revisionist scholarship that downplays the CIA's decisive role. Tone ranges from strongly sympathetic to Mosaddegh (Persian, Spanish, Russian) through balanced-critical (German) to noticeably cool or negative (Hebrew).",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:2da06641fa3819f0",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 218,
+    "kept": 214
+   },
+   "reasoning": "medium",
+   "seconds": 259,
+   "tokensIn": 122689,
+   "tokensOut": 33169,
+   "usd": 1.2984,
+   "via": "OpenRouter"
+  }
+ }
+]

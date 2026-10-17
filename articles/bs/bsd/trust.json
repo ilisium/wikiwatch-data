@@ -1,0 +1,125 @@
+{
+ "versions": [
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1378938247&oldid=1378653582",
+       "kind": "diff",
+       "text": "2026-10-07, FireflySentinel, 1 references: /* Current status */"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 5,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ja",
+   "language": "Japanese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "zh",
+   "language": "Chinese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "pt",
+   "language": "Portuguese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "it",
+   "language": "Italian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "pl",
+   "language": "Polish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "nl",
+   "language": "Dutch",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "sv",
+   "language": "Swedish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  }
+ ]
+}

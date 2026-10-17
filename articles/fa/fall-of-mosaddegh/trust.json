@@ -1,0 +1,203 @@
+{
+ "versions": [
+  {
+   "historyRead": false,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "Am 3. August 1952 verabschiedete das iranische Parlament ein Ermächtigungsgesetz, nach dem alle von Mossadegh unterzeichneten Gesetzesentwürfe unmittelbar Rechtskraft erlangten, auch wenn sie vom Parlament und Senat noch nicht diskutiert und verabschiedet und vom Schah unterschrieben waren."
+      },
+      {
+       "kind": "quote",
+       "text": "Tatsächlich nutzte Mossadegh diese Möglichkeit, das Parlament, den Senat und den Schah aus dem Gesetzgebungsprozess auszuschalten"
+      }
+     ],
+     "group": "tone",
+     "points": 12,
+     "text": "Portrays Mosaddegh more harshly than the other versions (-0.8 against a median of 0.8, on a scale of −2 to +2, read alike by 6 runs)."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "Die genauen Abläufe sind inzwischen weitgehend geklärt, da zahlreiche, ursprünglich in den USA geheim gehaltene Dokumente seit 2013 zugänglich sind."
+      },
+      {
+       "kind": "quote",
+       "text": "Jahrzehntelang bestritten die Vereinigten Staaten und Großbritannien eine Beteiligung am Sturz Mossadeghs."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays the US and CIA less harshly than the other versions (-0.5 against a median of -1.5, on a scale of −2 to +2, read alike by 6 runs)."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "der von Schah Mohammed Reza Pahlavi verfassungsmäßig ernannte und vom Parlament bestätigte Premierminister"
+      },
+      {
+       "kind": "quote",
+       "text": "Doch der lehnte dies ab, so lange der Premierminister das Vertrauen der Mehrheit der Abgeordneten des Parlaments hatte."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays the Shah less harshly than the other versions (0.0 against a median of -1.0, on a scale of −2 to +2, read alike by 5 runs)."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Mosaddegh's trial, prison and house arrest, which 6 of the 6 other full versions give."
+    }
+   ],
+   "score": 30,
+   "tier": "watch"
+  },
+  {
+   "historyRead": false,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "Так премьер лишил себя наиболее влиятельных сторонников."
+      },
+      {
+       "kind": "quote",
+       "text": "Так премьер лишил себя наиболее влиятельных сторонников."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays the Tudeh party more favourably than the other versions (0.4 against a median of -1.0, on a scale of −2 to +2, read alike by 5 runs)."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out how many were killed on 19 August, which 6 of the 6 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out the referendum of August 1953 that dissolved parliament, which 6 of the 6 other full versions give."
+    }
+   ],
+   "score": 18,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "Le référendum est gagné à plus de 99 % des voix ce qui le déligitime."
+      },
+      {
+       "kind": "quote",
+       "text": "Mossadegh, entraînant le pays dans la crise par son intransigeance, commençant à perdre son aura"
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays Mosaddegh more harshly than the other versions (-0.3 against a median of 0.8, on a scale of −2 to +2, read alike by 6 runs)."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "ce dernier, qui sait qu’il possède un réel pouvoir populaire, reste dans la capitale"
+      },
+      {
+       "kind": "quote",
+       "text": "Néanmoins, le chah traita généralement ses opposants de manière relativement douce par rapport à la plupart des chefs autocratiques."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays the Shah more favourably than the other versions (0.4 against a median of -1.0, on a scale of −2 to +2, read alike by 5 runs)."
+    }
+   ],
+   "score": 12,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out historians who dispute that the CIA decided the outcome, which 6 of the 6 other full versions give."
+    }
+   ],
+   "score": 6,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "he",
+   "language": "Hebrew",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "tr",
+   "language": "Turkish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  }
+ ]
+}

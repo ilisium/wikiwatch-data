@@ -1,0 +1,208 @@
+[
+ {
+  "agent": "claude-code",
+  "answers": [
+   {
+    "note": "Does not mention the August 1953 referendum or the dissolution of parliament, as the Russian, Spanish and Turkish versions also do not.",
+    "point": "54d108a2-ee2d-4a1f-8c37-8f9eb108179f",
+    "question": "How does the article describe Mosaddegh's referendum of August 1953?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as Arabic, Spanish and Russian: the US and UK organised the coup (it names the states, not the CIA and MI6). Like Persian, it has Iranians, his opponents, carry it out. It does not say 'aided by' (English) or that the Shah dismissed him (Hebrew, French).",
+    "point": "f2a4711f-81f6-4b36-80e8-edcfd62e4e0d",
+    "question": "Who removed Mosaddegh from office?",
+    "quote": "Mosaddegh’s opponents overthrew his regime and restored the shah to power in a coup orchestrated by the United States and the United Kingdom",
+    "says": "same"
+   },
+   {
+    "note": "Neither 'democratically elected' (Russian, Spanish) nor elected by the 16th Majlis (English): the shah was virtually forced to appoint him after the Majles passed his oil act. It says he was elected to the Majles in 1923 and again in 1944.",
+    "point": "540a42a4-f313-4c6a-868d-f9e18bba9a3f",
+    "question": "Was Mosaddegh 'democratically elected'?",
+    "quote": "his power had grown so great that the shah, Mohammad Reza Shah Pahlavi, was virtually forced to appoint him premier",
+    "says": "different"
+   },
+   {
+    "note": "Says the coup restored the shah to power and, as English also does, describes the 1954 oil agreement. It uses neither 'monarchical dictatorship' (Spanish) nor English's 'undemocratically manipulated' 1954 election, and does not characterise the regime.",
+    "point": "88d856a2-82e2-45f6-8cf8-3521212fce78",
+    "question": "What did Iran become after his fall?",
+    "quote": "under an agreement reached in 1954, it split revenues 50–50 with an international consortium that controlled production and marketing",
+    "says": "different"
+   },
+   {
+    "note": "Names no historians and gives no other account of his fall; it calls the coup 'infamously orchestrated' by the US and UK. Takeyh (German) and Bomati and Nahavandi (French) do not appear.",
+    "point": "cd0bca35-ff56-45f1-82af-7cbc6baaabaf",
+    "question": "Does the article mention historians who dispute the usual account of his fall?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the powers parliament gave him in 1952, as the Russian, Spanish and Turkish versions also do not.",
+    "point": "51a59558-cfaa-4692-888d-a76bb725ca2a",
+    "question": "How does the article describe the powers parliament gave him in 1952?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Gives no day: the shah left in August 1953 and 'within a few days' Mosaddegh's opponents overthrew him. It neither confirms nor contradicts 18, 19 or 22 August.",
+    "point": "b2ff3056-6b64-46d0-8cca-9114b78703c0",
+    "question": "On which date did the overthrow occur?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention his surrender or arrest; it goes from the coup to his sentence.",
+    "point": "782f2d18-ea0e-4f1a-88e2-63b9ec5b7f12",
+    "question": "When did Mosaddegh surrender?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Says the shah 'attempted to dismiss the premier' in August 1953 but gives no legal basis for it: no decrees, no constitution, no word on the dissolved parliament.",
+    "point": "240e9836-1e7e-4425-8e18-0a93c6237012",
+    "question": "How is the constitutional authority behind the Shah’s dismissal presented?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Mentions only the 'mobs of Mosaddegh followers' who forced the shah out. It does not describe the crowds of the coup itself, who mobilised them or whether they were paid; it does call the coup orchestrated by the US and UK.",
+    "point": "2b9cbbc2-1b9d-472a-8c75-4c402db7af7b",
+    "question": "Who mobilised the crowds, and how much responsibility is assigned to foreign organisers?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Gives no casualty figures for the overthrow, as the Russian, Spanish and Turkish versions also do not.",
+    "point": "cf9222cf-53cb-49dd-869d-c56ae2c78da6",
+    "question": "How many deaths and injuries are reported in the overthrow?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as Hebrew: three years for treason, with no death sentence requested or commuted (Arabic, German, French, English, Spanish) and no acquittal on capital charges (Persian). It gives no date.",
+    "point": "b00a95e4-d032-4ca4-8e9f-cdd2031b97ac",
+    "question": "Was Mosaddegh sentenced directly to imprisonment, acquitted of capital charges, or sentenced to death and reprieved?",
+    "quote": "Mosaddegh was sentenced to three years’ imprisonment for treason",
+    "says": "same"
+   },
+   {
+    "note": "Same as English: March 1951, credited to Mosaddegh ('his' act). It has the Majles pass it before the shah appointed him premier, the order German gives (under Ala), and gives neither 20 March (Spanish) nor 1 May (Arabic).",
+    "point": "f29b6b03-bbc7-49b3-8ee4-d2e718da0ec8",
+    "question": "When was oil nationalisation enacted, and who receives credit for the legislative step?",
+    "quote": "In March 1951 the Majles passed his oil-nationalization act",
+    "says": "same"
+   },
+   {
+    "note": "Does not mention the July 1952 demonstrations.",
+    "point": "71257577-9a7c-4cdc-8001-21b2c8182834",
+    "question": "What casualty figures are given for the July 1952 demonstrations?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Mentions no CIA documents or official acknowledgement, as German, Russian and Spanish also do not; its first paragraph calls the coup 'infamously orchestrated by the United States and the United Kingdom'.",
+    "point": "c42d341e-3cc1-42d2-8030-7940e41a4030",
+    "question": "Does the article discuss subsequently disclosed CIA documents or official acknowledgement?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Gives the year 1880 with no day, and 'aged 87' at death. No version gives 1880 alone: German gives 1880 or 16 June 1882, Persian notes an ID-card date in 1879, and the rest give 1882 (16 June or 19 May).",
+    "point": "0b9b4c9d-4d5c-4bd3-8abe-d118ebbdf68b",
+    "question": "On what date was Mosaddegh born?",
+    "quote": "Mohammad Mosaddegh (born 1880, Tehran, Iran—died March 5, 1967, Tehran)",
+    "says": "different"
+   },
+   {
+    "note": "Does not mention Hossein Fatemi.",
+    "point": "1bbc2bd5-b83f-4356-8d0c-f224eeef9e0c",
+    "question": "When was Mosaddegh's foreign minister Hossein Fatemi executed?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Same as English, Persian, German, Russian and Spanish: 5 March 1967. It places the death in Tehran, and its fact box adds 'aged 87'.",
+    "point": "abc8cb2a-5852-4331-8fc3-14fc45ce4273",
+    "question": "When did Mosaddegh die?",
+    "quote": "died March 5, 1967, Tehran",
+    "says": "same"
+   },
+   {
+    "note": "Does not mention the clergy, Kashani or Behbahani. It says he 'alienated many supporters, particularly among the ruling elite and in the Western nations'.",
+    "point": "91fdd9e8-4f51-4337-8096-915801f34d42",
+    "question": "What role is given to the clergy (Kashani, Behbahani) in Mosaddegh's fall?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not report Mosaddegh's own view of who was behind his overthrow.",
+    "point": "a811a16b-0040-4bb2-8f81-5f6851715f11",
+    "question": "What does the version say about Mosaddegh's own later view of who was behind his overthrow?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Gives no production figures; it says the British withdrew from the Iranian oil market and Mosaddegh 'could not readily find alternate oil markets'.",
+    "point": "5ca1ea33-f841-4673-8491-c5f7e15003e5",
+    "question": "What oil production figures are given for the crisis after nationalisation?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the Tudeh party.",
+    "point": "f5707dfe-a9d6-4a3c-8b66-457e11747396",
+    "question": "What was the Tudeh party's position toward Mosaddegh at the end of his government?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Tells of the shah's flight but not of a failed coup attempt, Baghdad or Rome: the shah tried to dismiss the premier and pro-Mosaddegh mobs forced him out. The point's summary describes the Turkish version framing the flight the same way.",
+    "point": "1114a373-5848-4803-8174-0abbb5f4db7e",
+    "question": "Is there mention of a failed first coup attempt on 15/16 August and the Shah's flight?",
+    "quote": "In August 1953, when the shah attempted to dismiss the premier, mobs of Mosaddegh followers took to the streets and forced the shah to leave the country.",
+    "says": "different"
+   },
+   {
+    "note": "Same as Turkish: the University of Lausanne, where the point's summary has English, Persian, Arabic, French, German and Russian name Neuchâtel. It does not mention Swiss citizenship.",
+    "point": "88e0af3e-4876-49b9-8c21-76d9334d6251",
+    "question": "At which university did Mosaddegh earn his doctorate, and did he acquire Swiss citizenship?",
+    "quote": "He received a Doctor of Law degree from the University of Lausanne in Switzerland",
+    "says": "same"
+   },
+   {
+    "note": "Does not mention the 1952 elections or their halting.",
+    "point": "f400a189-1b53-4756-8c48-107f4693a3d8",
+    "question": "Why did Mosaddegh halt the 1952 parliamentary (17th Majlis) elections before all seats were filled?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention a strike-ban law, which only French and German describe.",
+    "point": "bde81e9e-3e51-4d89-8055-4f13822da739",
+    "question": "Did Mosaddegh pass a strike-ban law in October 1952 that reversed the presumption of innocence and led to building ten new prisons?",
+    "quote": "",
+    "says": "silent"
+   },
+   {
+    "note": "Does not mention the dissolution of parliament, before or after the failed attempt.",
+    "point": "b2866384-4e0e-455d-8344-120f19f33ff9",
+    "question": "Did Mosaddegh dissolve parliament before or after the failed mid-August attempt?",
+    "quote": "",
+    "says": "silent"
+   }
+  ],
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-17T01:00:00.000Z",
+  "id": "47c42b1c-32e3-4fdc-b6b8-300b12744faf",
+  "model": "claude-opus-5-5",
+  "name": "Encyclopædia Britannica",
+  "page": "mosaddegh",
+  "source": "P1417",
+  "summary": "Britannica's short entry is silent on 18 of the 27 points, gives the same answer as one group of versions on 5 and a different answer on 4. Where it speaks it follows no single language: the coup was 'orchestrated by the United States and the United Kingdom' (as Arabic, Spanish and Russian put it), the sentence was three years for treason with no death sentence (as Hebrew), and the doctorate was from Lausanne (as Turkish alone). It gives his birth year as 1880, which no version gives on its own, and says the shah was 'virtually forced to appoint him premier' rather than that he was elected.",
+  "url": "https://web.archive.org/web/20261006224502/https://www.britannica.com/biography/Mohammad-Mosaddegh"
+ }
+]

@@ -1,0 +1,328 @@
+[
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "0ed7eeb0-1716-458e-8baf-399e878ea707",
+  "langs": [
+   "en",
+   "fr",
+   "de",
+   "es",
+   "ru",
+   "ar",
+   "zh",
+   "pt",
+   "he"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Google), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "google/gemini-4-argon",
+  "page": "epstein",
+  "revisions": {
+   "ar": 76785000,
+   "de": 271327575,
+   "en": 1378695289,
+   "es": 175789352,
+   "fr": 239801419,
+   "he": 43986576,
+   "pt": 73217846,
+   "ru": 155633349,
+   "zh": 94064327
+  },
+  "summary": "Across the nine language versions of the Jeffrey Epstein Wikipedia article, there is substantial variation in length, factual detail, and how contested claims are framed. The English, Spanish, and Portuguese versions are the most extensive (around 80,000 characters), while the Chinese and Hebrew versions are much shorter (under 10,000 characters) and omit several major developments, such as Ghislaine Maxwell's conviction in Hebrew and French. The versions disagree on specific dates and numbers, including when Epstein founded J. Epstein & Co. (1981, 1982, 1987, or 1988), how much he paid Leslie Wexner for his Manhattan townhouse ($0, $10, or $20 million), and the total number of victims (ranging from 36 identified by investigators to over 1,000 estimated in Spanish, Russian, and Arabic). Furthermore, while English incorporates 2025–2026 FBI memos and court rulings that cast doubt on allegations of a broader client blackmail ring and forced pregnancies, other versions like French, Spanish, Russian, and Arabic present blackmail operations, intelligence ties, or fathered children as established or plausible facts.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:832e5dabcd58a212",
+   "output": "strict JSON schema",
+   "provider": "Google",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 235,
+    "kept": 234
+   },
+   "reasoning": "medium",
+   "seconds": 394,
+   "tokensIn": 115730,
+   "tokensOut": 43849,
+   "usd": 0.67,
+   "version": "google/gemini-4-argon",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "18c694a9-505c-4fd5-8964-d39dee5000e5",
+  "langs": [
+   "en",
+   "fr",
+   "de",
+   "es",
+   "ru",
+   "ar",
+   "zh",
+   "pt",
+   "he"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "z-ai/glm-5.3",
+  "page": "epstein",
+  "revisions": {
+   "ar": 76785000,
+   "de": 271327575,
+   "en": 1378695289,
+   "es": 175789352,
+   "fr": 239801419,
+   "he": 43986576,
+   "pt": 73217846,
+   "ru": 155633349,
+   "zh": 94064327
+  },
+  "summary": "The nine versions differ sharply in length and emphasis: English, Spanish, German and Portuguese are long and detailed, while Hebrew, Chinese and French are much shorter and omit whole areas such as the Prince Andrew settlement, the Maxwell trial or the Miami Herald reporting. Recurring substantive differences include the number of victims (36 in most versions against 'over 100' or 'up to 1000' in Spanish, and 34 in German), the value of Epstein's estate, the length of his daily work release, and the cause of his 2008 leniency, which several versions tie to an alleged 'intelligence' remark by Acosta while English presents prosecutorial doubts about the witnesses. Framing of his death also varies: Russian, Arabic and Chinese foreground the disputed or 'undetermined' character of the suicide ruling, while English and German present the official ruling with the doubts recorded but contained. Tone towards Epstein is strongly negative everywhere; tone towards the 2008 prosecutors is most negative in Spanish, Russian, Arabic and Hebrew.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:832e5dabcd58a212",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 206,
+    "kept": 203
+   },
+   "reasoning": "medium",
+   "seconds": 515,
+   "tokensIn": 123843,
+   "tokensOut": 38022,
+   "usd": 0.3407,
+   "version": "z-ai/glm-5.3",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "33a4589b-b6fb-46ac-8db4-ac25b4721959",
+  "langs": [
+   "en",
+   "fr",
+   "de",
+   "es",
+   "ru",
+   "ar",
+   "zh",
+   "pt",
+   "he"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by xAI), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "x-ai/grok-4.7",
+  "page": "epstein",
+  "revisions": {
+   "ar": 76785000,
+   "de": 271327575,
+   "en": 1378695289,
+   "es": 175789352,
+   "fr": 239801419,
+   "he": 43986576,
+   "pt": 73217846,
+   "ru": 155633349,
+   "zh": 94064327
+  },
+  "summary": "The nine versions share a core timeline: a 1953 Brooklyn birth, Dalton and Bear Stearns, money management tied to Leslie Wexner, a 2008 Florida plea, a 6 July 2019 federal arrest, and death in a New York jail on 10 August 2019. They diverge on labels, on figures for work release, the Palm Beach inquiry, victims, the estate, and a gap in jail video, and on whether 2026 files support children. French and Hebrew state suicide in the opening; longer versions report a medical examiner's suicide ruling beside guard failures, camera problems, and a pathologist's dissent. Maxwell's sentence, Prince Andrew's settlement, intelligence claims, and an official finding on a client list appear in some versions and not others. Where those actors are discussed, Epstein, Maxwell, and the 2008 prosecutors are described in negative terms; victims and later investigators are given more sympathetic room, and prominent associates are usually named with qualifications.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:832e5dabcd58a212",
+   "output": "strict JSON schema",
+   "provider": "xAI",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 269,
+    "kept": 265
+   },
+   "reasoning": "medium",
+   "seconds": 380,
+   "tokensIn": 111520,
+   "tokensOut": 40391,
+   "usd": 0.4637,
+   "version": "x-ai/grok-4.7",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "403b6379-4874-46f8-8d0f-2eb969d62385",
+  "langs": [
+   "en",
+   "fr",
+   "de",
+   "es",
+   "ru",
+   "ar",
+   "zh",
+   "pt",
+   "he"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "moonshotai/kimi-k3",
+  "page": "epstein",
+  "revisions": {
+   "ar": 76785000,
+   "de": 271327575,
+   "en": 1378695289,
+   "es": 175789352,
+   "fr": 239801419,
+   "he": 43986576,
+   "pt": 73217846,
+   "ru": 155633349,
+   "zh": 94064327
+  },
+  "summary": "The nine versions share the same spine—financier turned convicted sex offender, 2008 plea, 2019 arrest, jail death ruled suicide—but diverge sharply in scale, emphasis and aftermath. English, Spanish and Portuguese are long and document-heavy; German is also expansive and adds intelligence and finance detail; French is mid-length and more biographical; Russian and Arabic foreground the 1,000-victim estimate and the edited 2025 video; Chinese and Hebrew are much shorter and cannot be expected to cover every contested point. Victim counts range from 34–36 identified girls in the 2005–2008 investigation to roughly 80 located by the Miami Herald and an FBI estimate of up to 1,000 in some versions. Treatment of the death is broadly similar in ruling but differs in how much space is given to Baden, sleeping guards, malfunctioning cameras and the missing minutes in the 2025 release. Later file releases, the ‘client list’ dispute, intelligence claims and named associates are covered unevenly, with English/German/Spanish/Portuguese carrying most 2025–2026 material.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:832e5dabcd58a212",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 255,
+    "kept": 251
+   },
+   "reasoning": "medium",
+   "seconds": 452,
+   "tokensIn": 137826,
+   "tokensOut": 17369,
+   "usd": 0.674,
+   "version": "moonshotai/kimi-k3",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "codex",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "8d1b75c2-c8a2-4dda-80ea-7fca8e91ddce",
+  "langs": [
+   "en",
+   "fr",
+   "de",
+   "es",
+   "ru",
+   "ar",
+   "zh",
+   "pt",
+   "he"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs; read-only in the Codex CLI, without network access and without sight of any other run; answered to a fixed JSON schema.",
+  "model": "gpt-6-astra",
+  "page": "epstein",
+  "revisions": {
+   "ar": 76785000,
+   "de": 271327575,
+   "en": 1378695289,
+   "es": 175789352,
+   "fr": 239801419,
+   "he": 43986576,
+   "pt": 73217846,
+   "ru": 155633349,
+   "zh": 94064327
+  },
+  "summary": "The nine texts share the main conviction, arrest and death chronology, but differ on several dates, ages, numerical details and explanations. Some describe abuse involving Epstein’s associates directly, while English gives substantial space to investigative findings that questioned particular allegations. Coverage of Maxwell’s sentence, Andrew’s settlement and the official client-list finding varies considerably, including among the longer articles. French, Russian and Arabic use especially strong opening descriptions, while assessments of the 2008 prosecutors are generally critical and portrayals of later investigators are more mixed. The comparisons below concern only the supplied texts; partial coverage is identified explicitly, and omissions in the shorter Hebrew and Chinese versions receive proportionate caution.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:91ad3e9e4a2a7b5d",
+   "output": "JSON schema, through the Codex CLI",
+   "priced": "list",
+   "quotes": {
+    "given": 221,
+    "kept": 221
+   },
+   "reasoning": "ultra",
+   "requests": 98,
+   "seconds": 1140,
+   "tokens": 175393,
+   "tokensCached": 5592320,
+   "tokensIn": 5897352,
+   "tokensOut": 99231,
+   "usd": 13.6,
+   "version": "gpt-6-astra",
+   "via": "Codex CLI"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T22:00:00.000Z",
+  "finishedAt": "2026-10-15T22:00:00.000Z",
+  "id": "feec9eb1-3883-49b3-8810-2b64be849e9b",
+  "langs": [
+   "en",
+   "fr",
+   "de",
+   "es",
+   "ru",
+   "ar",
+   "zh",
+   "pt",
+   "he"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Anthropic), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "anthropic/claude-opus-5.5",
+  "page": "epstein",
+  "revisions": {
+   "ar": 76785000,
+   "de": 271327575,
+   "en": 1378695289,
+   "es": 175789352,
+   "fr": 239801419,
+   "he": 43986576,
+   "pt": 73217846,
+   "ru": 155633349,
+   "zh": 94064327
+  },
+  "summary": "The nine versions differ widely in length. English, Spanish, Portuguese, German and Arabic are detailed. Russian is mid-length. French, Chinese and Hebrew are short and leave out many later developments. The largest substantive divergences are in the victim count, the age of the girl in the 2008 conviction, the reason for his early release, the hours of work release, the length of the police probe and who hired pathologist Michael Baden. Framing also diverges on Acosta's alleged 'belonged to intelligence' remark: English and German record it as anonymous and denied, while Spanish, Portuguese and Arabic present it as something Acosta said, and Arabic specifies American intelligence. The versions also disagree on whether a 'client list' exists and on whether Epstein was a billionaire or a millionaire. Several versions omit Maxwell's conviction or sentence and the 2022 Prince Andrew settlement; only German and Spanish mention that settlement. English gives the most room to official findings that cut against some accusers' claims, while Spanish frames associates and institutions most heavily as complicit.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:832e5dabcd58a212",
+   "output": "strict JSON schema",
+   "provider": "Anthropic",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 230,
+    "kept": 229
+   },
+   "reasoning": "medium",
+   "seconds": 613,
+   "tokensIn": 195679,
+   "tokensOut": 55552,
+   "usd": 1.8938,
+   "version": "anthropic/claude-opus-5.5",
+   "via": "OpenRouter"
+  }
+ }
+]

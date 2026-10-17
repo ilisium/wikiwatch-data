@@ -1,0 +1,183 @@
+{
+ "versions": [
+  {
+   "historyRead": true,
+   "lang": "he",
+   "language": "Hebrew",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "מוסאדק הבין כי זיוף תוצאות משאל העם לא יספיק כדי שהוא יישאר בשלטון."
+      },
+      {
+       "kind": "quote",
+       "text": "מוסאדק היה ידוע כאדם תיאטרלי. בציבור נהג לבכות, להתעלף, ואף לישון באירועים פומביים."
+      }
+     ],
+     "group": "tone",
+     "points": 12,
+     "text": "Portrays Mosaddegh more harshly than the other versions (-0.7 against a median of 1.0, on a scale of −2 to +2, read alike by 6 runs)."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "מוסאדק לא הכיר בפיטורין, והכריח את השאה לצאת לגלות, תחילה לבגדאד ומשם לרומא."
+      },
+      {
+       "kind": "quote",
+       "text": "השאה הצעיר מוחמד רזא פהלווי, אשר היה מודע לפופולריות של מוסאדק ולכוחו הפוליטי, נאלץ לתת את הסכמתו למינוי."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays the Shah less harshly than the other versions (0.0 against a median of -1.0, on a scale of −2 to +2, read alike by 6 runs)."
+    }
+   ],
+   "score": 18,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=234087737&oldid=234087560",
+       "kind": "diff",
+       "text": "2026-03-14, RSVartanian, 18 references: Simplification refs"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 18 references."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "Les années passent et, de façon surprenante, le Chah continuera à envoyer un dignitaire de la Cour pour prendre, occasionnellement, de ses nouvelles."
+      },
+      {
+       "kind": "quote",
+       "text": "Le Chah s'indigne et fait savoir à l'ambassadeur britannique que si la moindre action militaire est tentée sur le sol iranien, il enverra l'armée et prendra personnellement la tête de ses troupes."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays the Shah less harshly than the other versions (0.0 against a median of -1.0, on a scale of −2 to +2, read alike by 5 runs)."
+    }
+   ],
+   "score": 14,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "Er drohte den Abgeordneten mit einer Auflösung des Parlaments, obwohl er als Premierminister nicht die verfassungsmäßigen Rechte zur Parlamentsauflösung hatte."
+      },
+      {
+       "kind": "quote",
+       "text": "trat Mohammad Mossadegh als Gegner der parlamentarischen Bewegung in Erscheinung."
+      }
+     ],
+     "group": "tone",
+     "points": 12,
+     "text": "Portrays Mosaddegh more harshly than the other versions (-0.5 against a median of 1.0, on a scale of −2 to +2, read alike by 6 runs)."
+    }
+   ],
+   "score": 12,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out historians who dispute that the CIA decided the outcome, which 4 of the 4 other full versions give."
+    }
+   ],
+   "score": 6,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "quote",
+       "text": "از او نه تنها در ایران، بلکه در کشورهای جهان سوم هم به عنوان کسی که شجاعانه و با سرسختی تحسین‌برانگیزی مقابل استعمار بریتانیا ایستاد، نام می‌برند."
+      },
+      {
+       "kind": "quote",
+       "text": "او پادشاهی پهلوی را مخلوق سیاست بریتانیا می‌دانست."
+      }
+     ],
+     "group": "tone",
+     "points": 6,
+     "text": "Portrays Britain more harshly than the other versions (-2.0 against a median of -1.0, on a scale of −2 to +2, read alike by 5 runs)."
+    }
+   ],
+   "score": 6,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "tr",
+   "language": "Turkish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  }
+ ]
+}

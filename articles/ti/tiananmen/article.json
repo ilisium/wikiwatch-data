@@ -1,0 +1,977 @@
+{
+ "asked": "Tiananmen Square, 1989",
+ "description": "Chinese pro-democracy movement and subsequent massacre",
+ "id": "tiananmen",
+ "missing": [
+  {
+   "lang": "sw",
+   "language": "Swahili"
+  }
+ ],
+ "qid": "Q99717",
+ "title": "1989 Tiananmen Square protests and massacre",
+ "versions": [
+  {
+   "characters": 254161,
+   "citations": 552,
+   "lang": "en",
+   "language": "English",
+   "protection": {
+    "edit": {
+     "expiry": "infinity",
+     "level": "autoconfirmed"
+    },
+    "move": {
+     "expiry": "infinity",
+     "level": "autoconfirmed"
+    }
+   },
+   "readers": 96077,
+   "revid": null,
+   "title": "1989 Tiananmen Square protests and massacre",
+   "url": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre"
+  },
+  {
+   "characters": 219054,
+   "citations": 499,
+   "lang": "th",
+   "language": "Thai",
+   "protection": null,
+   "readers": 489,
+   "revid": null,
+   "title": "การประท้วงที่จัตุรัสเทียนอันเหมิน พ.ศ. 2532",
+   "url": "https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B9%89%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B1%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99_%E0%B8%9E.%E0%B8%A8._2532"
+  },
+  {
+   "characters": 203554,
+   "citations": 462,
+   "lang": "es",
+   "language": "Spanish",
+   "protection": null,
+   "readers": 5293,
+   "revid": null,
+   "title": "Protestas y masacre de la plaza de Tiananmén de 1989",
+   "url": "https://es.wikipedia.org/wiki/Protestas_y_masacre_de_la_plaza_de_Tiananm%C3%A9n_de_1989"
+  },
+  {
+   "characters": 179872,
+   "citations": 560,
+   "lang": "zh",
+   "language": "Chinese",
+   "protection": {
+    "edit": {
+     "expiry": "infinity",
+     "level": "autoconfirmed"
+    },
+    "move": {
+     "expiry": "infinity",
+     "level": "autoconfirmed"
+    }
+   },
+   "readers": 130539,
+   "revid": null,
+   "title": "六四事件",
+   "url": "https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6"
+  },
+  {
+   "characters": 175760,
+   "citations": 242,
+   "lang": "fr",
+   "language": "French",
+   "protection": null,
+   "readers": 7066,
+   "revid": null,
+   "title": "Manifestations de la place Tian'anmen",
+   "url": "https://fr.wikipedia.org/wiki/Manifestations_de_la_place_Tian%27anmen"
+  },
+  {
+   "characters": 138422,
+   "citations": 222,
+   "lang": "vi",
+   "language": "Vietnamese",
+   "protection": {
+    "edit": {
+     "expiry": "infinity",
+     "level": "autoconfirmed"
+    },
+    "move": {
+     "expiry": "infinity",
+     "level": "sysop"
+    }
+   },
+   "readers": 7525,
+   "revid": null,
+   "title": "Sự kiện Thiên An Môn",
+   "url": "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_Thi%C3%AAn_An_M%C3%B4n"
+  },
+  {
+   "characters": 97753,
+   "citations": 49,
+   "lang": "az",
+   "language": "Azerbaijani",
+   "protection": null,
+   "readers": 30,
+   "revid": null,
+   "title": "Tyananmen meydanı etirazları (1989)",
+   "url": "https://az.wikipedia.org/wiki/Tyananmen_meydan%C4%B1_etirazlar%C4%B1_(1989)"
+  },
+  {
+   "characters": 93965,
+   "citations": 125,
+   "lang": "it",
+   "language": "Italian",
+   "protection": null,
+   "readers": 5160,
+   "revid": null,
+   "title": "Protesta di piazza Tienanmen",
+   "url": "https://it.wikipedia.org/wiki/Protesta_di_piazza_Tienanmen"
+  },
+  {
+   "characters": 68739,
+   "citations": 48,
+   "lang": "pt",
+   "language": "Portuguese",
+   "protection": null,
+   "readers": 3233,
+   "revid": null,
+   "title": "Massacre da Praça da Paz Celestial em 1989",
+   "url": "https://pt.wikipedia.org/wiki/Massacre_da_Pra%C3%A7a_da_Paz_Celestial_em_1989"
+  },
+  {
+   "characters": 67783,
+   "citations": 103,
+   "lang": "no",
+   "language": "Norwegian",
+   "protection": null,
+   "readers": 190,
+   "revid": null,
+   "title": "Demonstrasjonene på Den himmelske freds plass",
+   "url": "https://no.wikipedia.org/wiki/Demonstrasjonene_p%C3%A5_Den_himmelske_freds_plass"
+  },
+  {
+   "characters": 67592,
+   "citations": 92,
+   "lang": "de",
+   "language": "German",
+   "protection": null,
+   "readers": 7640,
+   "revid": null,
+   "title": "Tian’anmen-Massaker",
+   "url": "https://de.wikipedia.org/wiki/Tian%E2%80%99anmen-Massaker"
+  },
+  {
+   "characters": 65460,
+   "citations": 95,
+   "lang": "hu",
+   "language": "Hungarian",
+   "protection": null,
+   "readers": 657,
+   "revid": null,
+   "title": "Tienanmen téri vérengzés",
+   "url": "https://hu.wikipedia.org/wiki/Tienanmen_t%C3%A9ri_v%C3%A9rengz%C3%A9s"
+  },
+  {
+   "characters": 59469,
+   "citations": 141,
+   "lang": "ja",
+   "language": "Japanese",
+   "protection": null,
+   "readers": 59072,
+   "revid": null,
+   "title": "六四天安門事件",
+   "url": "https://ja.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%96%80%E4%BA%8B%E4%BB%B6"
+  },
+  {
+   "characters": 44528,
+   "citations": 11,
+   "lang": "ast",
+   "language": "Asturian",
+   "protection": null,
+   "readers": 20,
+   "revid": null,
+   "title": "Protestes de la plaza de Tian'anmen de 1989",
+   "url": "https://ast.wikipedia.org/wiki/Protestes_de_la_plaza_de_Tian%27anmen_de_1989"
+  },
+  {
+   "characters": 42854,
+   "citations": 10,
+   "lang": "gl",
+   "language": "Galician",
+   "protection": null,
+   "readers": 31,
+   "revid": null,
+   "title": "Protestas da Praza Tian'anmen",
+   "url": "https://gl.wikipedia.org/wiki/Protestas_da_Praza_Tian%27anmen"
+  },
+  {
+   "characters": 38687,
+   "citations": 16,
+   "lang": "ms",
+   "language": "Malay",
+   "protection": null,
+   "readers": 28,
+   "revid": null,
+   "title": "Bantahan Dataran Tiananmen 1989",
+   "url": "https://ms.wikipedia.org/wiki/Bantahan_Dataran_Tiananmen_1989"
+  },
+  {
+   "characters": 37809,
+   "citations": 42,
+   "lang": "uk",
+   "language": "Ukrainian",
+   "protection": null,
+   "readers": 369,
+   "revid": null,
+   "title": "Події на площі Тяньаньмень (1989)",
+   "url": "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D1%96%D1%97_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D1%96_%D0%A2%D1%8F%D0%BD%D1%8C%D0%B0%D0%BD%D1%8C%D0%BC%D0%B5%D0%BD%D1%8C_(1989)"
+  },
+  {
+   "characters": 37516,
+   "citations": 105,
+   "lang": "fi",
+   "language": "Finnish",
+   "protection": null,
+   "readers": 639,
+   "revid": null,
+   "title": "Taivaallisen rauhan aukion mielenosoitus",
+   "url": "https://fi.wikipedia.org/wiki/Taivaallisen_rauhan_aukion_mielenosoitus"
+  },
+  {
+   "characters": 35670,
+   "citations": 4,
+   "lang": "da",
+   "language": "Danish",
+   "protection": null,
+   "readers": 291,
+   "revid": null,
+   "title": "Demonstrationerne på Den Himmelske Freds Plads (1989)",
+   "url": "https://da.wikipedia.org/wiki/Demonstrationerne_p%C3%A5_Den_Himmelske_Freds_Plads_(1989)"
+  },
+  {
+   "characters": 35648,
+   "citations": 52,
+   "lang": "ka",
+   "language": "Georgian",
+   "protection": null,
+   "readers": 28,
+   "revid": null,
+   "title": "პროტესტი თიენანმენის მოედანზე (1989)",
+   "url": "https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%A2%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98_%E1%83%97%E1%83%98%E1%83%94%E1%83%9C%E1%83%90%E1%83%9C%E1%83%9B%E1%83%94%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%9B%E1%83%9D%E1%83%94%E1%83%93%E1%83%90%E1%83%9C%E1%83%96%E1%83%94_(1989)"
+  },
+  {
+   "characters": 35175,
+   "citations": 48,
+   "lang": "ru",
+   "language": "Russian",
+   "protection": null,
+   "readers": 11802,
+   "revid": null,
+   "title": "Протесты на площади Тяньаньмэнь (1989)",
+   "url": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_%D0%A2%D1%8F%D0%BD%D1%8C%D0%B0%D0%BD%D1%8C%D0%BC%D1%8D%D0%BD%D1%8C_(1989)"
+  },
+  {
+   "characters": 34074,
+   "citations": 62,
+   "lang": "fa",
+   "language": "Persian",
+   "protection": null,
+   "readers": 2890,
+   "revid": null,
+   "title": "اعتراضات میدان تیان‌آن‌من",
+   "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D9%85%DB%8C%D8%AF%D8%A7%D9%86_%D8%AA%DB%8C%D8%A7%D9%86%E2%80%8C%D8%A2%D9%86%E2%80%8C%D9%85%D9%86"
+  },
+  {
+   "characters": 25394,
+   "citations": 14,
+   "lang": "ca",
+   "language": "Catalan",
+   "protection": null,
+   "readers": 114,
+   "revid": null,
+   "title": "Protestes de la plaça de Tian'anmen de 1989",
+   "url": "https://ca.wikipedia.org/wiki/Protestes_de_la_pla%C3%A7a_de_Tian%27anmen_de_1989"
+  },
+  {
+   "characters": 24820,
+   "citations": 10,
+   "lang": "tr",
+   "language": "Turkish",
+   "protection": null,
+   "readers": 1069,
+   "revid": null,
+   "title": "1989 Tiananmen Meydanı protestoları",
+   "url": "https://tr.wikipedia.org/wiki/1989_Tiananmen_Meydan%C4%B1_protestolar%C4%B1"
+  },
+  {
+   "characters": 24137,
+   "citations": 118,
+   "lang": "sv",
+   "language": "Swedish",
+   "protection": null,
+   "readers": 426,
+   "revid": null,
+   "title": "Protesterna och massakern på Himmelska fridens torg",
+   "url": "https://sv.wikipedia.org/wiki/Protesterna_och_massakern_p%C3%A5_Himmelska_fridens_torg"
+  },
+  {
+   "characters": 22765,
+   "citations": 28,
+   "lang": "sr",
+   "language": "Serbian",
+   "protection": null,
+   "readers": 280,
+   "revid": null,
+   "title": "Протести на Тјенанмену 1989.",
+   "url": "https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8_%D0%BD%D0%B0_%D0%A2%D1%98%D0%B5%D0%BD%D0%B0%D0%BD%D0%BC%D0%B5%D0%BD%D1%83_1989."
+  },
+  {
+   "characters": 19146,
+   "citations": 12,
+   "lang": "ar",
+   "language": "Arabic",
+   "protection": null,
+   "readers": 314,
+   "revid": null,
+   "title": "مجزرة ساحة تيانانمن",
+   "url": "https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D8%B2%D8%B1%D8%A9_%D8%B3%D8%A7%D8%AD%D8%A9_%D8%AA%D9%8A%D8%A7%D9%86%D8%A7%D9%86%D9%85%D9%86"
+  },
+  {
+   "characters": 18302,
+   "citations": 20,
+   "lang": "he",
+   "language": "Hebrew",
+   "protection": null,
+   "readers": 300,
+   "revid": null,
+   "title": "מחאות וטבח כיכר טיין-אן-מן (1989)",
+   "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%90%D7%95%D7%AA_%D7%95%D7%98%D7%91%D7%97_%D7%9B%D7%99%D7%9B%D7%A8_%D7%98%D7%99%D7%99%D7%9F-%D7%90%D7%9F-%D7%9E%D7%9F_(1989)"
+  },
+  {
+   "characters": 18167,
+   "citations": 24,
+   "lang": "el",
+   "language": "Greek",
+   "protection": null,
+   "readers": 233,
+   "revid": null,
+   "title": "Διαδηλώσεις της Πλατείας Τιενανμέν",
+   "url": "https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B1%CE%B4%CE%B7%CE%BB%CF%8E%CF%83%CE%B5%CE%B9%CF%82_%CF%84%CE%B7%CF%82_%CE%A0%CE%BB%CE%B1%CF%84%CE%B5%CE%AF%CE%B1%CF%82_%CE%A4%CE%B9%CE%B5%CE%BD%CE%B1%CE%BD%CE%BC%CE%AD%CE%BD"
+  },
+  {
+   "characters": 16882,
+   "citations": 18,
+   "lang": "bn",
+   "language": "Bengali",
+   "protection": null,
+   "readers": 77,
+   "revid": null,
+   "title": "১৯৮৯ তিয়েনআনমেন চত্বরে বিক্ষোভ",
+   "url": "https://bn.wikipedia.org/wiki/%E0%A7%A7%E0%A7%AF%E0%A7%AE%E0%A7%AF_%E0%A6%A4%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%A8%E0%A6%86%E0%A6%A8%E0%A6%AE%E0%A7%87%E0%A6%A8_%E0%A6%9A%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%87_%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%8B%E0%A6%AD"
+  },
+  {
+   "characters": 16730,
+   "citations": 29,
+   "lang": "pl",
+   "language": "Polish",
+   "protection": null,
+   "readers": 1882,
+   "revid": null,
+   "title": "Protesty na placu Niebiańskiego Spokoju w 1989",
+   "url": "https://pl.wikipedia.org/wiki/Protesty_na_placu_Niebia%C5%84skiego_Spokoju_w_1989"
+  },
+  {
+   "characters": 16076,
+   "citations": 0,
+   "lang": "mn",
+   "language": "Mongolian",
+   "protection": null,
+   "readers": 53,
+   "revid": null,
+   "title": "Тяньаньмэний талбайд 1989 онд болсон хядлага",
+   "url": "https://mn.wikipedia.org/wiki/%D0%A2%D1%8F%D0%BD%D1%8C%D0%B0%D0%BD%D1%8C%D0%BC%D1%8D%D0%BD%D0%B8%D0%B9_%D1%82%D0%B0%D0%BB%D0%B1%D0%B0%D0%B9%D0%B4_1989_%D0%BE%D0%BD%D0%B4_%D0%B1%D0%BE%D0%BB%D1%81%D0%BE%D0%BD_%D1%85%D1%8F%D0%B4%D0%BB%D0%B0%D0%B3%D0%B0"
+  },
+  {
+   "characters": 13948,
+   "citations": 23,
+   "lang": "lt",
+   "language": "Lithuanian",
+   "protection": null,
+   "readers": 52,
+   "revid": null,
+   "title": "1989 m. Tiananmenio aikštės protestai",
+   "url": "https://lt.wikipedia.org/wiki/1989_m._Tiananmenio_aik%C5%A1t%C4%97s_protestai"
+  },
+  {
+   "characters": 13912,
+   "citations": 16,
+   "lang": "hy",
+   "language": "Armenian",
+   "protection": null,
+   "readers": 14,
+   "revid": null,
+   "title": "Թիենանմեն հրապարակի ցույցեր (1989)",
+   "url": "https://hy.wikipedia.org/wiki/%D4%B9%D5%AB%D5%A5%D5%B6%D5%A1%D5%B6%D5%B4%D5%A5%D5%B6_%D5%B0%D6%80%D5%A1%D5%BA%D5%A1%D6%80%D5%A1%D5%AF%D5%AB_%D6%81%D5%B8%D6%82%D5%B5%D6%81%D5%A5%D6%80_(1989)"
+  },
+  {
+   "characters": 13602,
+   "citations": 16,
+   "lang": "cs",
+   "language": "Czech",
+   "protection": null,
+   "readers": 796,
+   "revid": null,
+   "title": "Masakr na náměstí Nebeského klidu",
+   "url": "https://cs.wikipedia.org/wiki/Masakr_na_n%C3%A1m%C4%9Bst%C3%AD_Nebesk%C3%A9ho_klidu"
+  },
+  {
+   "characters": 12843,
+   "citations": 11,
+   "lang": "nl",
+   "language": "Dutch",
+   "protection": null,
+   "readers": 846,
+   "revid": null,
+   "title": "Tiananmenprotest",
+   "url": "https://nl.wikipedia.org/wiki/Tiananmenprotest"
+  },
+  {
+   "characters": 12461,
+   "citations": 2,
+   "lang": "bxr",
+   "language": "Buriat",
+   "protection": null,
+   "readers": 35,
+   "revid": null,
+   "title": "1989 оной Тяньаньмэнь талмайн алалга",
+   "url": "https://bxr.wikipedia.org/wiki/1989_%D0%BE%D0%BD%D0%BE%D0%B9_%D0%A2%D1%8F%D0%BD%D1%8C%D0%B0%D0%BD%D1%8C%D0%BC%D1%8D%D0%BD%D1%8C_%D1%82%D0%B0%D0%BB%D0%BC%D0%B0%D0%B9%D0%BD_%D0%B0%D0%BB%D0%B0%D0%BB%D0%B3%D0%B0"
+  },
+  {
+   "characters": 12284,
+   "citations": 10,
+   "lang": "zh-yue",
+   "language": "zh-yue",
+   "protection": null,
+   "readers": 318,
+   "revid": null,
+   "title": "六四事件",
+   "url": "https://zh-yue.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6"
+  },
+  {
+   "characters": 12252,
+   "citations": 27,
+   "lang": "ur",
+   "language": "Urdu",
+   "protection": null,
+   "readers": 14,
+   "revid": null,
+   "title": "تیانانمین اسکوائر پر احتجاج اور قتل عام 1989ء",
+   "url": "https://ur.wikipedia.org/wiki/%D8%AA%DB%8C%D8%A7%D9%86%D8%A7%D9%86%D9%85%DB%8C%D9%86_%D8%A7%D8%B3%DA%A9%D9%88%D8%A7%D8%A6%D8%B1_%D9%BE%D8%B1_%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC_%D8%A7%D9%88%D8%B1_%D9%82%D8%AA%D9%84_%D8%B9%D8%A7%D9%85_1989%D8%A1"
+  },
+  {
+   "characters": 12134,
+   "citations": 23,
+   "lang": "ku",
+   "language": "Kurdish",
+   "protection": null,
+   "readers": 7,
+   "revid": null,
+   "title": "Xwepêşandan û komkujiya qada Tiananmenê ya 1989an",
+   "url": "https://ku.wikipedia.org/wiki/Xwep%C3%AA%C5%9Fandan_%C3%BB_komkujiya_qada_Tiananmen%C3%AA_ya_1989an"
+  },
+  {
+   "characters": 11290,
+   "citations": 35,
+   "lang": "sq",
+   "language": "Albanian",
+   "protection": null,
+   "readers": 11,
+   "revid": null,
+   "title": "Protestat dhe masakra e Sheshit Tiananmen, 1989",
+   "url": "https://sq.wikipedia.org/wiki/Protestat_dhe_masakra_e_Sheshit_Tiananmen,_1989"
+  },
+  {
+   "characters": 11276,
+   "citations": 8,
+   "lang": "my",
+   "language": "Burmese",
+   "protection": null,
+   "readers": 47,
+   "revid": null,
+   "title": "ထျန်းအန်းမင် အရေးအခင်း (၁၉၈၉)",
+   "url": "https://my.wikipedia.org/wiki/%E1%80%91%E1%80%BB%E1%80%94%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%94%E1%80%BA%E1%80%B8%E1%80%99%E1%80%84%E1%80%BA_%E1%80%A1%E1%80%9B%E1%80%B1%E1%80%B8%E1%80%A1%E1%80%81%E1%80%84%E1%80%BA%E1%80%B8_(%E1%81%81%E1%81%89%E1%81%88%E1%81%89)"
+  },
+  {
+   "characters": 10968,
+   "citations": 5,
+   "lang": "id",
+   "language": "Indonesian",
+   "protection": null,
+   "readers": 450,
+   "revid": null,
+   "title": "Unjuk rasa Tiananmen 1989",
+   "url": "https://id.wikipedia.org/wiki/Unjuk_rasa_Tiananmen_1989"
+  },
+  {
+   "characters": 9571,
+   "citations": 2,
+   "lang": "ko",
+   "language": "Korean",
+   "protection": null,
+   "readers": 962,
+   "revid": null,
+   "title": "1989년 천안문 사건",
+   "url": "https://ko.wikipedia.org/wiki/1989%EB%85%84_%EC%B2%9C%EC%95%88%EB%AC%B8_%EC%82%AC%EA%B1%B4"
+  },
+  {
+   "characters": 9216,
+   "citations": 16,
+   "lang": "bg",
+   "language": "Bulgarian",
+   "protection": null,
+   "readers": 127,
+   "revid": null,
+   "title": "Протести на площад Тиенанмън",
+   "url": "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4_%D0%A2%D0%B8%D0%B5%D0%BD%D0%B0%D0%BD%D0%BC%D1%8A%D0%BD"
+  },
+  {
+   "characters": 8497,
+   "citations": 4,
+   "lang": "af",
+   "language": "Afrikaans",
+   "protection": null,
+   "readers": 29,
+   "revid": null,
+   "title": "Tiananmen-betogings van 1989",
+   "url": "https://af.wikipedia.org/wiki/Tiananmen-betogings_van_1989"
+  },
+  {
+   "characters": 8119,
+   "citations": 7,
+   "lang": "eu",
+   "language": "Basque",
+   "protection": null,
+   "readers": 14,
+   "revid": null,
+   "title": "Tiananmen plazako protestak",
+   "url": "https://eu.wikipedia.org/wiki/Tiananmen_plazako_protestak"
+  },
+  {
+   "characters": 7441,
+   "citations": 15,
+   "lang": "is",
+   "language": "Icelandic",
+   "protection": null,
+   "readers": 34,
+   "revid": null,
+   "title": "Mótmælin á Torgi hins himneska friðar",
+   "url": "https://is.wikipedia.org/wiki/M%C3%B3tm%C3%A6lin_%C3%A1_Torgi_hins_himneska_fri%C3%B0ar"
+  },
+  {
+   "characters": 7046,
+   "citations": 7,
+   "lang": "sk",
+   "language": "Slovak",
+   "protection": null,
+   "readers": 73,
+   "revid": null,
+   "title": "Protesty na Námestí Tchien-an-men",
+   "url": "https://sk.wikipedia.org/wiki/Protesty_na_N%C3%A1mest%C3%AD_Tchien-an-men"
+  },
+  {
+   "characters": 6540,
+   "citations": 28,
+   "lang": "arz",
+   "language": "Egyptian Arabic",
+   "protection": null,
+   "readers": 11,
+   "revid": null,
+   "title": "احتجاجات ومجزرة ميدان تيانانمن سنة 1989",
+   "url": "https://arz.wikipedia.org/wiki/%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA_%D9%88%D9%85%D8%AC%D8%B2%D8%B1%D8%A9_%D9%85%D9%8A%D8%AF%D8%A7%D9%86_%D8%AA%D9%8A%D8%A7%D9%86%D8%A7%D9%86%D9%85%D9%86_%D8%B3%D9%86%D8%A9_1989"
+  },
+  {
+   "characters": 6207,
+   "citations": 5,
+   "lang": "simple",
+   "language": "Simple English",
+   "protection": null,
+   "readers": 149,
+   "revid": null,
+   "title": "1989 Tiananmen Square protests and massacre",
+   "url": "https://simple.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre"
+  },
+  {
+   "characters": 6028,
+   "citations": 0,
+   "lang": "ne",
+   "language": "Nepali",
+   "protection": null,
+   "readers": 10,
+   "revid": null,
+   "title": "सन् १९८९ को तियानआन्मेन चोकको आन्दोलन र हत्याकाण्ड",
+   "url": "https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A4%A8%E0%A5%8D_%E0%A5%A7%E0%A5%AF%E0%A5%AE%E0%A5%AF_%E0%A4%95%E0%A5%8B_%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A4%86%E0%A4%A8%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%A8_%E0%A4%9A%E0%A5%8B%E0%A4%95%E0%A4%95%E0%A5%8B_%E0%A4%86%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8B%E0%A4%B2%E0%A4%A8_%E0%A4%B0_%E0%A4%B9%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%95%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1"
+  },
+  {
+   "characters": 4860,
+   "citations": 0,
+   "lang": "cdo",
+   "language": "cdo",
+   "protection": null,
+   "readers": 97,
+   "revid": null,
+   "title": "Lĕ̤k-sé Sê̤ṳ-giông",
+   "url": "https://cdo.wikipedia.org/wiki/L%C4%95%CC%A4k-s%C3%A9_S%C3%AA%CC%A4%E1%B9%B3-gi%C3%B4ng"
+  },
+  {
+   "characters": 4281,
+   "citations": 0,
+   "lang": "hak",
+   "language": "Hakka Chinese",
+   "protection": null,
+   "readers": 37,
+   "revid": null,
+   "title": "Liuk-si Sṳ-khien",
+   "url": "https://hak.wikipedia.org/wiki/Liuk-si_S%E1%B9%B3-khien"
+  },
+  {
+   "characters": 4135,
+   "citations": 2,
+   "lang": "hi",
+   "language": "Hindi",
+   "protection": null,
+   "readers": 90,
+   "revid": null,
+   "title": "तियानानमेन चौक विरोध प्रदर्शन, १९८९",
+   "url": "https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%87%E0%A4%A8_%E0%A4%9A%E0%A5%8C%E0%A4%95_%E0%A4%B5%E0%A4%BF%E0%A4%B0%E0%A5%8B%E0%A4%A7_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8,_%E0%A5%A7%E0%A5%AF%E0%A5%AE%E0%A5%AF"
+  },
+  {
+   "characters": 4019,
+   "citations": 9,
+   "lang": "als",
+   "language": "Albanian",
+   "protection": null,
+   "readers": 10,
+   "revid": null,
+   "title": "Tian’anmen-Massaker",
+   "url": "https://als.wikipedia.org/wiki/Tian%E2%80%99anmen-Massaker"
+  },
+  {
+   "characters": 3795,
+   "citations": 6,
+   "lang": "ro",
+   "language": "Romanian",
+   "protection": null,
+   "readers": 191,
+   "revid": null,
+   "title": "Protestele din Piața Tiananmen",
+   "url": "https://ro.wikipedia.org/wiki/Protestele_din_Pia%C8%9Ba_Tiananmen"
+  },
+  {
+   "characters": 3518,
+   "citations": 0,
+   "lang": "zh-min-nan",
+   "language": "zh-min-nan",
+   "protection": null,
+   "readers": 25,
+   "revid": null,
+   "title": "Lio̍k-sù sū-kiāⁿ",
+   "url": "https://zh-min-nan.wikipedia.org/wiki/Lio%CC%8Dk-s%C3%B9_s%C5%AB-ki%C4%81%E2%81%BF"
+  },
+  {
+   "characters": 3507,
+   "citations": 2,
+   "lang": "eo",
+   "language": "Esperanto",
+   "protection": null,
+   "readers": 14,
+   "revid": null,
+   "title": "Protestoj sur la placo Tian An Men",
+   "url": "https://eo.wikipedia.org/wiki/Protestoj_sur_la_placo_Tian_An_Men"
+  },
+  {
+   "characters": 3401,
+   "citations": 0,
+   "lang": "mk",
+   "language": "Macedonian",
+   "protection": null,
+   "readers": 23,
+   "revid": null,
+   "title": "Протести на плоштадот „Тјенанмен“ од 1989 година",
+   "url": "https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%88%D1%82%D0%B0%D0%B4%D0%BE%D1%82_%E2%80%9E%D0%A2%D1%98%D0%B5%D0%BD%D0%B0%D0%BD%D0%BC%D0%B5%D0%BD%E2%80%9C_%D0%BE%D0%B4_1989_%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0"
+  },
+  {
+   "characters": 3397,
+   "citations": 0,
+   "lang": "sh",
+   "language": "Serbian (Latin)",
+   "protection": null,
+   "readers": 43,
+   "revid": null,
+   "title": "Protesti na trgu Tiananmen",
+   "url": "https://sh.wikipedia.org/wiki/Protesti_na_trgu_Tiananmen"
+  },
+  {
+   "characters": 3317,
+   "citations": 6,
+   "lang": "ta",
+   "language": "Tamil",
+   "protection": null,
+   "readers": 42,
+   "revid": null,
+   "title": "1989 தியனன்மென் சதுக்கம் எதிர்ப்புப் போராட்டங்கள்",
+   "url": "https://ta.wikipedia.org/wiki/1989_%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%A9%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AF%86%E0%AE%A9%E0%AF%8D_%E0%AE%9A%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D_%E0%AE%8E%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AF%8B%E0%AE%B0%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D"
+  },
+  {
+   "characters": 3248,
+   "citations": 1,
+   "lang": "nn",
+   "language": "Norwegian Nynorsk",
+   "protection": null,
+   "readers": 13,
+   "revid": null,
+   "title": "Demonstrasjonane på Den himmelske freds plass",
+   "url": "https://nn.wikipedia.org/wiki/Demonstrasjonane_p%C3%A5_Den_himmelske_freds_plass"
+  },
+  {
+   "characters": 3163,
+   "citations": 3,
+   "lang": "be",
+   "language": "Belarusian",
+   "protection": null,
+   "readers": 15,
+   "revid": null,
+   "title": "Пратэсты на плошчы Цяньаньмэнь (1989)",
+   "url": "https://be.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D1%82%D1%8D%D1%81%D1%82%D1%8B_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%88%D1%87%D1%8B_%D0%A6%D1%8F%D0%BD%D1%8C%D0%B0%D0%BD%D1%8C%D0%BC%D1%8D%D0%BD%D1%8C_(1989)"
+  },
+  {
+   "characters": 3126,
+   "citations": 1,
+   "lang": "cy",
+   "language": "Welsh",
+   "protection": null,
+   "readers": 15,
+   "revid": null,
+   "title": "Protestiadau Sgwâr Tiananmen (1989)",
+   "url": "https://cy.wikipedia.org/wiki/Protestiadau_Sgw%C3%A2r_Tiananmen_(1989)"
+  },
+  {
+   "characters": 3069,
+   "citations": 1,
+   "lang": "tok",
+   "language": "Toki Pona",
+   "protection": null,
+   "readers": 17,
+   "revid": null,
+   "title": "utala pi tenpo suno nanpa 4 pi tenpo mun nanpa 6",
+   "url": "https://tok.wikipedia.org/wiki/utala_pi_tenpo_suno_nanpa_4_pi_tenpo_mun_nanpa_6"
+  },
+  {
+   "characters": 2990,
+   "citations": 6,
+   "lang": "ug",
+   "language": "Uyghur",
+   "protection": null,
+   "readers": 10,
+   "revid": null,
+   "title": "4 - ئىيۇن ۋەقەسى",
+   "url": "https://ug.wikipedia.org/wiki/4_-_%D8%A6%D9%89%D9%8A%DB%87%D9%86_%DB%8B%DB%95%D9%82%DB%95%D8%B3%D9%89"
+  },
+  {
+   "characters": 2843,
+   "citations": 1,
+   "lang": "ks",
+   "language": "Kashmiri",
+   "protection": null,
+   "readers": 31,
+   "revid": null,
+   "title": "1989 تیانانمین چوکُک احتِجاج تہٕ قتلِ عام",
+   "url": "https://ks.wikipedia.org/wiki/1989_%D8%AA%DB%8C%D8%A7%D9%86%D8%A7%D9%86%D9%85%DB%8C%D9%86_%DA%86%D9%88%DA%A9%D9%8F%DA%A9_%D8%A7%D8%AD%D8%AA%D9%90%D8%AC%D8%A7%D8%AC_%D8%AA%DB%81%D9%95_%D9%82%D8%AA%D9%84%D9%90_%D8%B9%D8%A7%D9%85"
+  },
+  {
+   "characters": 2818,
+   "citations": 2,
+   "lang": "pa",
+   "language": "Punjabi",
+   "protection": null,
+   "readers": 12,
+   "revid": null,
+   "title": "ਤੀਆਨਾਨਮੇਨ ਚੌਕ ਹੱਤਿਆਕਾਂਡ",
+   "url": "https://pa.wikipedia.org/wiki/%E0%A8%A4%E0%A9%80%E0%A8%86%E0%A8%A8%E0%A8%BE%E0%A8%A8%E0%A8%AE%E0%A9%87%E0%A8%A8_%E0%A8%9A%E0%A9%8C%E0%A8%95_%E0%A8%B9%E0%A9%B1%E0%A8%A4%E0%A8%BF%E0%A8%86%E0%A8%95%E0%A8%BE%E0%A8%82%E0%A8%A1"
+  },
+  {
+   "characters": 2694,
+   "citations": 3,
+   "lang": "uz",
+   "language": "Uzbek",
+   "protection": null,
+   "readers": 9,
+   "revid": null,
+   "title": "Tiananmen maydoni eʼtirozlari (1989)",
+   "url": "https://uz.wikipedia.org/wiki/Tiananmen_maydoni_e%CA%BCtirozlari_(1989)"
+  },
+  {
+   "characters": 2563,
+   "citations": 0,
+   "lang": "ia",
+   "language": "Interlingua",
+   "protection": null,
+   "readers": 17,
+   "revid": null,
+   "title": "Manifestationes in le Placia Tiananmen in 1989",
+   "url": "https://ia.wikipedia.org/wiki/Manifestationes_in_le_Placia_Tiananmen_in_1989"
+  },
+  {
+   "characters": 2507,
+   "citations": 4,
+   "lang": "lv",
+   "language": "Latvian",
+   "protection": null,
+   "readers": 12,
+   "revid": null,
+   "title": "Protesti Tiaņaņmeņa laukumā",
+   "url": "https://lv.wikipedia.org/wiki/Protesti_Tia%C5%86a%C5%86me%C5%86a_laukum%C4%81"
+  },
+  {
+   "characters": 2320,
+   "citations": 0,
+   "lang": "wuu",
+   "language": "Wu Chinese",
+   "protection": null,
+   "readers": 472,
+   "revid": null,
+   "title": "六四运动",
+   "url": "https://wuu.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E8%BF%90%E5%8A%A8"
+  },
+  {
+   "characters": 1791,
+   "citations": 2,
+   "lang": "ml",
+   "language": "Malayalam",
+   "protection": null,
+   "readers": 16,
+   "revid": null,
+   "title": "ടിയാനെന്മെൻ ചത്വരത്തിലെ പ്രക്ഷോഭം (1989)",
+   "url": "https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B4%BF%E0%B4%AF%E0%B4%BE%E0%B4%A8%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%AE%E0%B5%86%E0%B5%BB_%E0%B4%9A%E0%B4%A4%E0%B5%8D%E0%B4%B5%E0%B4%B0%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%BF%E0%B4%B2%E0%B5%86_%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%8B%E0%B4%AD%E0%B4%82_(1989)"
+  },
+  {
+   "characters": 1579,
+   "citations": 1,
+   "lang": "sl",
+   "language": "Slovenian",
+   "protection": null,
+   "readers": 52,
+   "revid": null,
+   "title": "Demonstracije na Trgu nebeškega miru 1989",
+   "url": "https://sl.wikipedia.org/wiki/Demonstracije_na_Trgu_nebe%C5%A1kega_miru_1989"
+  },
+  {
+   "characters": 1498,
+   "citations": 0,
+   "lang": "xmf",
+   "language": "Mingrelian",
+   "protection": null,
+   "readers": 6,
+   "revid": null,
+   "title": "პროტესტი ტიანანმენიშ მოედანს (1989)",
+   "url": "https://xmf.wikipedia.org/wiki/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%A2%E1%83%94%E1%83%A1%E1%83%A2%E1%83%98_%E1%83%A2%E1%83%98%E1%83%90%E1%83%9C%E1%83%90%E1%83%9C%E1%83%9B%E1%83%94%E1%83%9C%E1%83%98%E1%83%A8_%E1%83%9B%E1%83%9D%E1%83%94%E1%83%93%E1%83%90%E1%83%9C%E1%83%A1_(1989)"
+  },
+  {
+   "characters": 1466,
+   "citations": 0,
+   "lang": "zh-classical",
+   "language": "zh-classical",
+   "protection": null,
+   "readers": 243,
+   "revid": null,
+   "title": "六四天安門之變",
+   "url": "https://zh-classical.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%96%80%E4%B9%8B%E8%AE%8A"
+  },
+  {
+   "characters": 1430,
+   "citations": 2,
+   "lang": "nup",
+   "language": "nup",
+   "protection": null,
+   "readers": 24,
+   "revid": null,
+   "title": "1989 Tiananmen Square protests and massacre",
+   "url": "https://nup.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre"
+  },
+  {
+   "characters": 1378,
+   "citations": 0,
+   "lang": "et",
+   "language": "Estonian",
+   "protection": null,
+   "readers": 38,
+   "revid": null,
+   "title": "1989. aasta Tian'anmeni meeleavaldused",
+   "url": "https://et.wikipedia.org/wiki/1989._aasta_Tian%27anmeni_meeleavaldused"
+  },
+  {
+   "characters": 1353,
+   "citations": 0,
+   "lang": "br",
+   "language": "Breton",
+   "protection": null,
+   "readers": 10,
+   "revid": null,
+   "title": "Manifestadegoù ar blasenn Tiananmen e 1989",
+   "url": "https://br.wikipedia.org/wiki/Manifestadego%C3%B9_ar_blasenn_Tiananmen_e_1989"
+  },
+  {
+   "characters": 1331,
+   "citations": 0,
+   "lang": "hr",
+   "language": "Croatian",
+   "protection": null,
+   "readers": 69,
+   "revid": null,
+   "title": "Prosvjedi na Tiananmenskom trgu",
+   "url": "https://hr.wikipedia.org/wiki/Prosvjedi_na_Tiananmenskom_trgu"
+  },
+  {
+   "characters": 926,
+   "citations": 0,
+   "lang": "za",
+   "language": "Zhuang",
+   "protection": null,
+   "readers": 25,
+   "revid": null,
+   "title": "Loegseiq Saehgienh",
+   "url": "https://za.wikipedia.org/wiki/Loegseiq_Saehgienh"
+  },
+  {
+   "characters": 877,
+   "citations": 0,
+   "lang": "lfn",
+   "language": "Lingua Franca Nova",
+   "protection": null,
+   "readers": 11,
+   "revid": null,
+   "title": "Protestas en la Plaza Tiananmen en 1989",
+   "url": "https://lfn.wikipedia.org/wiki/Protestas_en_la_Plaza_Tiananmen_en_1989"
+  },
+  {
+   "characters": 621,
+   "citations": 0,
+   "lang": "ga",
+   "language": "Irish",
+   "protection": null,
+   "readers": 14,
+   "revid": null,
+   "title": "Sléacht i gCearnóg Tiananmen",
+   "url": "https://ga.wikipedia.org/wiki/Sl%C3%A9acht_i_gCearn%C3%B3g_Tiananmen"
+  },
+  {
+   "characters": 520,
+   "citations": 0,
+   "lang": "tl",
+   "language": "Filipino",
+   "protection": null,
+   "readers": 15,
+   "revid": null,
+   "title": "Mga pagpoprotesta sa Liwasan ng Tiananmen noong 1989",
+   "url": "https://tl.wikipedia.org/wiki/Mga_pagpoprotesta_sa_Liwasan_ng_Tiananmen_noong_1989"
+  }
+ ]
+}

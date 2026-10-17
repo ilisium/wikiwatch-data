@@ -1,0 +1,324 @@
+[
+ {
+  "agent": "claude-code",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "288f4985-bf81-4b72-84d1-10b72321854a",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Read on 15 October 2026 from each version's plain text: opening sections in full, then each contested fact searched for in every language and its sentences read; tone judged from the lead and the passages found, for Mosaddegh, the Shah and the US/CIA. Quotes taken from the files by anchor phrases, so they are exact. Without sight of the other run.",
+  "model": "claude-opus-5-5",
+  "page": "fall-of-mosaddegh",
+  "revisions": {
+   "ar": 76647561,
+   "de": 267389851,
+   "en": 1379631682,
+   "es": 174723948,
+   "fa": 44701451,
+   "fr": 240122588,
+   "he": 43827807,
+   "ru": 153156823,
+   "tr": 37889541
+  },
+  "summary": "The nine versions agree on the plot's outline and split on agency and legitimacy. English, Spanish, Arabic and Russian put the CIA's hired crowds at the centre; German and French credit pro-Shah demonstrations organised by the clergy under Borujerdi, while still titling the article 'Operation Ajax'. Four of the nine (Arabic, Russian, Turkish, Hebrew) never mention Mosaddegh's referendum dissolving parliament, or his emergency powers. Only Persian gives the case that it was a lawful dismissal rather than a coup a section of its own; German names the historians who dispute the CIA's decisive role only to frame them as regime opponents' revisionism.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:04cce22c15681f6b",
+   "output": "JSON written to the schema",
+   "priced": "list",
+   "quotes": {
+    "given": 135,
+    "kept": 135
+   },
+   "requests": 9,
+   "tokensCached": 4436479,
+   "tokensIn": 4499994,
+   "tokensOut": 26052,
+   "toolCalls": 11,
+   "usd": 1.92,
+   "version": "claude-opus-5-5",
+   "via": "Claude Code"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "2f27e260-9496-4191-8d0d-7e24e7cc8136",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "moonshotai/kimi-k3",
+  "page": "fall-of-mosaddegh",
+  "revisions": {
+   "ar": 76647561,
+   "de": 267389851,
+   "en": 1379631682,
+   "es": 174723948,
+   "fa": 44701451,
+   "fr": 240122588,
+   "he": 43827807,
+   "ru": 153156823,
+   "tr": 37889541
+  },
+  "summary": "All nine versions describe the August 1953 events as a US/UK-backed removal of Mosaddegh, but they differ sharply in scale and emphasis. The Persian and French articles are the longest and most internally contradictory; Turkish is a stub of one paragraph, and Arabic and Hebrew are short. Clear numeric disagreements appear: deaths on 19 August (200–300 killed in en/fa/ar/es versus over 200 dead plus 300 wounded in fr/de, plus a separate figure of 41/40 at Mosaddegh's house), the referendum result (99.9% with 2,043,300 to 1,300 in en/es versus 99.94% with 170 no-votes in Tehran in fr/de), and the operation's cost ($285,000 in de/fa's Jack Straw quote versus $100,000–$20 million in en/fa/es versus 19 million dollars in ru). Framing diverges on the Shah's role (coerced victim of CIA pressure versus constitutional actor reclaiming his prerogative), on who made 19 August decisive (CIA-paid crowds and clergy versus the army, with fr/de citing de Villiers that the army turned the tide), and on the clergy (decisive kingmakers in fr/de/fa, accused of taking foreign money in fa, nearly absent in ar). Several contested items — the referendum, the CIA's 2013/2017 releases, and revisionist scholarship (Takeyh, Bayandor, Helms's 'rumor' claim, Brian Hook's statement in fa) — are covered by the long versions but missing from ar, tr and he, which are too short to be expected to cover them.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:2da06641fa3819f0",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 265,
+    "kept": 246
+   },
+   "reasoning": "medium",
+   "seconds": 233,
+   "tokensIn": 131284,
+   "tokensOut": 30329,
+   "usd": 1.2732,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "codex",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "5091f004-a0d5-4c84-81f3-61cc81e9a8a7",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other run, read-only, without network access and without sight of the other run; answered to a fixed JSON schema.",
+  "model": "gpt-6-astra",
+  "page": "fall-of-mosaddegh",
+  "revisions": {
+   "ar": 76647561,
+   "de": 267389851,
+   "en": 1379631682,
+   "es": 174723948,
+   "fa": 44701451,
+   "fr": 240122588,
+   "he": 43827807,
+   "ru": 153156823,
+   "tr": 37889541
+  },
+  "summary": "The nine snapshots consistently describe foreign involvement in Mosaddegh’s overthrow, but give different weight to foreign planning, Iranian institutions and street mobilisation. French and German devote substantial attention to constitutional procedures and domestic opposition, while other versions foreground CIA organisation and British pressure more strongly. Concrete differences include the referendum’s date, Nassiri’s arrest location and accounts of Hossein Fatemi’s death; some numerical differences describe overlapping totals rather than incompatible claims. Coverage varies considerably, particularly in the exceptionally short Turkish version, and several longer articles contain competing interpretations within their own narratives. Coverage flags include partial mentions where identified in the notes, and tone scores assess the wording and emphasis of these files alone.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:04cce22c15681f6b",
+   "output": "JSON schema, through the Codex CLI",
+   "priced": "list",
+   "quotes": {
+    "given": 201,
+    "kept": 201
+   },
+   "reasoning": "ultra",
+   "requests": 105,
+   "seconds": 1105,
+   "tokens": 155391,
+   "tokensCached": 6519808,
+   "tokensIn": 6812267,
+   "tokensOut": 84963,
+   "usd": 13.69,
+   "version": "gpt-6-astra",
+   "via": "Codex CLI"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "9b407079-d66c-4ebc-8425-3c36e129c970",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Google), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "google/gemini-4-argon",
+  "page": "fall-of-mosaddegh",
+  "revisions": {
+   "ar": 76647561,
+   "de": 267389851,
+   "en": 1379631682,
+   "es": 174723948,
+   "fa": 44701451,
+   "fr": 240122588,
+   "he": 43827807,
+   "ru": 153156823,
+   "tr": 37889541
+  },
+  "summary": "The nine Wikipedia language versions vary widely in length and focus, ranging from a two-paragraph stub in Turkish to comprehensive articles in English, Spanish, French, and Persian. While English, Spanish, Persian, Russian, Arabic, and Hebrew frame the August 1953 events primarily as an Anglo-American coup d'état that overthrew a democratically elected prime minister, the French and German articles are titled 'Operation Ajax' and place heavier emphasis on Mosaddegh's authoritarian measures, the economic collapse, and the decisive role of the Iranian clergy (especially Grand Ayatollah Borujerdi) and army after the initial CIA plan failed. Factual discrepancies appear across versions regarding the budget of the operation, the exact timing and manner of Colonel Nassiri's arrest on 15–16 August, and the fate of Foreign Minister Hossein Fatemi, whom Arabic states was assassinated in the street during the coup rather than executed in November 1954. The Persian version uniquely provides extensive detail on domestic Iranian political factions, the post-coup fates of individual National Front cabinet members, and parliamentary proposals in Iran to seek reparations from the US and UK.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:2da06641fa3819f0",
+   "output": "strict JSON schema",
+   "provider": "Google",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 224,
+    "kept": 220
+   },
+   "reasoning": "medium",
+   "seconds": 328,
+   "tokensIn": 106810,
+   "tokensOut": 44356,
+   "usd": 0.6572,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "dbe0c1d6-e1f0-40e0-8826-9df81968177b",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by xAI), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "x-ai/grok-4.7",
+  "page": "fall-of-mosaddegh",
+  "revisions": {
+   "ar": 76647561,
+   "de": 267389851,
+   "en": 1379631682,
+   "es": 174723948,
+   "fa": 44701451,
+   "fr": 240122588,
+   "he": 43827807,
+   "ru": 153156823,
+   "tr": 37889541
+  },
+  "summary": "All nine versions describe the August 1953 removal of Mohammad Mosaddegh and a British-American role, but they do not tell the same story. Longer English, Persian, French, German and Spanish articles disagree on dates, death tolls, referendum figures and the cost of the operation, and they weight the CIA, the army, paid crowds and the clergy differently. Arabic titles the events a revolution/coup and is much shorter; Turkish is only a lead. Hebrew, Russian and Spanish omit several contested strands that English, French and German develop, including named revisionist scholarship and, in some cases, casualty figures.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:2da06641fa3819f0",
+   "output": "strict JSON schema",
+   "provider": "xAI",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 263,
+    "kept": 258
+   },
+   "reasoning": "medium",
+   "seconds": 446,
+   "tokensIn": 105170,
+   "tokensOut": 47780,
+   "usd": 0.4953,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "fb046ab9-36e9-4fa6-8f91-3593544fd581",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "z-ai/glm-5.3",
+  "page": "fall-of-mosaddegh",
+  "revisions": {
+   "ar": 76647561,
+   "de": 267389851,
+   "en": 1379631682,
+   "es": 174723948,
+   "fa": 44701451,
+   "fr": 240122588,
+   "he": 43827807,
+   "ru": 153156823,
+   "tr": 37889541
+  },
+  "summary": "The nine versions differ sharply in length and emphasis: the English, Persian, French, Spanish and German articles are long, the Russian medium, and the Arabic, Hebrew and Turkish versions short (Turkish under 2,000 characters, too short to cover most contested points). All long versions call the events a coup orchestrated by the US and UK, but they diverge on numbers (casualties, referendum results, costs, Iran's oil share), on whether Mosaddegh was sentenced to death or straight to three years, on who made the 19 August crowds (paid CIA mobsters, clergy-organised demonstrators, or ordinary citizens), and on whether the CIA's role was decisive (English, German and French give space to revisionist scholarship; the Persian version includes Iranian monarchist denials that a coup occurred at all). The Persian version uniquely frames the US ambassador Henderson's visit as a 'trap', and the German version uniquely credits the clergy-led demonstrations, not the CIA, with turning the tide on 19 August.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:2da06641fa3819f0",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 236,
+    "kept": 213
+   },
+   "reasoning": "medium",
+   "seconds": 106,
+   "tokensIn": 121796,
+   "tokensOut": 39964,
+   "usd": 0.5195,
+   "via": "OpenRouter"
+  }
+ }
+]

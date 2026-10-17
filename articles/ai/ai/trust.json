@@ -1,0 +1,293 @@
+{
+ "versions": [
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=240207444&oldid=240197552",
+       "kind": "diff",
+       "text": "2026-10-09, AnnoyedUnicorn, 4 references: Annulation de l'ajout de Utilisateur:WikiBackbone : sources primaires (interview + MinDef), soupçons de rédaction en IAG, et le sujet principal est le rachat d'une boite. À réécrire complètement donc pour parler uniquement de ce qui se fait."
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=230411498&oldid=230409785",
+       "kind": "diff",
+       "text": "2025-11-06, Jean-Christophe BENOIST, 4 references: /* Débats et enjeux */ mise en évidence, hors WP:Proportion, d'une notion nouvelle qui n'a même pas encore d'article dans Wikipédia Intelligence augmentée, et de tendance transhumaniste donc potentiellement polémique. Plus nombreux problèmes de typo. Faire l'article d'abord (s'il est admissible) et "
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 2 removals taking out 8 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=231072596&oldid=231072370",
+       "kind": "diff",
+       "text": "2025-11-30, Marwa Hussein 1212, 1 references: LeCun, Bengio, Hinton (2015) — revue sur le deep learning"
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=231072370&oldid=231004643",
+       "kind": "diff",
+       "text": "2025-11-30, Marwa Hussein 1212, 1 references: le titre"
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2025-12-11: 5 reverts by Jules*, Jmh2o, Salebot, Csar62"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "15% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 42,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-02-08: 3 reverts by Langusto, PM3"
+      },
+      {
+       "kind": "war",
+       "text": "2026-05-19: 3 reverts by NDG"
+      },
+      {
+       "kind": "war",
+       "text": "2026-07-16: 3 reverts by Andol, Wan Shi Tong, Gustav von Aschenbach"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "4 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=268021390&oldid=267998083",
+       "kind": "diff",
+       "text": "2026-06-18, Hans Christian Blecke, 1 references: Seit einiger Zeit wird öffentlich diskutiert, Label für KI freie Arbeiten einzuführen. Zum Beispiel beim OMR 2026 oder auch auf der Buchmesse: https://www.deutschlandfunkkultur.de/kulturpolitiker-lehmann-fordert-label-fuer-ki-freie-werke-100.html/"
+      },
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=267995335&oldid=267982988",
+       "kind": "diff",
+       "text": "2026-06-17, Fährtenleser, 1 references: Wieso ist das hier irrelevant? Bitte ggf. diskutieren statt einfach löschen."
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "19% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=268989977&oldid=268988919",
+       "kind": "diff",
+       "text": "2026-07-21, Wan Shi Tong, 2 references: /* Verbreitung von KI in Deutschland */ Veralteten Abschnitt entfernt"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    }
+   ],
+   "score": 42,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-05-02: 3 reverts by Leoncastro, R2d21024"
+      },
+      {
+       "kind": "war",
+       "text": "2026-05-23: 3 reverts by R2d21024, Eduardosalg"
+      },
+      {
+       "kind": "war",
+       "text": "2026-05-26: 4 reverts by ~2026-29913-46, Automoderador, SeroBOT, R2d21024"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "9 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "34% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://es.wikipedia.org/w/index.php?diff=174752405&oldid=174746548",
+       "kind": "diff",
+       "text": "2026-08-08, ~2026-43551-88, 2 references: /* Críticas */"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 29,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=153883556&oldid=153654048",
+       "kind": "diff",
+       "text": "2026-07-09, P.crafter, 1 references: /* Правовые вопросы */ дополнение, источники"
+      },
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=152814897&oldid=152696507",
+       "kind": "diff",
+       "text": "2026-04-21, Site.lighting, 1 references: Добавлен академический источник о культурно-философском анализе ИИ, включая проект «Анжела Богданова» и эксперимент «Яндекса» как публичные кейсы обсуждения субъектности искусственного интеллекта"
+      },
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=152262041&oldid=152202204",
+       "kind": "diff",
+       "text": "2026-03-16, 176.195.90.185, 1 references: /* СССР */"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "tr",
+   "language": "Turkish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "29% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "ja",
+   "language": "Japanese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "it",
+   "language": "Italian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "vi",
+   "language": "Vietnamese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "zh",
+   "language": "Chinese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "pt",
+   "language": "Portuguese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": false,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  }
+ ]
+}

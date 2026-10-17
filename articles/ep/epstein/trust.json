@@ -1,0 +1,360 @@
+{
+ "versions": [
+  {
+   "historyRead": true,
+   "lang": "he",
+   "language": "Hebrew",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-03-29: 3 reverts by Pixie.ca, חזרתי"
+      },
+      {
+       "kind": "war",
+       "text": "2026-04-19: 3 reverts by שעה טובה, כל השמות תפוסים"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "2 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "25% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out claims of ties to an intelligence service, which 7 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Ghislaine Maxwell's trial and sentence, which 8 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Prince Andrew and Virginia Giuffre, which 7 of the 8 other full versions give."
+    }
+   ],
+   "score": 42,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2025-10-26: 3 reverts by SeroBOT, Xacaranda, Strakhov"
+      },
+      {
+       "kind": "war",
+       "text": "2025-11-15: 3 reverts by SeroBOT, Montgomery"
+      },
+      {
+       "kind": "war",
+       "text": "2025-11-27: 5 reverts by SeroBOT, RageJam, Mpeinadopa, Casisgaal"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "5 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://es.wikipedia.org/w/index.php?diff=172543854&oldid=172430640",
+       "kind": "diff",
+       "text": "2026-03-17, Californipedia, 17 references: no summary"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 17 references."
+    }
+   ],
+   "score": 32,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2025-12-25: 4 reverts by Skazi, EyeBot, Dexleri"
+      },
+      {
+       "kind": "war",
+       "text": "2025-12-28: 4 reverts by Sigwald, EyeBot, This is Andy, Alex NB IT"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "2 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out claims of ties to an intelligence service, which 7 of the 8 other full versions give."
+    }
+   ],
+   "score": 30,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1348342821&oldid=1348318002",
+       "kind": "diff",
+       "text": "2026-04-12, Zenomonoz, 2 references: Restored revision 1348305375 by Guest2625 (talk): Rv, this is not a WP:BLP, primary sources are fine, and Dershowitz in WSJ is absolutely fine"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1348199793&oldid=1348137800",
+       "kind": "diff",
+       "text": "2026-04-11, Guest2625, 1 references: Undid revision 1347162936 by Zenomonoz (talk) paragraph is about the cameras/surveillance systems on his properties as noted in the intro sentence."
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1348100922&oldid=1348042487",
+       "kind": "diff",
+       "text": "2026-04-10, MyGosh789, 2 references: /* J. Epstein & Company (1988–2019) */"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1345728936&oldid=1345727433",
+       "kind": "diff",
+       "text": "2026-03-27, Cedar777, 2 references: /* Civil cases */ only the 1st Sarnoff article mentions 12 yr olds, 2nd article & the Cut do not; source does not name Giuffre"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Prince Andrew and Virginia Giuffre, which 7 of the 8 other full versions give."
+    }
+   ],
+   "score": 29,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=266098458&oldid=266098407",
+       "kind": "diff",
+       "text": "2026-04-12, Serols, 2 references: Revert – gelöschte Textabschnitte wiederhergestellt (HG) (3.4.13)"
+      },
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=263936734&oldid=263910760",
+       "kind": "diff",
+       "text": "2026-02-03, Oriongrey, 1 references: no summary"
+      },
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=261796583&oldid=261778270",
+       "kind": "diff",
+       "text": "2025-11-23, FriedaLip, 16 references: Erstellt durch Übersetzung des Abschnitts „Early life“ von der Seite „Jeffrey Epstein“."
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2025-11-22: 4 reverts by Dioskorides, Früchtebrot, KurtR"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    }
+   ],
+   "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-01-12: 4 reverts by Olivier Tanguy, Morkoz"
+      },
+      {
+       "kind": "war",
+       "text": "2026-01-27: 3 reverts by ~2026-58976-4, GF38storic, Laurent Jerry"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "2 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=232798653&oldid=232795856",
+       "kind": "diff",
+       "text": "2026-01-27, ~2026-58976-4, 1 references: Added essential details."
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 21,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-02-03: 3 reverts by كثيب, باسم"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out the 'client list' and official findings on it, which 8 of the 8 other full versions give."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=73290611&oldid=73290063",
+       "kind": "diff",
+       "text": "2026-02-01, كانون101, 1 references: إضافة إلى قسم وفاته"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 19,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "pt",
+   "language": "Portuguese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-02-26: 3 reverts by Mourito Nunes, Uchoa"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=71986603&oldid=71986593",
+       "kind": "diff",
+       "text": "2026-03-27, Chronus, 28 references: Desfeita a edição 71986593 de Mandorake Reposição de dados e referências retirados sem justificativa"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 13,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "zh",
+   "language": "Chinese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-02-20: 3 reverts by Ma3r, Vesekskiy"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  }
+ ]
+}

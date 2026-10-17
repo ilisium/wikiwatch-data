@@ -1,0 +1,328 @@
+[
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "86ad73f0-2623-4c3e-810c-a54844f9836f",
+  "langs": [
+   "en",
+   "zh",
+   "ja",
+   "ko",
+   "vi",
+   "ru",
+   "de",
+   "fr",
+   "es"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "moonshotai/kimi-k3",
+  "page": "tiananmen",
+  "revisions": {
+   "de": 270833179,
+   "en": 1380231623,
+   "es": 175743186,
+   "fr": 240324147,
+   "ja": 111096158,
+   "ko": 41782490,
+   "ru": 155624643,
+   "vi": 75608778,
+   "zh": 95061772
+  },
+  "summary": "The nine versions agree on the broad skeleton of the story (Hu Yaobang's death, growing protests, martial law, a violent clearing on 3-4 June 1989), but diverge sharply on emphasis, figures and framing. The Korean version is extremely short and garbled in places, omitting most contested details; the Russian and German versions are compact; the English, Spanish, French, Vietnamese and Chinese versions are long. Death tolls given as 'official' range from 241 (ru/fr/es), about 300 (en), 319 (ja), 875 civilians (ko) to 931 nationwide (zh, citing a 1990 internal file). The Vietnamese version uniquely foregrounds the official Chinese justification (protesters killing soldiers first, troops using mainly batons, Lee Kuan Yew's endorsement), while the Japanese version uniquely hosts both massacre-sceptical scholarship and a theory that the Tank Man scene was staged by the government; the Chinese version is the only one to include detailed allegations of troops machine-gunning students at the Monument.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:a6c71f2a3a482b0d",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 286,
+    "kept": 283
+   },
+   "reasoning": "medium",
+   "seconds": 1099,
+   "tokensIn": 220635,
+   "tokensOut": 39276,
+   "usd": 1.251,
+   "version": "moonshotai/kimi-k3",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "9b261dd9-5eef-4a86-87d2-af9a1b83aa93",
+  "langs": [
+   "en",
+   "zh",
+   "ja",
+   "ko",
+   "vi",
+   "ru",
+   "de",
+   "fr",
+   "es"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Anthropic), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "anthropic/claude-opus-5.5",
+  "page": "tiananmen",
+  "revisions": {
+   "de": 270833179,
+   "en": 1380231623,
+   "es": 175743186,
+   "fr": 240324147,
+   "ja": 111096158,
+   "ko": 41782490,
+   "ru": 155624643,
+   "vi": 75608778,
+   "zh": 95061772
+  },
+  "summary": "The nine versions differ widely in length and approach. English, Chinese, Vietnamese, French and Spanish are long narratives; Russian and German are mid-length; Korean is very short, partly a timeline, and uses an unusual epithet for Deng Xiaoping. The largest disagreements are over numbers and over what happened in the square itself. Reported official death tolls range from 241 to 319, 875 or 931, and troop figures from about 200,000 to 300,000. German and Russian state flatly that no one died on the square, while French cites a witness who saw tanks crushing people there. Framing also diverges: the Vietnamese lead presents martial law and the clearance as a response to protesters killing soldiers and stresses Western intelligence involvement, while Japanese gives room to a journalist's view that Tank Man was a government set-up. German, Russian, Vietnamese and Chinese report executions of participants, which English, Japanese, French and Spanish do not mention.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:a6c71f2a3a482b0d",
+   "output": "strict JSON schema",
+   "provider": "Anthropic",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 236,
+    "kept": 236
+   },
+   "reasoning": "medium",
+   "seconds": 532,
+   "tokensIn": 285742,
+   "tokensOut": 48210,
+   "usd": 2.1072,
+   "version": "anthropic/claude-opus-5.5",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "a5729942-0f12-4587-81d1-03a0c414a5d6",
+  "langs": [
+   "en",
+   "zh",
+   "ja",
+   "ko",
+   "vi",
+   "ru",
+   "de",
+   "fr",
+   "es"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Google), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "google/gemini-4-argon",
+  "page": "tiananmen",
+  "revisions": {
+   "de": 270833179,
+   "en": 1380231623,
+   "es": 175743186,
+   "fr": 240324147,
+   "ja": 111096158,
+   "ko": 41782490,
+   "ru": 155624643,
+   "vi": 75608778,
+   "zh": 95061772
+  },
+  "summary": "Across the nine language editions, the core timeline of the spring 1989 Beijing protests—triggered by Hu Yaobang's death, escalating through the May hunger strike and Mikhail Gorbachev's state visit, and ending in the military clearance on 3–4 June—is broadly consistent, though length varies greatly from the very brief Korean article to the extensive English, Spanish, French, Vietnamese, and Chinese versions. Most versions note the distinction between the bloody street clashes along Chang'an Avenue (especially around Muxidi) and the negotiated evacuation of Tiananmen Square itself, while citing a wide range of death toll estimates from official figures in the hundreds to foreign estimates in the thousands. Substantial differences emerge in how the causes of violence, foreign involvement, and specific episodes like 'Tank Man' and Operation Yellowbird are framed. The Vietnameselead and sections, for instance, emphasize protester violence against soldiers as the trigger for martial law and frame Western intelligence operations as evidence of foreign orchestration akin to 'color revolutions', whereas the Japanese article uniquely highlights a reporter's theory that 'Tank Man' was a government-staged performance. Tone toward the Party leadership and the military is predominantly critical in Western-language and Japanese editions, more mixed or defensive in parts of the Vietnamese and Korean texts, and uniformly sympathetic toward reformist leader Zhao Ziyang across all versions.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:a6c71f2a3a482b0d",
+   "output": "strict JSON schema",
+   "provider": "Google",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 274,
+    "kept": 272
+   },
+   "reasoning": "medium",
+   "seconds": 362,
+   "tokensIn": 167092,
+   "tokensOut": 48772,
+   "usd": 0.8219,
+   "version": "google/gemini-4-argon",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "e035765d-8f8d-4acc-84e1-3e722ca8908d",
+  "langs": [
+   "en",
+   "zh",
+   "ja",
+   "ko",
+   "vi",
+   "ru",
+   "de",
+   "fr",
+   "es"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by xAI), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "x-ai/grok-4.7",
+  "page": "tiananmen",
+  "revisions": {
+   "de": 270833179,
+   "en": 1380231623,
+   "es": 175743186,
+   "fr": 240324147,
+   "ja": 111096158,
+   "ko": 41782490,
+   "ru": 155624643,
+   "vi": 75608778,
+   "zh": 95061772
+  },
+  "summary": "All nine versions describe student-led protests after Hu Yaobang’s death, a hunger strike, a May state visit by Gorbachev, martial law, and a military advance on the night of 3–4 June 1989. They disagree on dates, crowd sizes, death tolls, whether people were killed inside the square, and what happened to the man who stood before tanks. Longer versions record both civilian and military casualties, official labels such as political turmoil or counter-revolutionary riot, arrests and exile, censorship, and foreign sanctions; the short Korean text and the shorter Russian text leave several of these out. Wording ranges from massacre and crackdown to incident, protests, and the Chinese official phrase political turmoil. Portrayals of protesters, the party leadership, the army, and named leaders also differ in which actions and quotations are given room.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:a6c71f2a3a482b0d",
+   "output": "strict JSON schema",
+   "provider": "xAI",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 249,
+    "kept": 246
+   },
+   "reasoning": "medium",
+   "seconds": 495,
+   "tokensIn": 165860,
+   "tokensOut": 56535,
+   "usd": 0.6692,
+   "version": "x-ai/grok-4.7",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "e32a6402-4617-4e4a-8016-427883655e71",
+  "langs": [
+   "en",
+   "zh",
+   "ja",
+   "ko",
+   "vi",
+   "ru",
+   "de",
+   "fr",
+   "es"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "z-ai/glm-5.3",
+  "page": "tiananmen",
+  "revisions": {
+   "de": 270833179,
+   "en": 1380231623,
+   "es": 175743186,
+   "fr": 240324147,
+   "ja": 111096158,
+   "ko": 41782490,
+   "ru": 155624643,
+   "vi": 75608778,
+   "zh": 95061772
+  },
+  "summary": "The nine versions differ sharply in length and emphasis: the English, Chinese, Vietnamese, French and Spanish versions are long and detailed; the German, Japanese and Russian versions are medium-length with distinctive framing; the Korean version is very short and leaves out most contested points. The largest substantive disagreements concern the death toll (official and leaked figures range from 241 to 10,000), whether the army fired on crowds or mainly used clubs, the date of martial law, the identity and fate of Tank Man, and how the protest movement itself is characterised (pro-democracy versus chiefly anti-corruption). Two versions carry distinctive framings found nowhere else: the Vietnamese lead states the army mainly used batons and did not shoot, and the Japanese version relays a reporter's theory that Tank Man was staged by the Chinese government. Tone also varies: most versions are sympathetic to the protesters and negative toward the government and army, while the Korean version is markedly cooler toward the protesters and the Russian and Vietnamese versions give unusual space to views sympathetic to the government's account.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:a6c71f2a3a482b0d",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 282,
+    "kept": 255
+   },
+   "reasoning": "medium",
+   "seconds": 335,
+   "tokensIn": 179833,
+   "tokensOut": 41271,
+   "usd": 0.4333,
+   "version": "z-ai/glm-5.3",
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "codex",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "e44286c4-7212-49f9-87c5-f107488c29bd",
+  "langs": [
+   "en",
+   "zh",
+   "ja",
+   "ko",
+   "vi",
+   "ru",
+   "de",
+   "fr",
+   "es"
+  ],
+  "method": "Given the same brief and the same plain-text files as the other runs; read-only in the Codex CLI, without network access and without sight of any other run; answered to a fixed JSON schema.",
+  "model": "gpt-6-astra",
+  "page": "tiananmen",
+  "revisions": {
+   "de": 270833179,
+   "en": 1380231623,
+   "es": 175743186,
+   "fr": 240324147,
+   "ja": 111096158,
+   "ko": 41782490,
+   "ru": 155624643,
+   "vi": 75608778,
+   "zh": 95061772
+  },
+  "summary": "The nine versions share the broad chronology but differ in dates, crowd estimates, casualty figures and explanations of escalation. Several disagreements concern the same attributed source, while some articles also contain conflicting statements internally. Accounts differ particularly in their certainty about deaths inside the square, their treatment of Tank Man and their coverage of restrictions on remembrance. Tone is generally sympathetic toward Zhao Ziyang and critical of repression, but portrayals of protesters, soldiers and the other leaders vary. For compound coverage items, mentions=true can indicate partial coverage; notes identify those limits, including omissions in the substantially shorter Korean version.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:0e4938d2d9fe8329",
+   "output": "JSON schema, through the Codex CLI",
+   "priced": "list",
+   "quotes": {
+    "given": 247,
+    "kept": 247
+   },
+   "reasoning": "ultra",
+   "requests": 91,
+   "seconds": 1204,
+   "tokens": 204995,
+   "tokensCached": 6962432,
+   "tokensIn": 7323975,
+   "tokensOut": 99744,
+   "usd": 15.57,
+   "version": "gpt-6-astra",
+   "via": "Codex CLI"
+  }
+ }
+]

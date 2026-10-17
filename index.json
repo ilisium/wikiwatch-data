@@ -1,0 +1,133 @@
+{
+ "articles": [
+  {
+   "asked": "Abraxas",
+   "differences": 0,
+   "id": "abraxas",
+   "languages": 40,
+   "path": "articles/ab/abraxas/",
+   "runs": 0,
+   "tier": "calm"
+  },
+  {
+   "asked": "AI",
+   "differences": 0,
+   "id": "ai",
+   "languages": 184,
+   "path": "articles/ai/ai/",
+   "runs": 0,
+   "tier": "watch"
+  },
+  {
+   "asked": "BSD",
+   "differences": 0,
+   "id": "bsd",
+   "languages": 23,
+   "path": "articles/bs/bsd/",
+   "runs": 0,
+   "tier": "calm"
+  },
+  {
+   "asked": "Jeffrey Epstein",
+   "differences": 29,
+   "id": "epstein",
+   "languages": 84,
+   "path": "articles/ep/epstein/",
+   "runs": 6,
+   "tier": "watch"
+  },
+  {
+   "asked": "The fall of Mosaddegh",
+   "differences": 25,
+   "id": "fall-of-mosaddegh",
+   "languages": 48,
+   "path": "articles/fa/fall-of-mosaddegh/",
+   "runs": 6,
+   "tier": null
+  },
+  {
+   "asked": "Galois",
+   "differences": 0,
+   "id": "galois",
+   "languages": 89,
+   "path": "articles/ga/galois/",
+   "runs": 0,
+   "tier": null
+  },
+  {
+   "asked": "Hegel",
+   "differences": 0,
+   "id": "hegel",
+   "languages": 143,
+   "path": "articles/he/hegel/",
+   "runs": 0,
+   "tier": null
+  },
+  {
+   "asked": "Mosaddegh",
+   "differences": 27,
+   "id": "mosaddegh",
+   "languages": 63,
+   "path": "articles/mo/mosaddegh/",
+   "runs": 6,
+   "tier": "calm"
+  },
+  {
+   "asked": "Nietzsche",
+   "differences": 0,
+   "id": "nietzsche",
+   "languages": 178,
+   "path": "articles/ni/nietzsche/",
+   "runs": 0,
+   "tier": "calm"
+  },
+  {
+   "asked": "One Punch Man",
+   "differences": 0,
+   "id": "one-punch-man",
+   "languages": 46,
+   "path": "articles/on/one-punch-man/",
+   "runs": 0,
+   "tier": null
+  },
+  {
+   "asked": "The Panama Papers",
+   "differences": 25,
+   "id": "panama-papers",
+   "languages": 75,
+   "path": "articles/pa/panama-papers/",
+   "runs": 6,
+   "tier": "calm"
+  },
+  {
+   "asked": "The Shah of Iran",
+   "differences": 36,
+   "id": "shah",
+   "languages": 103,
+   "path": "articles/sh/shah/",
+   "runs": 6,
+   "tier": "watch"
+  },
+  {
+   "asked": "Tiananmen Square, 1989",
+   "differences": 27,
+   "id": "tiananmen",
+   "languages": 85,
+   "path": "articles/ti/tiananmen/",
+   "runs": 6,
+   "tier": "calm"
+  },
+  {
+   "asked": "Wikipedia",
+   "differences": 25,
+   "id": "wikipedia",
+   "languages": 323,
+   "path": "articles/wi/wikipedia/",
+   "runs": 6,
+   "tier": "watch"
+  }
+ ],
+ "licence": "Measurements and research: CC BY-SA 4.0, like the Wikipedia articles they describe. Quotes are Wikipedia's words, under its licence.",
+ "project": "WikiWatch",
+ "source": "https://ilisium.xyz/workspace/wikiwatch"
+}

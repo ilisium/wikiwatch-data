@@ -1,0 +1,324 @@
+[
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "165df35c-14d3-4bcf-81b8-64454c1cef7e",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by xAI), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "x-ai/grok-4.7",
+  "page": "shah",
+  "revisions": {
+   "ar": 76729313,
+   "de": 271200237,
+   "en": 1380158119,
+   "es": 175485979,
+   "fa": 44707266,
+   "fr": 240343903,
+   "he": 43781957,
+   "ru": 154897159,
+   "tr": 38263672
+  },
+  "summary": "The nine articles share the same outline of Mohammad Reza Pahlavi’s life, from his 1919 birth and 1941 accession through the 1953 crisis, the White Revolution, his January 1979 departure, and his death in Egypt on 27 July 1980. They disagree on several exact dates, including the oath as shah, the crown-prince proclamation, the Shahanshah title, the Cairo wedding, Khomeini’s exile, the cancer diagnosis, and the hour of death. Casualty figures for Jaleh Square and the 1963 unrest, and the stated cost of the 1971 Persepolis celebrations, also differ. The versions further describe the 1953 overthrow, the reasons for the 1979 departure, the 1949 assassin’s affiliation, and recognition of Israel in materially different ways, and only some mention an Israeli role in creating SAVAK.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:fc10d72f7a2b81b0",
+   "output": "strict JSON schema",
+   "provider": "xAI",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 66,
+    "kept": 64
+   },
+   "reasoning": "medium",
+   "seconds": 533,
+   "tokensIn": 171800,
+   "tokensOut": 45782,
+   "usd": 0.6166,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "codex",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "2b01841b-1a05-4782-86ce-20341d03fe64",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other run, without network access and without sight of the other run; answered to a fixed JSON schema.",
+  "model": "gpt-6-astra",
+  "page": "shah",
+  "revisions": {
+   "ar": 76729313,
+   "de": 271200237,
+   "en": 1380158119,
+   "es": 175485979,
+   "fa": 44707266,
+   "fr": 240343903,
+   "he": 43781957,
+   "ru": 154897159,
+   "tr": 38263672
+  },
+  "summary": "The versions differ on military education dates, assassination injuries, imperial ceremonies, protest deaths, and the Shah’s illness. They also describe the 1953 overthrow and Black Friday with different emphases on responsibility and consequences. Foreign assistance to SAVAK and attribution of the Cinema Rex fire are omitted from several versions, while the English calendar account contains conflicting dates within the article. These eleven points preserve the articles’ qualifications and attributions without deciding which account is correct.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:0de64b0bf7e11fe3",
+   "output": "JSON schema, through the Codex CLI",
+   "priced": "list",
+   "quotes": {
+    "given": 64,
+    "kept": 64
+   },
+   "reasoning": "ultra",
+   "requests": 117,
+   "seconds": 770,
+   "tokens": 102590,
+   "tokensCached": 7589120,
+   "tokensIn": 7931029,
+   "tokensOut": 48404,
+   "usd": 13.43,
+   "version": "gpt-6-astra",
+   "via": "Codex CLI"
+  }
+ },
+ {
+  "agent": "claude-code",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "887fd49f-2a88-445f-8cc7-314f166ff368",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Read on 15 October 2026 from each version's plain text (TextExtracts), sentences aligned by the years they mention (Solar Hijri years converted), then each event's group read in full. Without sight of the other run.",
+  "model": "claude-opus-5-5",
+  "page": "shah",
+  "revisions": {
+   "ar": 76729313,
+   "de": 271200237,
+   "en": 1380158119,
+   "es": 175485979,
+   "fa": 44707266,
+   "fr": 240343903,
+   "he": 43781957,
+   "ru": 154897159,
+   "tr": 38263672
+  },
+  "summary": "The versions agree on the outline of his life and differ most around violence and blame: how many died at Jaleh Square, who set the Cinema Rex fire, who carried out the 1953 coup, and who was behind the 1949 shooting. German and French share long passages that follow the official account of 1978; Persian minimises deaths in two places; Arabic and Spanish share a sentence on the revolution's toll. There are also plain factual splits: the illness that killed him (Turkish alone says pancreatic cancer), his age at death in Arabic, and Turkish placing Farah's crowning in 1971.",
+  "usage": {
+   "billing": "subscription",
+   "brief": "standard brief, sha256:0de64b0bf7e11fe3",
+   "output": "JSON written to the schema",
+   "priced": "list",
+   "quotes": {
+    "given": 55,
+    "kept": 55
+   },
+   "requests": 21,
+   "tokensCached": 8493199,
+   "tokensIn": 8552499,
+   "tokensOut": 28842,
+   "toolCalls": 23,
+   "usd": 2.75,
+   "version": "claude-opus-5-5",
+   "via": "Claude Code"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "94eeba88-56b9-45e9-84a0-9c6b2f3e3424",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "z-ai/glm-5.3",
+  "page": "shah",
+  "revisions": {
+   "ar": 76729313,
+   "de": 271200237,
+   "en": 1380158119,
+   "es": 175485979,
+   "fa": 44707266,
+   "fr": 240343903,
+   "he": 43781957,
+   "ru": 154897159,
+   "tr": 38263672
+  },
+  "summary": "Across the nine language versions of the Mohammad Reza Pahlavi article, the most substantial divergences concern the Shah's fatal illness and its diagnosis, the casualty figures of the 1978–79 revolution (including the Jaleh Square massacre and the Qom protests of January 1978), the cost of the 1971 Persepolis celebrations, and several dates (his accession to imperial titles, Khomeini's exile, Farah's crowning, his death time). There are also clear framing differences over the Cinema Rex fire (some versions attribute it to Islamists close to Khomeini, others leave the perpetrators unstated) and over what was actually decided at the Guadeloupe conference. Shorter versions (Arabic, Spanish, Turkish) tend to omit causes, attributions and numbers that the longer English, Persian, French and German articles state.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:fc10d72f7a2b81b0",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 66,
+    "kept": 61
+   },
+   "reasoning": "medium",
+   "seconds": 56,
+   "tokensIn": 203155,
+   "tokensOut": 17418,
+   "usd": 0.5416,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "eadd5028-8e97-45e4-84d2-9a8490a63a65",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Fireworks), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "moonshotai/kimi-k3",
+  "page": "shah",
+  "revisions": {
+   "ar": 76729313,
+   "de": 271200237,
+   "en": 1380158119,
+   "es": 175485979,
+   "fa": 44707266,
+   "fr": 240343903,
+   "he": 43781957,
+   "ru": 154897159,
+   "tr": 38263672
+  },
+  "summary": "The nine versions agree on the broad outline of Mohammad Reza Pahlavi's life but diverge on many specifics. Recurring number disputes concern death tolls (Jaleh Square, the 1963 uprising, total deaths under his rule and during the revolution), the cost of the 1971 Persepolis celebrations, and the details of the 1949 assassination attempt. Dates conflict for his first marriage and divorce, his departure from Iran, Khomeini's exile, the Guadeloupe conference, and the year and type of his cancer diagnosis. There are also framing differences over the 1953 coup and the Shah's political role, a factual disagreement about whether he completed his diploma at Le Rosey, and at least one version (Hebrew, joined by Russian and Turkish) that omits the Jaleh Square and Cinema Rex events entirely while covering the revolution.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:fc10d72f7a2b81b0",
+   "output": "strict JSON schema",
+   "provider": "Fireworks",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 62,
+    "kept": 61
+   },
+   "reasoning": "medium",
+   "seconds": 108,
+   "tokensIn": 210921,
+   "tokensOut": 13640,
+   "usd": 1.256,
+   "via": "OpenRouter"
+  }
+ },
+ {
+  "agent": "other",
+  "by": {
+   "id": "github:44399258",
+   "login": "Thisisily"
+  },
+  "createdAt": "2026-10-15T18:00:00.000Z",
+  "finishedAt": "2026-10-15T18:00:00.000Z",
+  "id": "f293fef9-857d-43df-8bcb-871a2af00c93",
+  "langs": [
+   "en",
+   "fa",
+   "ar",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "tr",
+   "he"
+  ],
+  "method": "Given the same brief and the same nine plain-text files as the other runs, all in one request through OpenRouter (served by Google), with medium reasoning and no tools or network, and without sight of any other run; answered to a fixed JSON schema. Quotes not found in the files as given are listed under setAside and not recorded.",
+  "model": "google/gemini-4-argon",
+  "page": "shah",
+  "revisions": {
+   "ar": 76729313,
+   "de": 271200237,
+   "en": 1380158119,
+   "es": 175485979,
+   "fa": 44707266,
+   "fr": 240343903,
+   "he": 43781957,
+   "ru": 154897159,
+   "tr": 38263672
+  },
+  "summary": "The nine language versions of the Wikipedia article on Mohammad Reza Pahlavi exhibit substantial differences in factual details, numerical figures, dates, and historical framing. Key discrepancies include the details of the 1949 assassination attempt (ranging from two to six shots fired and varying accounts of the Shah's injuries), the cost of the 1971 Persepolis celebrations ($25 million to $300 million), and the nature and diagnosis year of the Shah's terminal illness. Additionally, versions diverge sharply on how they frame Iran's national debt and socio-economic indicators in the 1970s, as well as the specific dates of his accession to the throne, his first marriage, and his official proclamations.",
+  "usage": {
+   "billing": "api",
+   "brief": "standard brief, sha256:fc10d72f7a2b81b0",
+   "output": "strict JSON schema",
+   "provider": "Google",
+   "quantization": "unknown",
+   "quotes": {
+    "given": 57,
+    "kept": 55
+   },
+   "reasoning": "medium",
+   "seconds": 129,
+   "tokensIn": 176566,
+   "tokensOut": 10276,
+   "usd": 0.4559,
+   "via": "OpenRouter"
+  }
+ }
+]

@@ -1,0 +1,239 @@
+{
+ "versions": [
+  {
+   "historyRead": true,
+   "lang": "tr",
+   "language": "Turkish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "32% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Wikipedia and AI, which 5 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out edits by governments and organisations, which 6 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out when it was launched, which 8 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out how it is paid for, which 8 of the 8 other full versions give."
+    }
+   ],
+   "score": 32,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Wikipedia and AI, which 5 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out countries that blocked it, which 8 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out edits by governments and organisations, which 6 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out claims of political bias, which 8 of the 8 other full versions give."
+    }
+   ],
+   "score": 24,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=230616173&oldid=230616158",
+       "kind": "diff",
+       "text": "2025-11-13, Padarquetty, 2 references: /* Consultation sur des assistants personnels */"
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=231495049&oldid=231494842",
+       "kind": "diff",
+       "text": "2025-12-15, Padarquetty, 2 references: /* Jeux basés sur Wikipédia */ encore des sources primaires"
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=230903901&oldid=230903892",
+       "kind": "diff",
+       "text": "2025-11-24, Padarquetty, 2 references: /* Jeux basés sur Wikipédia */ source primaire commerciale"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 3 removals taking out 6 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=237272544&oldid=237270250",
+       "kind": "diff",
+       "text": "2026-06-23, Utilisateur ouikipedia, 1 references: /* Sur Internet */ Ajout d'une source"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 21,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "15% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Wikipedia and AI, which 5 of the 8 other full versions give."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out edits by governments and organisations, which 6 of the 8 other full versions give."
+    }
+   ],
+   "score": 20,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Wikipedia and AI, which 5 of the 8 other full versions give."
+    }
+   ],
+   "score": 14,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1348280979&oldid=1348247842",
+       "kind": "diff",
+       "text": "2026-04-11, North8000, 2 references: Undid revision 1348247842 by Randy Kryn (talk) Thanks for major bold change/removal. Now is has moved to discussion. ~~~~"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1348246397&oldid=1348243261",
+       "kind": "diff",
+       "text": "2026-04-11, Off and running, 4 references: The quote just needs to be corrected, not deleted. It does not need to be the exact same quote as the on in WP:ABOUT"
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    }
+   ],
+   "score": 10,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=151161710&oldid=151161446",
+       "kind": "diff",
+       "text": "2026-01-14, Eraevsky, 4 references: /* Издания */"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 4 references."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "zh",
+   "language": "Chinese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  }
+ ]
+}
