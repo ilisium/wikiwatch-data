@@ -1,7 +1,116 @@
 {
  "versions": [
   {
-   "historyRead": false,
+   "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-08-18: 3 reverts by Dexbot, Arian"
+      },
+      {
+       "kind": "war",
+       "text": "2026-10-03: 3 reverts by Massol1360"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "2 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=42928203&oldid=42917332",
+       "kind": "diff",
+       "text": "2025-10-27, Mahan, 3 references: به نسخهٔ 42910836 از Mahan (بحث) برگردانده شد"
+      },
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=42906716&oldid=42906400",
+       "kind": "diff",
+       "text": "2025-10-23, Mahan, 3 references: به نسخهٔ 42875696 از فرهنگ2016 (بحث) برگردانده شد"
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "23% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=42930692&oldid=42930688",
+       "kind": "diff",
+       "text": "2025-10-27, Hootandolati, 2 references: حذف متنی که از پایان نامه برداشته شده بود و اعتبار نداشت."
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    }
+   ],
+   "score": 42,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1374868338&oldid=1373873245",
+       "kind": "diff",
+       "text": "2026-09-14, Binksternet, 9 references: revert... rolling back the lead section to three months ago before the series of redefinitions was attempted"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1364756459&oldid=1364673480",
+       "kind": "diff",
+       "text": "2026-07-18, ~2026-40288-74, 3 references: The editor who added it should be the one to get others approval when opposed, not the opposite."
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 2 removals taking out 12 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1377293335&oldid=1377070325",
+       "kind": "diff",
+       "text": "2026-09-28, ~2026-52399-58, 5 references: Added missing details which adds Mossadegh going against the constitution. Majlis voted to approve the creation of the Constituent Assembly, and that Constituent Assembly officially made the changes. It is very convenient to leave these things out. One of the sources is the law in the constitution i"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1363688744&oldid=1363677135",
+       "kind": "diff",
+       "text": "2026-07-11, ~2026-39133-68, 3 references: Undid revision 1363677135 by ~2026-29254-13 (talk)"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1353446429&oldid=1352878646",
+       "kind": "diff",
+       "text": "2026-05-10, Gojkira, 3 references: Provides important context for the build up of the coup. Further details are already provided in the linked Wikipedia page and throughout this very article."
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    }
+   ],
+   "score": 31,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
    "lang": "de",
    "language": "German",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -62,7 +171,7 @@
    "tier": "watch"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "ru",
    "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -99,7 +208,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "fr",
    "language": "French",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -139,7 +248,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "ar",
    "language": "Arabic",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -155,16 +264,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
-   "lang": "en",
-   "language": "English",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "es",
    "language": "Spanish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -173,16 +273,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
-   "lang": "fa",
-   "language": "Persian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "he",
    "language": "Hebrew",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -191,7 +282,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "tr",
    "language": "Turkish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",

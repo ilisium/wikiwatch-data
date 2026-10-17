@@ -1,16 +1,55 @@
 {
  "versions": [
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "en",
    "language": "English",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1367089105&oldid=1366864657",
+       "kind": "diff",
+       "text": "2026-07-31, M.S. Asher, 1 references: /* Right and Left Hegelians and Marxism */ noteworthy, should be included"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1355768503&oldid=1355768331",
+       "kind": "diff",
+       "text": "2026-05-23, M.S. Asher, 1 references: /* \"Right\" vs. \"Left\" Hegelianism */"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1337870456&oldid=1337870066",
+       "kind": "diff",
+       "text": "2026-02-11, Szechian66, 1 references: /* The Phenomenology of Spirit */Page changes"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    }
+   ],
+   "score": 15,
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "20% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "de",
    "language": "German",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -19,7 +58,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "it",
    "language": "Italian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -28,16 +67,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
-   "lang": "es",
-   "language": "Spanish",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "ru",
    "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -46,7 +76,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "fr",
    "language": "French",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -55,7 +85,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "ja",
    "language": "Japanese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -64,7 +94,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "zh",
    "language": "Chinese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -73,7 +103,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "pt",
    "language": "Portuguese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -82,7 +112,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "pl",
    "language": "Polish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -91,7 +121,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "fa",
    "language": "Persian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -100,7 +130,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "ar",
    "language": "Arabic",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",

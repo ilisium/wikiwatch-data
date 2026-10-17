@@ -43,7 +43,7 @@
    "languages": 48,
    "path": "articles/fa/fall-of-mosaddegh/",
    "runs": 6,
-   "tier": null
+   "tier": "watch"
   },
   {
    "asked": "Galois",
@@ -52,7 +52,7 @@
    "languages": 89,
    "path": "articles/ga/galois/",
    "runs": 0,
-   "tier": null
+   "tier": "calm"
   },
   {
    "asked": "Hegel",
@@ -61,7 +61,7 @@
    "languages": 143,
    "path": "articles/he/hegel/",
    "runs": 0,
-   "tier": null
+   "tier": "calm"
   },
   {
    "asked": "Mosaddegh",
@@ -88,7 +88,7 @@
    "languages": 46,
    "path": "articles/on/one-punch-man/",
    "runs": 0,
-   "tier": null
+   "tier": "calm"
   },
   {
    "asked": "The Panama Papers",

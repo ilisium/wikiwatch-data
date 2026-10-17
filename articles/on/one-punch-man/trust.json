@@ -1,16 +1,82 @@
 {
  "versions": [
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "en",
    "language": "English",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-01-01: 3 reverts by DiodotusNicator"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 16,
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "15% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "24% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "16% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "ja",
    "language": "Japanese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -19,7 +85,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "zh",
    "language": "Chinese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -28,34 +94,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
-   "lang": "fr",
-   "language": "French",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
-   "lang": "es",
-   "language": "Spanish",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
-   "lang": "ru",
-   "language": "Russian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "it",
    "language": "Italian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -64,7 +103,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "de",
    "language": "German",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -73,7 +112,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "pt",
    "language": "Portuguese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -82,7 +121,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "fa",
    "language": "Persian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -91,7 +130,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "vi",
    "language": "Vietnamese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -100,7 +139,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "id",
    "language": "Indonesian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",

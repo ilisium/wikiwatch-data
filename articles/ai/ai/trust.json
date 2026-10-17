@@ -127,6 +127,56 @@
   },
   {
    "historyRead": true,
+   "lang": "pt",
+   "language": "Portuguese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=72313453&oldid=72281831",
+       "kind": "diff",
+       "text": "2026-05-25, Danillosciumbata, 1 references: Fato relevante oriundo de pesquisa acadêmica sobre capacidades dinâmicas, abertura organizacional e inteligência artificial no Brasil."
+      },
+      {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=72168542&oldid=72014118",
+       "kind": "diff",
+       "text": "2026-05-02, Julio de Lima Luz, 3 references: no summary"
+      },
+      {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=71626236&oldid=71518993",
+       "kind": "diff",
+       "text": "2026-01-28, Francisco Paiva Junior, 5 references: /* Aplicações */ IA especializada em autismo"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "17% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=71991512&oldid=71914218",
+       "kind": "diff",
+       "text": "2026-03-28, Chronus, 8 references: Conteúdo sem fontes"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 8 references."
+    }
+   ],
+   "score": 31,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
    "lang": "es",
    "language": "Spanish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -212,6 +262,125 @@
   },
   {
    "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=44018599&oldid=43973690",
+       "kind": "diff",
+       "text": "2026-07-16, ~2026-40235-67, 1 references: اضافه کردن منبع"
+      },
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=43859721&oldid=43851738",
+       "kind": "diff",
+       "text": "2026-06-19, LProfo, 4 references: /* */ کاربر:Raeste naema مطلب منبع‌دار را با توجیه تک‌واژه‌ای حذف نکنید. اگر واژه‌ای در منابع رسمی و معتبر کاربرد دارد پس از پیش وجود دارد."
+      },
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=43565163&oldid=43565112",
+       "kind": "diff",
+       "text": "2026-03-10, ~2026-15445-75, 8 references: no summary"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "20% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ja",
+   "language": "Japanese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ja.wikipedia.org/w/index.php?diff=110610279&oldid=110610215",
+       "kind": "diff",
+       "text": "2026-08-11, 魅魑魎魍, 2 references: /* 反対運動 */"
+      },
+      {
+       "href": "https://ja.wikipedia.org/w/index.php?diff=110610215&oldid=110593102",
+       "kind": "diff",
+       "text": "2026-08-11, 魅魑魎魍, 5 references: まず、meta:包摂主義、meta:削除主義#削除主義への批判をご覧ください。鉄道分野で顕著ですが、日本語版の編集者の多くはmeta:削除主義の考え方を採っていません。"
+      },
+      {
+       "href": "https://ja.wikipedia.org/w/index.php?diff=110529196&oldid=110398830",
+       "kind": "diff",
+       "text": "2026-08-04, 魅魑魎魍, 19 references: /* プライバシー・著作権に関する問題 */"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://ja.wikipedia.org/w/index.php?diff=110850590&oldid=110829811",
+       "kind": "diff",
+       "text": "2026-08-31, 現金 オワコン, 7 references: /* 未来 */"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 7 references."
+    }
+   ],
+   "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "it",
+   "language": "Italian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://it.wikipedia.org/w/index.php?diff=152276530&oldid=152270904",
+       "kind": "diff",
+       "text": "2026-08-31, Settemagico, 66 references: Riorganizzazione complessiva della voce: rimozione toni non neutrali/sensazionalistici (WP:NPOV) e ricerche originali (WP:RO), accorpamento sezioni ridondanti e normalizzazione gerarchia titoli. Risolti avvisi C, P e Organizzare."
+      },
+      {
+       "href": "https://it.wikipedia.org/w/index.php?diff=152732770&oldid=152732766",
+       "kind": "diff",
+       "text": "2026-10-03, S.vecchiato, 20 references: no summary"
+      },
+      {
+       "href": "https://it.wikipedia.org/w/index.php?diff=152732737&oldid=152732734",
+       "kind": "diff",
+       "text": "2026-10-03, S.vecchiato, 16 references: Spostam ◇"
+      },
+      {
+       "href": "https://it.wikipedia.org/w/index.php?diff=152732763&oldid=152732755",
+       "kind": "diff",
+       "text": "2026-10-03, S.vecchiato, 9 references: no summary"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 4 removals taking out 111 references."
+    }
+   ],
+   "score": 16,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "tr",
    "language": "Turkish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -227,54 +396,25 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
-   "lang": "fa",
-   "language": "Persian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
-   "lang": "ja",
-   "language": "Japanese",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
-   "lang": "it",
-   "language": "Italian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "vi",
    "language": "Vietnamese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "17% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "zh",
    "language": "Chinese",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
-   "lang": "pt",
-   "language": "Portuguese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
