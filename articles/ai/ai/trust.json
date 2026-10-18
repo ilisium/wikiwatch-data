@@ -224,6 +224,51 @@
   },
   {
    "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=76682815&oldid=76682786",
+       "kind": "diff",
+       "text": "2026-09-23, خالد موسى, 16 references: تنسيق وتوثيق تقني: إصلاح وسوم الاستشهاد المعطوبة برمجياً في القسم العلوي والمقدمة (Dartmouth workshop ،Succ1 ،Tools of AI) لضمان اتساق المراجع مع دليل الأسلوب."
+      },
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=76428407&oldid=76347737",
+       "kind": "diff",
+       "text": "2026-09-04, شاهين 1, 3 references: إضافة أهداف الذكاء الاصطناعي"
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "24% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=74262869&oldid=74262080",
+       "kind": "diff",
+       "text": "2026-04-13, إسلام, 50 references: الرجوع عن 19 تعديلا معلقا من Sapientia Sigvísa، Mr.Ibrahembot و ~2026-22758-41 إلى نسخة 74219270 من Serfezi."
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 50 references."
+    }
+   ],
+   "score": 26,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
    "lang": "ru",
    "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -415,15 +460,6 @@
    "historyRead": true,
    "lang": "zh",
    "language": "Chinese",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
-   "lang": "ar",
-   "language": "Arabic",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,

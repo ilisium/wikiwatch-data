@@ -228,43 +228,6 @@
   },
   {
    "historyRead": true,
-   "lang": "fr",
-   "language": "French",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2026-01-12: 4 reverts by Olivier Tanguy, Morkoz"
-      },
-      {
-       "kind": "war",
-       "text": "2026-01-27: 3 reverts by ~2026-58976-4, GF38storic, Laurent Jerry"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "2 edit wars in the last year (three reverts or more within a day)."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=232798653&oldid=232795856",
-       "kind": "diff",
-       "text": "2026-01-27, ~2026-58976-4, 1 references: Added essential details."
-      }
-     ],
-     "group": "history",
-     "points": 5,
-     "text": "Sourced additions turned away: 1 edit adding references, reverted."
-    }
-   ],
-   "score": 21,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
    "lang": "ar",
    "language": "Arabic",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -300,6 +263,31 @@
     }
    ],
    "score": 19,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-01-12: 4 reverts by Olivier Tanguy, Morkoz"
+      },
+      {
+       "kind": "war",
+       "text": "2026-01-27: 3 reverts by ~2026-58976-4, GF38storic, Laurent Jerry"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "2 edit wars in the last year (three reverts or more within a day)."
+    }
+   ],
+   "score": 16,
    "tier": "calm"
   },
   {
