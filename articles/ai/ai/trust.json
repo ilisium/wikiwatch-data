@@ -87,27 +87,10 @@
      "text": "4 edit wars in the last year (three reverts or more within a day)."
     },
     {
-     "evidence": [
-      {
-       "href": "https://de.wikipedia.org/w/index.php?diff=268021390&oldid=267998083",
-       "kind": "diff",
-       "text": "2026-06-18, Hans Christian Blecke, 1 references: Seit einiger Zeit wird öffentlich diskutiert, Label für KI freie Arbeiten einzuführen. Zum Beispiel beim OMR 2026 oder auch auf der Buchmesse: https://www.deutschlandfunkkultur.de/kulturpolitiker-lehmann-fordert-label-fuer-ki-freie-werke-100.html/"
-      },
-      {
-       "href": "https://de.wikipedia.org/w/index.php?diff=267995335&oldid=267982988",
-       "kind": "diff",
-       "text": "2026-06-17, Fährtenleser, 1 references: Wieso ist das hier irrelevant? Bitte ggf. diskutieren statt einfach löschen."
-      }
-     ],
-     "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    },
-    {
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "19% of its latest 250 edits undo others."
+     "text": "18% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -122,7 +105,7 @@
      "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
     }
    ],
-   "score": 42,
+   "score": 32,
    "tier": "watch"
   },
   {
@@ -147,11 +130,16 @@
        "href": "https://pt.wikipedia.org/w/index.php?diff=71626236&oldid=71518993",
        "kind": "diff",
        "text": "2026-01-28, Francisco Paiva Junior, 5 references: /* Aplicações */ IA especializada em autismo"
+      },
+      {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=71193024&oldid=71085024",
+       "kind": "diff",
+       "text": "2025-11-14, Elilopes, 11 references: prompt"
       }
      ],
      "group": "history",
      "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+     "text": "Sourced additions turned away: 4 edits adding references, reverted."
     },
     {
      "evidence": [],
@@ -266,44 +254,6 @@
    ],
    "score": 26,
    "tier": "watch"
-  },
-  {
-   "historyRead": true,
-   "lang": "ru",
-   "language": "Russian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://ru.wikipedia.org/w/index.php?diff=153883556&oldid=153654048",
-       "kind": "diff",
-       "text": "2026-07-09, P.crafter, 1 references: /* Правовые вопросы */ дополнение, источники"
-      },
-      {
-       "href": "https://ru.wikipedia.org/w/index.php?diff=152814897&oldid=152696507",
-       "kind": "diff",
-       "text": "2026-04-21, Site.lighting, 1 references: Добавлен академический источник о культурно-философском анализе ИИ, включая проект «Анжела Богданова» и эксперимент «Яндекса» как публичные кейсы обсуждения субъектности искусственного интеллекта"
-      },
-      {
-       "href": "https://ru.wikipedia.org/w/index.php?diff=152262041&oldid=152202204",
-       "kind": "diff",
-       "text": "2026-03-16, 176.195.90.185, 1 references: /* СССР */"
-      }
-     ],
-     "group": "history",
-     "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "18% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 23,
-   "tier": "calm"
   },
   {
    "historyRead": true,
@@ -422,6 +372,22 @@
     }
    ],
    "score": 16,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
    "tier": "calm"
   },
   {
