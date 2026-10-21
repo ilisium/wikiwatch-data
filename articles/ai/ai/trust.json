@@ -9,6 +9,11 @@
     {
      "evidence": [
       {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=240524306&oldid=240506311",
+       "kind": "diff",
+       "text": "2026-10-19, Heimdaller, 9 references: Neutralité et sourçage : retrait de références commerciales peu pertinentes, remplacement par des sources scientifiques et institutionnelles, correction du passage sur l'Estonie concernant \"l'IA capable de rendre des décisions de justice\"(info démentie en 2022 par le ministère estonien de la justice"
+      },
+      {
        "href": "https://fr.wikipedia.org/w/index.php?diff=240207444&oldid=240197552",
        "kind": "diff",
        "text": "2026-10-09, AnnoyedUnicorn, 4 references: Annulation de l'ajout de Utilisateur:WikiBackbone : sources primaires (interview + MinDef), soupçons de rédaction en IAG, et le sujet principal est le rachat d'une boite. À réécrire complètement donc pour parler uniquement de ce qui se fait."
@@ -21,7 +26,7 @@
      ],
      "group": "history",
      "points": 16,
-     "text": "Sourced material removed and not restored: 2 removals taking out 8 references."
+     "text": "Sourced material removed and not restored: 3 removals taking out 17 references."
     },
     {
      "evidence": [
@@ -50,15 +55,9 @@
      "group": "history",
      "points": 8,
      "text": "1 edit war in the last year (three reverts or more within a day)."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "15% of its latest 250 edits undo others."
     }
    ],
-   "score": 42,
+   "score": 34,
    "tier": "watch"
   },
   {
@@ -192,7 +191,7 @@
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "34% of its latest 250 edits undo others."
+     "text": "35% of its latest 250 edits undo others."
     },
     {
      "evidence": [
