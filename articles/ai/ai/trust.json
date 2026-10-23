@@ -116,6 +116,11 @@
     {
      "evidence": [
       {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=73270489&oldid=73269088",
+       "kind": "diff",
+       "text": "2026-10-22, Rodrigo Padula, 73 references: revisão e traduções a partir do artigo em Inglês"
+      },
+      {
        "href": "https://pt.wikipedia.org/w/index.php?diff=72313453&oldid=72281831",
        "kind": "diff",
        "text": "2026-05-25, Danillosciumbata, 1 references: Fato relevante oriundo de pesquisa acadêmica sobre capacidades dinâmicas, abertura organizacional e inteligência artificial no Brasil."
@@ -138,13 +143,13 @@
      ],
      "group": "history",
      "points": 15,
-     "text": "Sourced additions turned away: 4 edits adding references, reverted."
+     "text": "Sourced additions turned away: 5 edits adding references, reverted."
     },
     {
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "17% of its latest 250 edits undo others."
+     "text": "18% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -172,15 +177,15 @@
      "evidence": [
       {
        "kind": "war",
-       "text": "2026-05-02: 3 reverts by Leoncastro, R2d21024"
-      },
-      {
-       "kind": "war",
        "text": "2026-05-23: 3 reverts by R2d21024, Eduardosalg"
       },
       {
        "kind": "war",
        "text": "2026-05-26: 4 reverts by ~2026-29913-46, Automoderador, SeroBOT, R2d21024"
+      },
+      {
+       "kind": "war",
+       "text": "2026-06-03: 6 reverts by SeroBOT, Leoncastro, Alainpepri, Renamed user 792640219528496a9159cdde15306982"
       }
      ],
      "group": "history",
@@ -191,7 +196,7 @@
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "36% of its latest 250 edits undo others."
+     "text": "37% of its latest 250 edits undo others."
     },
     {
      "evidence": [

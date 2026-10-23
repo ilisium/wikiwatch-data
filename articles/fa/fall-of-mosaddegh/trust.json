@@ -22,23 +22,6 @@
      "text": "2 edit wars in the last year (three reverts or more within a day)."
     },
     {
-     "evidence": [
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=42928203&oldid=42917332",
-       "kind": "diff",
-       "text": "2025-10-27, Mahan, 3 references: به نسخهٔ 42910836 از Mahan (بحث) برگردانده شد"
-      },
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=42906716&oldid=42906400",
-       "kind": "diff",
-       "text": "2025-10-23, Mahan, 3 references: به نسخهٔ 42875696 از فرهنگ2016 (بحث) برگردانده شد"
-      }
-     ],
-     "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    },
-    {
      "evidence": [],
      "group": "history",
      "points": 8,
@@ -55,9 +38,21 @@
      "group": "history",
      "points": 8,
      "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=42928203&oldid=42917332",
+       "kind": "diff",
+       "text": "2025-10-27, Mahan, 3 references: به نسخهٔ 42910836 از Mahan (بحث) برگردانده شد"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
     }
    ],
-   "score": 42,
+   "score": 37,
    "tier": "watch"
   },
   {
