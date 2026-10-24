@@ -196,7 +196,7 @@
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "37% of its latest 250 edits undo others."
+     "text": "38% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -389,9 +389,21 @@
      "group": "history",
      "points": 8,
      "text": "18% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=153883556&oldid=153654048",
+       "kind": "diff",
+       "text": "2026-07-09, P.crafter, 1 references: /* Правовые вопросы */ дополнение, источники"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
     }
    ],
-   "score": 8,
+   "score": 13,
    "tier": "calm"
   },
   {
