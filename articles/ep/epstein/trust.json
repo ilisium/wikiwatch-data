@@ -135,56 +135,6 @@
   },
   {
    "historyRead": true,
-   "lang": "en",
-   "language": "English",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1348342821&oldid=1348318002",
-       "kind": "diff",
-       "text": "2026-04-12, Zenomonoz, 2 references: Restored revision 1348305375 by Guest2625 (talk): Rv, this is not a WP:BLP, primary sources are fine, and Dershowitz in WSJ is absolutely fine"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1348199793&oldid=1348137800",
-       "kind": "diff",
-       "text": "2026-04-11, Guest2625, 1 references: Undid revision 1347162936 by Zenomonoz (talk) paragraph is about the cameras/surveillance systems on his properties as noted in the intro sentence."
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1348100922&oldid=1348042487",
-       "kind": "diff",
-       "text": "2026-04-10, MyGosh789, 2 references: /* J. Epstein & Company (1988–2019) */"
-      }
-     ],
-     "group": "history",
-     "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1345728936&oldid=1345727433",
-       "kind": "diff",
-       "text": "2026-03-27, Cedar777, 2 references: /* Civil cases */ only the 1st Sarnoff article mentions 12 yr olds, 2nd article & the Cut do not; source does not name Giuffre"
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
-    },
-    {
-     "evidence": [],
-     "group": "omission",
-     "points": 6,
-     "text": "Leaves out Prince Andrew and Virginia Giuffre, which 7 of the 8 other full versions give."
-    }
-   ],
-   "score": 29,
-   "tier": "watch"
-  },
-  {
-   "historyRead": true,
    "lang": "de",
    "language": "German",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -300,6 +250,34 @@
     }
    ],
    "score": 19,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1345728936&oldid=1345727433",
+       "kind": "diff",
+       "text": "2026-03-27, Cedar777, 2 references: /* Civil cases */ only the 1st Sarnoff article mentions 12 yr olds, 2nd article & the Cut do not; source does not name Giuffre"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    },
+    {
+     "evidence": [],
+     "group": "omission",
+     "points": 6,
+     "text": "Leaves out Prince Andrew and Virginia Giuffre, which 7 of the 8 other full versions give."
+    }
+   ],
+   "score": 14,
    "tier": "calm"
   },
   {
