@@ -61,6 +61,28 @@
   },
   {
    "historyRead": true,
+   "lang": "es",
+   "language": "Spanish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://es.wikipedia.org/w/index.php?diff=174209339&oldid=174209134",
+       "kind": "diff",
+       "text": "2026-07-02, ChronosEdit, 4 references: Reorganice cronológicamente de la sección «Reinado» y añadí el apartado sobre el intento de asesinato de 1949 con referencias"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 4 references."
+    }
+   ],
+   "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "fa",
    "language": "Persian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -127,15 +149,6 @@
    "historyRead": true,
    "lang": "fr",
    "language": "French",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "es",
-   "language": "Spanish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
