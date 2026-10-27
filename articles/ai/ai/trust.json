@@ -129,21 +129,11 @@
        "href": "https://pt.wikipedia.org/w/index.php?diff=72168542&oldid=72014118",
        "kind": "diff",
        "text": "2026-05-02, Julio de Lima Luz, 3 references: no summary"
-      },
-      {
-       "href": "https://pt.wikipedia.org/w/index.php?diff=71626236&oldid=71518993",
-       "kind": "diff",
-       "text": "2026-01-28, Francisco Paiva Junior, 5 references: /* Aplicações */ IA especializada em autismo"
-      },
-      {
-       "href": "https://pt.wikipedia.org/w/index.php?diff=71193024&oldid=71085024",
-       "kind": "diff",
-       "text": "2025-11-14, Elilopes, 11 references: prompt"
       }
      ],
      "group": "history",
      "points": 15,
-     "text": "Sourced additions turned away: 5 edits adding references, reverted."
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
     },
     {
      "evidence": [],
@@ -212,51 +202,6 @@
     }
    ],
    "score": 29,
-   "tier": "watch"
-  },
-  {
-   "historyRead": true,
-   "lang": "ar",
-   "language": "Arabic",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=76682815&oldid=76682786",
-       "kind": "diff",
-       "text": "2026-09-23, خالد موسى, 16 references: تنسيق وتوثيق تقني: إصلاح وسوم الاستشهاد المعطوبة برمجياً في القسم العلوي والمقدمة (Dartmouth workshop ،Succ1 ،Tools of AI) لضمان اتساق المراجع مع دليل الأسلوب."
-      },
-      {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=76428407&oldid=76347737",
-       "kind": "diff",
-       "text": "2026-09-04, شاهين 1, 3 references: إضافة أهداف الذكاء الاصطناعي"
-      }
-     ],
-     "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "23% of its latest 250 edits undo others."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=74262869&oldid=74262080",
-       "kind": "diff",
-       "text": "2026-04-13, إسلام, 50 references: الرجوع عن 19 تعديلا معلقا من Sapientia Sigvísa، Mr.Ibrahembot و ~2026-22758-41 إلى نسخة 74219270 من Serfezi."
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "Sourced material removed and not restored: 1 removal taking out 50 references."
-    }
-   ],
-   "score": 26,
    "tier": "watch"
   },
   {
@@ -339,6 +284,39 @@
     }
    ],
    "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=76682815&oldid=76682786",
+       "kind": "diff",
+       "text": "2026-09-23, خالد موسى, 16 references: تنسيق وتوثيق تقني: إصلاح وسوم الاستشهاد المعطوبة برمجياً في القسم العلوي والمقدمة (Dartmouth workshop ،Succ1 ،Tools of AI) لضمان اتساق المراجع مع دليل الأسلوب."
+      },
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=76428407&oldid=76347737",
+       "kind": "diff",
+       "text": "2026-09-04, شاهين 1, 3 references: إضافة أهداف الذكاء الاصطناعي"
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "23% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 18,
    "tier": "calm"
   },
   {
