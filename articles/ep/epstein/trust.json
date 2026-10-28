@@ -235,21 +235,9 @@
      "group": "omission",
      "points": 6,
      "text": "Leaves out the 'client list' and official findings on it, which 8 of the 8 other full versions give."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=73290611&oldid=73290063",
-       "kind": "diff",
-       "text": "2026-02-01, كانون101, 1 references: إضافة إلى قسم وفاته"
-      }
-     ],
-     "group": "history",
-     "points": 5,
-     "text": "Sourced additions turned away: 1 edit adding references, reverted."
     }
    ],
-   "score": 19,
+   "score": 14,
    "tier": "calm"
   },
   {

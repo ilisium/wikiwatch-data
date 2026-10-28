@@ -83,28 +83,6 @@
   },
   {
    "historyRead": true,
-   "lang": "fa",
-   "language": "Persian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=42928047&oldid=42921136",
-       "kind": "diff",
-       "text": "2025-10-27, Iroony, 11 references: افزودن مطالب حذف شده"
-      }
-     ],
-     "group": "history",
-     "points": 5,
-     "text": "Sourced additions turned away: 1 edit adding references, reverted."
-    }
-   ],
-   "score": 5,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
    "lang": "ru",
    "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -143,6 +121,15 @@
     }
    ],
    "score": 4,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
    "tier": "calm"
   },
   {

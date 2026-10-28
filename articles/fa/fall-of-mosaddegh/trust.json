@@ -2,61 +2,6 @@
  "versions": [
   {
    "historyRead": true,
-   "lang": "fa",
-   "language": "Persian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2026-08-18: 3 reverts by Dexbot, Arian"
-      },
-      {
-       "kind": "war",
-       "text": "2026-10-03: 3 reverts by Massol1360"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "2 edit wars in the last year (three reverts or more within a day)."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "23% of its latest 250 edits undo others."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=42930692&oldid=42930688",
-       "kind": "diff",
-       "text": "2025-10-27, Hootandolati, 2 references: حذف متنی که از پایان نامه برداشته شده بود و اعتبار نداشت."
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=42928203&oldid=42917332",
-       "kind": "diff",
-       "text": "2025-10-27, Mahan, 3 references: به نسخهٔ 42910836 از Mahan (بحث) برگردانده شد"
-      }
-     ],
-     "group": "history",
-     "points": 5,
-     "text": "Sourced additions turned away: 1 edit adding references, reverted."
-    }
-   ],
-   "score": 37,
-   "tier": "watch"
-  },
-  {
-   "historyRead": true,
    "lang": "en",
    "language": "English",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -164,6 +109,37 @@
    ],
    "score": 30,
    "tier": "watch"
+  },
+  {
+   "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-08-18: 3 reverts by Dexbot, Arian"
+      },
+      {
+       "kind": "war",
+       "text": "2026-10-03: 3 reverts by Massol1360"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "2 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "23% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 24,
+   "tier": "calm"
   },
   {
    "historyRead": true,
