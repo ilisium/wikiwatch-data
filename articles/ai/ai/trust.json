@@ -221,6 +221,44 @@
   },
   {
    "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=153883556&oldid=153654048",
+       "kind": "diff",
+       "text": "2026-07-09, P.crafter, 1 references: /* Правовые вопросы */ дополнение, источники"
+      },
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=152814897&oldid=152696507",
+       "kind": "diff",
+       "text": "2026-04-21, Site.lighting, 1 references: Добавлен академический источник о культурно-философском анализе ИИ, включая проект «Анжела Богданова» и эксперимент «Яндекса» как публичные кейсы обсуждения субъектности искусственного интеллекта"
+      },
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=152262041&oldid=152202204",
+       "kind": "diff",
+       "text": "2026-03-16, 176.195.90.185, 1 references: /* СССР */"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "18% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "fa",
    "language": "Persian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -364,22 +402,6 @@
     }
    ],
    "score": 16,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "ru",
-   "language": "Russian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "18% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 8,
    "tier": "calm"
   },
   {

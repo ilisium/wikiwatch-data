@@ -64,11 +64,6 @@
     {
      "evidence": [
       {
-       "href": "https://zh.wikipedia.org/w/index.php?diff=89716174&oldid=89715889",
-       "kind": "diff",
-       "text": "2025-10-28, 神様ありがとう, 9 references: 突然顯示“您想要發布的文字已被我們的過濾器阻止。以下網域被禁止加入：boxun.com”；因為我此前的編輯有一處參考格式錯誤，但又因這個警告而無法編輯，因此只好把引用boxun的所有來源都刪了...雖然刪除這種過濾器禁止的網域名是理應之事，但因此而帶來的或許參考資料缺少我就管不了了..."
-      },
-      {
        "href": "https://zh.wikipedia.org/w/index.php?diff=92661030&oldid=92649898",
        "kind": "diff",
        "text": "2026-05-15, Kanshui0943, 2 references: 調整參考來源"
@@ -81,7 +76,7 @@
      ],
      "group": "history",
      "points": 16,
-     "text": "Sourced material removed and not restored: 3 removals taking out 14 references."
+     "text": "Sourced material removed and not restored: 2 removals taking out 5 references."
     },
     {
      "evidence": [
