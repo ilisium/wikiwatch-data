@@ -57,45 +57,6 @@
   },
   {
    "historyRead": true,
-   "lang": "zh",
-   "language": "Chinese",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://zh.wikipedia.org/w/index.php?diff=92661030&oldid=92649898",
-       "kind": "diff",
-       "text": "2026-05-15, Kanshui0943, 2 references: 調整參考來源"
-      },
-      {
-       "href": "https://zh.wikipedia.org/w/index.php?diff=89728273&oldid=89727500",
-       "kind": "diff",
-       "text": "2025-10-29, 水里的游鱼是沉默的, 3 references: 两条失效链接，来源不一定有我提供的可靠，而且日期错误"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "Sourced material removed and not restored: 2 removals taking out 5 references."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://zh.wikipedia.org/w/index.php?diff=92808028&oldid=92792259",
-       "kind": "diff",
-       "text": "2026-05-26, ZH-Fishp666, 1 references: /* 官方称法 */ 增加或调整参考来源"
-      }
-     ],
-     "group": "history",
-     "points": 5,
-     "text": "Sourced additions turned away: 1 edit adding references, reverted."
-    }
-   ],
-   "score": 21,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
    "lang": "ru",
    "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -114,6 +75,40 @@
     }
    ],
    "score": 14,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "zh",
+   "language": "Chinese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://zh.wikipedia.org/w/index.php?diff=92661030&oldid=92649898",
+       "kind": "diff",
+       "text": "2026-05-15, Kanshui0943, 2 references: 調整參考來源"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://zh.wikipedia.org/w/index.php?diff=92808028&oldid=92792259",
+       "kind": "diff",
+       "text": "2026-05-26, ZH-Fishp666, 1 references: /* 官方称法 */ 增加或调整参考来源"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 13,
    "tier": "calm"
   },
   {

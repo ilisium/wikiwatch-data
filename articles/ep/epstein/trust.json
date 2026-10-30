@@ -192,6 +192,16 @@
     {
      "evidence": [
       {
+       "href": "https://de.wikipedia.org/w/index.php?diff=271694640&oldid=271694003",
+       "kind": "diff",
+       "text": "2026-10-28, Moschusreiniger, 2 references: Änderung 271694003 von Arabsalam rückgängig gemacht; unbegründeter Revert. Es geht nicht darum, dass es ein Israeli ist, sondern dass es Kontakte zu Geheimdienstagenten gab. Das ist das Thema des Abschnitts."
+      },
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=271692600&oldid=271373020",
+       "kind": "diff",
+       "text": "2026-10-28, Moschusreiniger, 2 references: /* Mögliche Verbindungen zu Geheimdiensten */ Laut im Jahr 2025 publizierten Dokumenten des House Oversight Committee hielt sich der israelische Geheimdienstoffizier Yoni Koren – ein langjähriger Weggefährte und ehemaliger Mitarbeiter von Epsteins Freund Ehud Barak – in den Jahren 2013 bis 2015 öfte"
+      },
+      {
        "href": "https://de.wikipedia.org/w/index.php?diff=266098458&oldid=266098407",
        "kind": "diff",
        "text": "2026-04-12, Serols, 2 references: Revert – gelöschte Textabschnitte wiederhergestellt (HG) (3.4.13)"
@@ -209,7 +219,7 @@
      ],
      "group": "history",
      "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+     "text": "Sourced additions turned away: 5 edits adding references, reverted."
     },
     {
      "evidence": [
