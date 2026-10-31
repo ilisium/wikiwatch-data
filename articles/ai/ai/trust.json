@@ -71,6 +71,66 @@
   },
   {
    "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=240524306&oldid=240506311",
+       "kind": "diff",
+       "text": "2026-10-19, Heimdaller, 9 references: Neutralité et sourçage : retrait de références commerciales peu pertinentes, remplacement par des sources scientifiques et institutionnelles, correction du passage sur l'Estonie concernant \"l'IA capable de rendre des décisions de justice\"(info démentie en 2022 par le ministère estonien de la justice"
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=240207444&oldid=240197552",
+       "kind": "diff",
+       "text": "2026-10-09, AnnoyedUnicorn, 4 references: Annulation de l'ajout de Utilisateur:WikiBackbone : sources primaires (interview + MinDef), soupçons de rédaction en IAG, et le sujet principal est le rachat d'une boite. À réécrire complètement donc pour parler uniquement de ce qui se fait."
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=230411498&oldid=230409785",
+       "kind": "diff",
+       "text": "2025-11-06, Jean-Christophe BENOIST, 4 references: /* Débats et enjeux */ mise en évidence, hors WP:Proportion, d'une notion nouvelle qui n'a même pas encore d'article dans Wikipédia Intelligence augmentée, et de tendance transhumaniste donc potentiellement polémique. Plus nombreux problèmes de typo. Faire l'article d'abord (s'il est admissible) et "
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 3 removals taking out 17 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=231072596&oldid=231072370",
+       "kind": "diff",
+       "text": "2025-11-30, Marwa Hussein 1212, 1 references: LeCun, Bengio, Hinton (2015) — revue sur le deep learning"
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=231072370&oldid=231004643",
+       "kind": "diff",
+       "text": "2025-11-30, Marwa Hussein 1212, 1 references: le titre"
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2025-12-11: 5 reverts by Jules*, Jmh2o, Salebot, Csar62"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    }
+   ],
+   "score": 34,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
    "lang": "pt",
    "language": "Portuguese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -174,56 +234,6 @@
     }
    ],
    "score": 29,
-   "tier": "watch"
-  },
-  {
-   "historyRead": true,
-   "lang": "fr",
-   "language": "French",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=231072596&oldid=231072370",
-       "kind": "diff",
-       "text": "2025-11-30, Marwa Hussein 1212, 1 references: LeCun, Bengio, Hinton (2015) — revue sur le deep learning"
-      },
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=231072370&oldid=231004643",
-       "kind": "diff",
-       "text": "2025-11-30, Marwa Hussein 1212, 1 references: le titre"
-      }
-     ],
-     "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    },
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2025-12-11: 5 reverts by Jules*, Jmh2o, Salebot, Csar62"
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "1 edit war in the last year (three reverts or more within a day)."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=230411498&oldid=230409785",
-       "kind": "diff",
-       "text": "2025-11-06, Jean-Christophe BENOIST, 4 references: /* Débats et enjeux */ mise en évidence, hors WP:Proportion, d'une notion nouvelle qui n'a même pas encore d'article dans Wikipédia Intelligence augmentée, et de tendance transhumaniste donc potentiellement polémique. Plus nombreux problèmes de typo. Faire l'article d'abord (s'il est admissible) et "
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "Sourced material removed and not restored: 1 removal taking out 4 references."
-    }
-   ],
-   "score": 26,
    "tier": "watch"
   },
   {
@@ -383,7 +393,7 @@
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "18% of its latest 250 edits undo others."
+     "text": "17% of its latest 250 edits undo others."
     }
    ],
    "score": 8,
