@@ -71,66 +71,6 @@
   },
   {
    "historyRead": true,
-   "lang": "fr",
-   "language": "French",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=240524306&oldid=240506311",
-       "kind": "diff",
-       "text": "2026-10-19, Heimdaller, 9 references: Neutralité et sourçage : retrait de références commerciales peu pertinentes, remplacement par des sources scientifiques et institutionnelles, correction du passage sur l'Estonie concernant \"l'IA capable de rendre des décisions de justice\"(info démentie en 2022 par le ministère estonien de la justice"
-      },
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=240207444&oldid=240197552",
-       "kind": "diff",
-       "text": "2026-10-09, AnnoyedUnicorn, 4 references: Annulation de l'ajout de Utilisateur:WikiBackbone : sources primaires (interview + MinDef), soupçons de rédaction en IAG, et le sujet principal est le rachat d'une boite. À réécrire complètement donc pour parler uniquement de ce qui se fait."
-      },
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=230411498&oldid=230409785",
-       "kind": "diff",
-       "text": "2025-11-06, Jean-Christophe BENOIST, 4 references: /* Débats et enjeux */ mise en évidence, hors WP:Proportion, d'une notion nouvelle qui n'a même pas encore d'article dans Wikipédia Intelligence augmentée, et de tendance transhumaniste donc potentiellement polémique. Plus nombreux problèmes de typo. Faire l'article d'abord (s'il est admissible) et "
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "Sourced material removed and not restored: 3 removals taking out 17 references."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=231072596&oldid=231072370",
-       "kind": "diff",
-       "text": "2025-11-30, Marwa Hussein 1212, 1 references: LeCun, Bengio, Hinton (2015) — revue sur le deep learning"
-      },
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=231072370&oldid=231004643",
-       "kind": "diff",
-       "text": "2025-11-30, Marwa Hussein 1212, 1 references: le titre"
-      }
-     ],
-     "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    },
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2025-12-11: 5 reverts by Jules*, Jmh2o, Salebot, Csar62"
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "1 edit war in the last year (three reverts or more within a day)."
-    }
-   ],
-   "score": 34,
-   "tier": "watch"
-  },
-  {
-   "historyRead": true,
    "lang": "pt",
    "language": "Portuguese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -238,6 +178,87 @@
   },
   {
    "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=240524306&oldid=240506311",
+       "kind": "diff",
+       "text": "2026-10-19, Heimdaller, 9 references: Neutralité et sourçage : retrait de références commerciales peu pertinentes, remplacement par des sources scientifiques et institutionnelles, correction du passage sur l'Estonie concernant \"l'IA capable de rendre des décisions de justice\"(info démentie en 2022 par le ministère estonien de la justice"
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=240207444&oldid=240197552",
+       "kind": "diff",
+       "text": "2026-10-09, AnnoyedUnicorn, 4 references: Annulation de l'ajout de Utilisateur:WikiBackbone : sources primaires (interview + MinDef), soupçons de rédaction en IAG, et le sujet principal est le rachat d'une boite. À réécrire complètement donc pour parler uniquement de ce qui se fait."
+      },
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=230411498&oldid=230409785",
+       "kind": "diff",
+       "text": "2025-11-06, Jean-Christophe BENOIST, 4 references: /* Débats et enjeux */ mise en évidence, hors WP:Proportion, d'une notion nouvelle qui n'a même pas encore d'article dans Wikipédia Intelligence augmentée, et de tendance transhumaniste donc potentiellement polémique. Plus nombreux problèmes de typo. Faire l'article d'abord (s'il est admissible) et "
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 3 removals taking out 17 references."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2025-12-11: 5 reverts by Jules*, Jmh2o, Salebot, Csar62"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    }
+   ],
+   "score": 24,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=153883556&oldid=153654048",
+       "kind": "diff",
+       "text": "2026-07-09, P.crafter, 1 references: /* Правовые вопросы */ дополнение, источники"
+      },
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=152814897&oldid=152696507",
+       "kind": "diff",
+       "text": "2026-04-21, Site.lighting, 1 references: Добавлен академический источник о культурно-философском анализе ИИ, включая проект «Анжела Богданова» и эксперимент «Яндекса» как публичные кейсы обсуждения субъектности искусственного интеллекта"
+      },
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=152262041&oldid=152202204",
+       "kind": "diff",
+       "text": "2026-03-16, 176.195.90.185, 1 references: /* СССР */"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "17% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "fa",
    "language": "Persian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -320,6 +341,46 @@
   },
   {
    "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "23% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=74262869&oldid=74262080",
+       "kind": "diff",
+       "text": "2026-04-13, إسلام, 50 references: الرجوع عن 19 تعديلا معلقا من Sapientia Sigvísa، Mr.Ibrahembot و ~2026-22758-41 إلى نسخة 74219270 من Serfezi."
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 50 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=76682815&oldid=76682786",
+       "kind": "diff",
+       "text": "2026-09-23, خالد موسى, 16 references: تنسيق وتوثيق تقني: إصلاح وسوم الاستشهاد المعطوبة برمجياً في القسم العلوي والمقدمة (Dartmouth workshop ،Succ1 ،Tools of AI) لضمان اتساق المراجع مع دليل الأسلوب."
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 21,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "it",
    "language": "Italian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -353,50 +414,6 @@
     }
    ],
    "score": 16,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "ar",
-   "language": "Arabic",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "23% of its latest 250 edits undo others."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=74262869&oldid=74262080",
-       "kind": "diff",
-       "text": "2026-04-13, إسلام, 50 references: الرجوع عن 19 تعديلا معلقا من Sapientia Sigvísa، Mr.Ibrahembot و ~2026-22758-41 إلى نسخة 74219270 من Serfezi."
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "Sourced material removed and not restored: 1 removal taking out 50 references."
-    }
-   ],
-   "score": 16,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "ru",
-   "language": "Russian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "17% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 8,
    "tier": "calm"
   },
   {
