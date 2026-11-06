@@ -22,9 +22,21 @@
      "group": "history",
      "points": 8,
      "text": "19% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1383906682&oldid=1383906193",
+       "kind": "diff",
+       "text": "2026-11-05, Xexerss, 4 references: /* Anime */ This needs better wording, and Dexerto is considered generally unreliable at WP:VGS."
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 4 references."
     }
    ],
-   "score": 16,
+   "score": 24,
    "tier": "calm"
   },
   {
