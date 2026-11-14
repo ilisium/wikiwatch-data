@@ -83,11 +83,6 @@
     {
      "evidence": [
       {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=230616173&oldid=230616158",
-       "kind": "diff",
-       "text": "2025-11-13, Padarquetty, 2 references: /* Consultation sur des assistants personnels */"
-      },
-      {
        "href": "https://fr.wikipedia.org/w/index.php?diff=231495049&oldid=231494842",
        "kind": "diff",
        "text": "2025-12-15, Padarquetty, 2 references: /* Jeux basés sur Wikipédia */ encore des sources primaires"
@@ -100,7 +95,7 @@
      ],
      "group": "history",
      "points": 16,
-     "text": "Sourced material removed and not restored: 3 removals taking out 6 references."
+     "text": "Sourced material removed and not restored: 2 removals taking out 4 references."
     },
     {
      "evidence": [

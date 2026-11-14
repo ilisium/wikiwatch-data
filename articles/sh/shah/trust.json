@@ -67,6 +67,27 @@
    "tier": "calm"
   },
   {
+   "historyRead": false,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "id": "33f6930d-b859-4d21-8b60-04ed6ce29041",
+       "kind": "point"
+      }
+     ],
+     "group": "omission",
+     "points": 4,
+     "text": "Silent on a point where versions differ: Who helped found SAVAK, the secret police, in 1957?"
+    }
+   ],
+   "score": 4,
+   "tier": "calm"
+  },
+  {
    "historyRead": true,
    "lang": "ru",
    "language": "Russian",
@@ -157,15 +178,6 @@
    "historyRead": true,
    "lang": "pl",
    "language": "Polish",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "zh",
-   "language": "Chinese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
