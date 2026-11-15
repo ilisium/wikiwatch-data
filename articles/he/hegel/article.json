@@ -7,12 +7,12 @@
  "title": "Georg Wilhelm Friedrich Hegel",
  "versions": [
   {
-   "characters": 211768,
+   "characters": 211771,
    "citations": 121,
    "lang": "de",
    "language": "German",
    "protection": null,
-   "readers": 12010,
+   "readers": 13347,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://de.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -23,13 +23,13 @@
    "lang": "pt",
    "language": "Portuguese",
    "protection": null,
-   "readers": 3527,
+   "readers": 4811,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://pt.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
   },
   {
-   "characters": 154085,
+   "characters": 154916,
    "citations": 346,
    "lang": "en",
    "language": "English",
@@ -39,7 +39,7 @@
      "level": "sysop"
     }
    },
-   "readers": 77524,
+   "readers": 53035,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -50,18 +50,18 @@
    "lang": "vi",
    "language": "Vietnamese",
    "protection": null,
-   "readers": 1011,
+   "readers": 1184,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://vi.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
   },
   {
-   "characters": 127906,
-   "citations": 113,
+   "characters": 128592,
+   "citations": 115,
    "lang": "fr",
    "language": "French",
    "protection": null,
-   "readers": 7500,
+   "readers": 7471,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://fr.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -72,18 +72,18 @@
    "lang": "ru",
    "language": "Russian",
    "protection": null,
-   "readers": 7635,
+   "readers": 7771,
    "revid": null,
    "title": "Гегель, Георг Вильгельм Фридрих",
    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B3%D0%B5%D0%BB%D1%8C,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85"
   },
   {
-   "characters": 111399,
+   "characters": 111556,
    "citations": 123,
    "lang": "it",
    "language": "Italian",
    "protection": null,
-   "readers": 9227,
+   "readers": 7063,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://it.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -94,51 +94,40 @@
    "lang": "he",
    "language": "Hebrew",
    "protection": null,
-   "readers": 675,
+   "readers": 624,
    "revid": null,
    "title": "גאורג וילהלם פרידריך הגל",
    "url": "https://he.wikipedia.org/wiki/%D7%92%D7%90%D7%95%D7%A8%D7%92_%D7%95%D7%99%D7%9C%D7%94%D7%9C%D7%9D_%D7%A4%D7%A8%D7%99%D7%93%D7%A8%D7%99%D7%9A_%D7%94%D7%92%D7%9C"
   },
   {
-   "characters": 67713,
-   "citations": 186,
+   "characters": 68058,
+   "citations": 187,
    "lang": "ja",
    "language": "Japanese",
    "protection": null,
-   "readers": 4718,
+   "readers": 6207,
    "revid": null,
    "title": "ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲル",
    "url": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%AA%E3%83%AB%E3%82%AF%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%AB%E3%83%98%E3%83%AB%E3%83%A0%E3%83%BB%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%83%98%E3%83%BC%E3%82%B2%E3%83%AB"
   },
   {
-   "characters": 61255,
-   "citations": 22,
-   "lang": "sr",
-   "language": "Serbian",
-   "protection": null,
-   "readers": 265,
-   "revid": null,
-   "title": "Георг Вилхелм Фридрих Хегел",
-   "url": "https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%92%D0%B8%D0%BB%D1%85%D0%B5%D0%BB%D0%BC_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_%D0%A5%D0%B5%D0%B3%D0%B5%D0%BB"
-  },
-  {
-   "characters": 59473,
+   "characters": 59479,
    "citations": 18,
    "lang": "es",
    "language": "Spanish",
    "protection": null,
-   "readers": 8872,
+   "readers": 8791,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
   },
   {
-   "characters": 49386,
+   "characters": 49382,
    "citations": 35,
    "lang": "ml",
    "language": "Malayalam",
    "protection": null,
-   "readers": 79,
+   "readers": 63,
    "revid": null,
    "title": "ഹേഗൽ",
    "url": "https://ml.wikipedia.org/wiki/%E0%B4%B9%E0%B5%87%E0%B4%97%E0%B5%BD"
@@ -149,7 +138,7 @@
    "lang": "fi",
    "language": "Finnish",
    "protection": null,
-   "readers": 650,
+   "readers": 569,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://fi.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -160,7 +149,7 @@
    "lang": "id",
    "language": "Indonesian",
    "protection": null,
-   "readers": 390,
+   "readers": 388,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://id.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -169,20 +158,20 @@
    "characters": 44641,
    "citations": 5,
    "lang": "min",
-   "language": "Minangkabau",
+   "language": "min",
    "protection": null,
-   "readers": 12,
+   "readers": 7,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://min.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
   },
   {
-   "characters": 44245,
+   "characters": 44424,
    "citations": 12,
    "lang": "gl",
    "language": "Galician",
    "protection": null,
-   "readers": null,
+   "readers": 37,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://gl.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -193,18 +182,18 @@
    "lang": "sv",
    "language": "Swedish",
    "protection": null,
-   "readers": 926,
+   "readers": 858,
    "revid": null,
    "title": "Friedrich Hegel",
    "url": "https://sv.wikipedia.org/wiki/Friedrich_Hegel"
   },
   {
-   "characters": 42401,
+   "characters": 42398,
    "citations": 2,
    "lang": "ast",
    "language": "Asturian",
    "protection": null,
-   "readers": 23,
+   "readers": 20,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://ast.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -215,10 +204,21 @@
    "lang": "eo",
    "language": "Esperanto",
    "protection": null,
-   "readers": 16,
+   "readers": 12,
    "revid": null,
    "title": "Hegelo",
    "url": "https://eo.wikipedia.org/wiki/Hegelo"
+  },
+  {
+   "characters": 37632,
+   "citations": 42,
+   "lang": "sr",
+   "language": "Serbian",
+   "protection": null,
+   "readers": 302,
+   "revid": null,
+   "title": "Георг Вилхелм Фридрих Хегел",
+   "url": "https://sr.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%92%D0%B8%D0%BB%D1%85%D0%B5%D0%BB%D0%BC_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_%D0%A5%D0%B5%D0%B3%D0%B5%D0%BB"
   },
   {
    "characters": 36737,
@@ -226,7 +226,7 @@
    "lang": "bg",
    "language": "Bulgarian",
    "protection": null,
-   "readers": 208,
+   "readers": 321,
    "revid": null,
    "title": "Георг Вилхелм Фридрих Хегел",
    "url": "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%92%D0%B8%D0%BB%D1%85%D0%B5%D0%BB%D0%BC_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_%D0%A5%D0%B5%D0%B3%D0%B5%D0%BB"
@@ -237,7 +237,7 @@
    "lang": "hi",
    "language": "Hindi",
    "protection": null,
-   "readers": 196,
+   "readers": 189,
    "revid": null,
    "title": "जार्ज विल्हेम फ्रेड्रिक हेगेल",
    "url": "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9C_%E0%A4%B5%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%B9%E0%A5%87%E0%A4%AE_%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A1%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95_%E0%A4%B9%E0%A5%87%E0%A4%97%E0%A5%87%E0%A4%B2"
@@ -248,7 +248,7 @@
    "lang": "da",
    "language": "Danish",
    "protection": null,
-   "readers": 259,
+   "readers": 258,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://da.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -259,7 +259,7 @@
    "lang": "eu",
    "language": "Basque",
    "protection": null,
-   "readers": 28,
+   "readers": 43,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://eu.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
@@ -270,7 +270,7 @@
    "lang": "pl",
    "language": "Polish",
    "protection": null,
-   "readers": 2535,
+   "readers": 3045,
    "revid": null,
    "title": "Georg Wilhelm Friedrich Hegel",
    "url": "https://pl.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"

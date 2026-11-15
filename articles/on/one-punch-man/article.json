@@ -24,7 +24,7 @@
  "title": "One-Punch Man",
  "versions": [
   {
-   "characters": 169159,
+   "characters": 169143,
    "citations": 112,
    "lang": "ja",
    "language": "Japanese",
@@ -38,29 +38,29 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 27099,
+   "readers": 26214,
    "revid": null,
    "title": "ワンパンマン",
    "url": "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%91%E3%83%B3%E3%83%9E%E3%83%B3"
   },
   {
-   "characters": 84874,
-   "citations": 135,
+   "characters": 87578,
+   "citations": 139,
    "lang": "en",
    "language": "English",
    "protection": null,
-   "readers": 41329,
+   "readers": 38350,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://en.wikipedia.org/wiki/One-Punch_Man"
   },
   {
-   "characters": 61183,
+   "characters": 61201,
    "citations": 65,
    "lang": "uk",
    "language": "Ukrainian",
    "protection": null,
-   "readers": 287,
+   "readers": 146,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://uk.wikipedia.org/wiki/One-Punch_Man"
@@ -71,18 +71,18 @@
    "lang": "vi",
    "language": "Vietnamese",
    "protection": null,
-   "readers": 690,
+   "readers": 706,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://vi.wikipedia.org/wiki/One-Punch_Man"
   },
   {
-   "characters": 56764,
+   "characters": 56878,
    "citations": 28,
    "lang": "ko",
    "language": "Korean",
    "protection": null,
-   "readers": 397,
+   "readers": 381,
    "revid": null,
    "title": "원펀맨",
    "url": "https://ko.wikipedia.org/wiki/%EC%9B%90%ED%8E%80%EB%A7%A8"
@@ -93,7 +93,7 @@
    "lang": "pl",
    "language": "Polish",
    "protection": null,
-   "readers": 384,
+   "readers": 410,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://pl.wikipedia.org/wiki/One-Punch_Man"
@@ -104,29 +104,29 @@
    "lang": "es",
    "language": "Spanish",
    "protection": null,
-   "readers": 4261,
+   "readers": 4288,
    "revid": null,
    "title": "One Punch-Man",
    "url": "https://es.wikipedia.org/wiki/One_Punch-Man"
   },
   {
-   "characters": 39338,
+   "characters": 39502,
    "citations": 17,
    "lang": "zh",
    "language": "Chinese",
    "protection": null,
-   "readers": 8014,
+   "readers": 9121,
    "revid": null,
    "title": "一拳超人",
    "url": "https://zh.wikipedia.org/wiki/%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA"
   },
   {
-   "characters": 38184,
+   "characters": 38233,
    "citations": 49,
    "lang": "de",
    "language": "German",
    "protection": null,
-   "readers": 1717,
+   "readers": 1675,
    "revid": null,
    "title": "One Punch Man",
    "url": "https://de.wikipedia.org/wiki/One_Punch_Man"
@@ -137,18 +137,18 @@
    "lang": "sr",
    "language": "Serbian",
    "protection": null,
-   "readers": 46,
+   "readers": 37,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://sr.wikipedia.org/wiki/One-Punch_Man"
   },
   {
-   "characters": 32743,
+   "characters": 32735,
    "citations": 58,
    "lang": "az",
    "language": "Azerbaijani",
    "protection": null,
-   "readers": 12,
+   "readers": 3,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://az.wikipedia.org/wiki/One-Punch_Man"
@@ -159,7 +159,7 @@
    "lang": "pt",
    "language": "Portuguese",
    "protection": null,
-   "readers": 1357,
+   "readers": 1723,
    "revid": null,
    "title": "One Punch-Man",
    "url": "https://pt.wikipedia.org/wiki/One_Punch-Man"
@@ -170,7 +170,7 @@
    "lang": "fr",
    "language": "French",
    "protection": null,
-   "readers": 4674,
+   "readers": 4691,
    "revid": null,
    "title": "One Punch Man",
    "url": "https://fr.wikipedia.org/wiki/One_Punch_Man"
@@ -181,7 +181,7 @@
    "lang": "ar",
    "language": "Arabic",
    "protection": null,
-   "readers": 251,
+   "readers": 214,
    "revid": null,
    "title": "رجل اللكمة الواحدة",
    "url": "https://ar.wikipedia.org/wiki/%D8%B1%D8%AC%D9%84_%D8%A7%D9%84%D9%84%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D9%88%D8%A7%D8%AD%D8%AF%D8%A9"
@@ -192,7 +192,7 @@
    "lang": "ru",
    "language": "Russian",
    "protection": null,
-   "readers": 3655,
+   "readers": 4252,
    "revid": null,
    "title": "Ванпанчмен",
    "url": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD%D0%BF%D0%B0%D0%BD%D1%87%D0%BC%D0%B5%D0%BD"
@@ -203,7 +203,7 @@
    "lang": "bn",
    "language": "Bengali",
    "protection": null,
-   "readers": 63,
+   "readers": 18,
    "revid": null,
    "title": "ওয়ান পাঞ্চ ম্যান",
    "url": "https://bn.wikipedia.org/wiki/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%AA%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A_%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8"
@@ -214,7 +214,7 @@
    "lang": "tr",
    "language": "Turkish",
    "protection": null,
-   "readers": null,
+   "readers": 375,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://tr.wikipedia.org/wiki/One-Punch_Man"
@@ -225,13 +225,13 @@
    "lang": "it",
    "language": "Italian",
    "protection": null,
-   "readers": 3195,
+   "readers": 3204,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://it.wikipedia.org/wiki/One-Punch_Man"
   },
   {
-   "characters": 14587,
+   "characters": 14573,
    "citations": 13,
    "lang": "id",
    "language": "Indonesian",
@@ -241,7 +241,7 @@
      "level": "sysop"
     }
    },
-   "readers": 554,
+   "readers": 475,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://id.wikipedia.org/wiki/One-Punch_Man"
@@ -252,7 +252,7 @@
    "lang": "lb",
    "language": "Luxembourgish",
    "protection": null,
-   "readers": 3,
+   "readers": 16,
    "revid": null,
    "title": "One Punch Man",
    "url": "https://lb.wikipedia.org/wiki/One_Punch_Man"
@@ -263,7 +263,7 @@
    "lang": "fa",
    "language": "Persian",
    "protection": null,
-   "readers": 725,
+   "readers": 683,
    "revid": null,
    "title": "مرد تک‌مشتی",
    "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%AF_%D8%AA%DA%A9%E2%80%8C%D9%85%D8%B4%D8%AA%DB%8C"
@@ -274,7 +274,7 @@
    "lang": "simple",
    "language": "Simple English",
    "protection": null,
-   "readers": 138,
+   "readers": 80,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://simple.wikipedia.org/wiki/One-Punch_Man"
@@ -285,7 +285,7 @@
    "lang": "cs",
    "language": "Czech",
    "protection": null,
-   "readers": 37,
+   "readers": 57,
    "revid": null,
    "title": "One Punch Man",
    "url": "https://cs.wikipedia.org/wiki/One_Punch_Man"
@@ -296,7 +296,7 @@
    "lang": "uz",
    "language": "Uzbek",
    "protection": null,
-   "readers": 39,
+   "readers": 15,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://uz.wikipedia.org/wiki/One-Punch_Man"
@@ -307,7 +307,7 @@
    "lang": "hy",
    "language": "Armenian",
    "protection": null,
-   "readers": 6,
+   "readers": 5,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://hy.wikipedia.org/wiki/One-Punch_Man"
@@ -318,7 +318,7 @@
    "lang": "ro",
    "language": "Romanian",
    "protection": null,
-   "readers": 36,
+   "readers": 18,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://ro.wikipedia.org/wiki/One-Punch_Man"
@@ -329,7 +329,7 @@
    "lang": "mk",
    "language": "Macedonian",
    "protection": null,
-   "readers": 16,
+   "readers": 4,
    "revid": null,
    "title": "Ванпанчмен",
    "url": "https://mk.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD%D0%BF%D0%B0%D0%BD%D1%87%D0%BC%D0%B5%D0%BD"
@@ -340,7 +340,7 @@
    "lang": "th",
    "language": "Thai",
    "protection": null,
-   "readers": 405,
+   "readers": 330,
    "revid": null,
    "title": "วันพันช์แมน",
    "url": "https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99"
@@ -351,7 +351,7 @@
    "lang": "he",
    "language": "Hebrew",
    "protection": null,
-   "readers": 115,
+   "readers": 84,
    "revid": null,
    "title": "ואן-פאנץ' מן",
    "url": "https://he.wikipedia.org/wiki/%D7%95%D7%90%D7%9F-%D7%A4%D7%90%D7%A0%D7%A5%27_%D7%9E%D7%9F"
@@ -362,7 +362,7 @@
    "lang": "ms",
    "language": "Malay",
    "protection": null,
-   "readers": 16,
+   "readers": 17,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://ms.wikipedia.org/wiki/One-Punch_Man"
@@ -373,29 +373,29 @@
    "lang": "eu",
    "language": "Basque",
    "protection": null,
-   "readers": 9,
+   "readers": 8,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://eu.wikipedia.org/wiki/One-Punch_Man"
   },
   {
-   "characters": 5397,
+   "characters": 5517,
    "citations": 10,
    "lang": "sq",
    "language": "Albanian",
    "protection": null,
-   "readers": 11,
+   "readers": 7,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://sq.wikipedia.org/wiki/One-Punch_Man"
   },
   {
-   "characters": 4951,
+   "characters": 4953,
    "citations": 5,
    "lang": "ckb",
    "language": "Central Kurdish",
    "protection": null,
-   "readers": 4,
+   "readers": 8,
    "revid": null,
    "title": "وەن پەنچ مان",
    "url": "https://ckb.wikipedia.org/wiki/%D9%88%DB%95%D9%86_%D9%BE%DB%95%D9%86%DA%86_%D9%85%D8%A7%D9%86"
@@ -404,9 +404,9 @@
    "characters": 4503,
    "citations": 4,
    "lang": "bcl",
-   "language": "Bikol",
+   "language": "bik",
    "protection": null,
-   "readers": 10,
+   "readers": 8,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://bcl.wikipedia.org/wiki/One-Punch_Man"
@@ -417,7 +417,7 @@
    "lang": "sv",
    "language": "Swedish",
    "protection": null,
-   "readers": 68,
+   "readers": 44,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://sv.wikipedia.org/wiki/One-Punch_Man"
@@ -428,7 +428,7 @@
    "lang": "fi",
    "language": "Finnish",
    "protection": null,
-   "readers": 67,
+   "readers": 62,
    "revid": null,
    "title": "One Punch Man",
    "url": "https://fi.wikipedia.org/wiki/One_Punch_Man"
@@ -439,7 +439,7 @@
    "lang": "hi",
    "language": "Hindi",
    "protection": null,
-   "readers": 19,
+   "readers": 13,
    "revid": null,
    "title": "वन-पंच मैन",
    "url": "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%A8-%E0%A4%AA%E0%A4%82%E0%A4%9A_%E0%A4%AE%E0%A5%88%E0%A4%A8"
@@ -450,7 +450,7 @@
    "lang": "ca",
    "language": "Catalan",
    "protection": null,
-   "readers": 18,
+   "readers": 22,
    "revid": null,
    "title": "One Punch-Man",
    "url": "https://ca.wikipedia.org/wiki/One_Punch-Man"
@@ -461,7 +461,7 @@
    "lang": "nl",
    "language": "Dutch",
    "protection": null,
-   "readers": 170,
+   "readers": 178,
    "revid": null,
    "title": "One Punch Man",
    "url": "https://nl.wikipedia.org/wiki/One_Punch_Man"
@@ -472,7 +472,7 @@
    "lang": "ka",
    "language": "Georgian",
    "protection": null,
-   "readers": 7,
+   "readers": 8,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://ka.wikipedia.org/wiki/One-Punch_Man"
@@ -492,9 +492,9 @@
    "characters": 2872,
    "citations": 0,
    "lang": "ban",
-   "language": "Balinese",
+   "language": "ban",
    "protection": null,
-   "readers": 2,
+   "readers": 12,
    "revid": null,
    "title": "One Punch Man",
    "url": "https://ban.wikipedia.org/wiki/One_Punch_Man"
@@ -505,7 +505,7 @@
    "lang": "lv",
    "language": "Latvian",
    "protection": null,
-   "readers": 6,
+   "readers": 7,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://lv.wikipedia.org/wiki/One-Punch_Man"
@@ -516,7 +516,7 @@
    "lang": "eo",
    "language": "Esperanto",
    "protection": null,
-   "readers": 6,
+   "readers": 4,
    "revid": null,
    "title": "One Punch Man",
    "url": "https://eo.wikipedia.org/wiki/One_Punch_Man"
@@ -525,9 +525,9 @@
    "characters": 1045,
    "citations": 1,
    "lang": "ary",
-   "language": "Moroccan Arabic",
+   "language": "ary",
    "protection": null,
-   "readers": 8,
+   "readers": 9,
    "revid": null,
    "title": "وان پانتش مان",
    "url": "https://ary.wikipedia.org/wiki/%D9%88%D8%A7%D9%86_%D9%BE%D8%A7%D9%86%D8%AA%D8%B4_%D9%85%D8%A7%D9%86"
@@ -538,7 +538,7 @@
    "lang": "zh-min-nan",
    "language": "zh-min-nan",
    "protection": null,
-   "readers": 5,
+   "readers": 4,
    "revid": null,
    "title": "One-Punch Man",
    "url": "https://zh-min-nan.wikipedia.org/wiki/One-Punch_Man"

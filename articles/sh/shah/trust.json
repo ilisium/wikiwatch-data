@@ -46,6 +46,44 @@
   },
   {
    "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "16% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "protection",
+       "text": "2026-03-04 by Dandelo: Edit-War – bitte die zugehörige Diskussionsseite aufsuchen"
+      }
+     ],
+     "group": "history",
+     "points": 6,
+     "text": "Editing restricted over a content dispute in the last two years."
+    },
+    {
+     "evidence": [
+      {
+       "id": "33f6930d-b859-4d21-8b60-04ed6ce29041",
+       "kind": "point"
+      }
+     ],
+     "group": "omission",
+     "points": 4,
+     "text": "Silent on a point where versions differ: Who helped found SAVAK, the secret police, in 1957?"
+    }
+   ],
+   "score": 18,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "es",
    "language": "Spanish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -64,27 +102,6 @@
     }
    ],
    "score": 8,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
-   "lang": "de",
-   "language": "German",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "id": "33f6930d-b859-4d21-8b60-04ed6ce29041",
-       "kind": "point"
-      }
-     ],
-     "group": "omission",
-     "points": 4,
-     "text": "Silent on a point where versions differ: Who helped found SAVAK, the secret police, in 1957?"
-    }
-   ],
-   "score": 4,
    "tier": "calm"
   },
   {

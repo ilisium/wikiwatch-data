@@ -116,15 +116,6 @@
   },
   {
    "historyRead": true,
-   "lang": "de",
-   "language": "German",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
    "lang": "pt",
    "language": "Portuguese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -134,8 +125,8 @@
   },
   {
    "historyRead": true,
-   "lang": "fa",
-   "language": "Persian",
+   "lang": "de",
+   "language": "German",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
@@ -145,6 +136,15 @@
    "historyRead": true,
    "lang": "vi",
    "language": "Vietnamese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,

@@ -113,7 +113,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "hu",
    "language": "Hungarian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",

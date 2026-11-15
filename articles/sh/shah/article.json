@@ -977,9 +977,9 @@
    "characters": 1563,
    "citations": 1,
    "lang": "knc",
-   "language": "Kanuri",
+   "language": "kr",
    "protection": null,
-   "readers": 18,
+   "readers": 16,
    "revid": null,
    "title": "Mohammad Reza Pahlavi",
    "url": "https://knc.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
@@ -990,7 +990,7 @@
    "lang": "la",
    "language": "Latin",
    "protection": null,
-   "readers": null,
+   "readers": 14,
    "revid": null,
    "title": "Mahometus Rezā Pahlawī",
    "url": "https://la.wikipedia.org/wiki/Mahometus_Rez%C4%81_Pahlaw%C4%AB"
@@ -1001,7 +1001,7 @@
    "lang": "br",
    "language": "Breton",
    "protection": null,
-   "readers": 10,
+   "readers": 9,
    "revid": null,
    "title": "Mohammad Reza Pahlavi",
    "url": "https://br.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
@@ -1012,7 +1012,7 @@
    "lang": "ta",
    "language": "Tamil",
    "protection": null,
-   "readers": 22,
+   "readers": 15,
    "revid": null,
    "title": "முகம்மத் ரிசா ஷா பஹ்லவி",
    "url": "https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AF%8D%E0%AE%AE%E0%AE%A4%E0%AF%8D_%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AE%BE_%E0%AE%B7%E0%AE%BE_%E0%AE%AA%E0%AE%B9%E0%AF%8D%E0%AE%B2%E0%AE%B5%E0%AE%BF"
@@ -1021,9 +1021,9 @@
    "characters": 1012,
    "citations": 0,
    "lang": "io",
-   "language": "Ido",
+   "language": "io",
    "protection": null,
-   "readers": 9,
+   "readers": 8,
    "revid": null,
    "title": "Mohammad Reza Pahlavi",
    "url": "https://io.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
@@ -1032,9 +1032,9 @@
    "characters": 923,
    "citations": 0,
    "lang": "tly",
-   "language": "Talysh",
+   "language": "tly",
    "protection": null,
-   "readers": 11,
+   "readers": 6,
    "revid": null,
    "title": "Muhəmməd Reza Pəhləvi",
    "url": "https://tly.wikipedia.org/wiki/Muh%C9%99mm%C9%99d_Reza_P%C9%99hl%C9%99vi"
@@ -1045,7 +1045,7 @@
    "lang": "my",
    "language": "Burmese",
    "protection": null,
-   "readers": 11,
+   "readers": 4,
    "revid": null,
    "title": "မိုဟာမက် ရေဇာ ပါလာဗီ",
    "url": "https://my.wikipedia.org/wiki/%E1%80%99%E1%80%AD%E1%80%AF%E1%80%9F%E1%80%AC%E1%80%99%E1%80%80%E1%80%BA_%E1%80%9B%E1%80%B1%E1%80%87%E1%80%AC_%E1%80%95%E1%80%AB%E1%80%9C%E1%80%AC%E1%80%97%E1%80%AE"
@@ -1056,7 +1056,7 @@
    "lang": "zh-min-nan",
    "language": "zh-min-nan",
    "protection": null,
-   "readers": 7,
+   "readers": 5,
    "revid": null,
    "title": "Mohammad Reza Pahlavi",
    "url": "https://zh-min-nan.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
@@ -1078,7 +1078,7 @@
    "lang": "fo",
    "language": "Faroese",
    "protection": null,
-   "readers": 21,
+   "readers": 17,
    "revid": null,
    "title": "Mohammad Reza Pahlavi",
    "url": "https://fo.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
@@ -1087,9 +1087,9 @@
    "characters": 613,
    "citations": 0,
    "lang": "diq",
-   "language": "Zaza",
+   "language": "zza",
    "protection": null,
-   "readers": 18,
+   "readers": 3,
    "revid": null,
    "title": "Mıhemmed Rıza Pehlewi",
    "url": "https://diq.wikipedia.org/wiki/M%C4%B1hemmed_R%C4%B1za_Pehlewi"
@@ -1100,7 +1100,7 @@
    "lang": "ha",
    "language": "Hausa",
    "protection": null,
-   "readers": 32,
+   "readers": 11,
    "revid": null,
    "title": "Mohammad Reza Pahlavi",
    "url": "https://ha.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
@@ -1111,7 +1111,7 @@
    "lang": "ps",
    "language": "Pashto",
    "protection": null,
-   "readers": 13,
+   "readers": 18,
    "revid": null,
    "title": "محمدرضا شاه پهلوی",
    "url": "https://ps.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7_%D8%B4%D8%A7%D9%87_%D9%BE%D9%87%D9%84%D9%88%DB%8C"
@@ -1120,9 +1120,9 @@
    "characters": 384,
    "citations": 1,
    "lang": "ks",
-   "language": "Kashmiri",
+   "language": "ks",
    "protection": null,
-   "readers": 11,
+   "readers": 5,
    "revid": null,
    "title": "مُحمد رضا پہلوی",
    "url": "https://ks.wikipedia.org/wiki/%D9%85%D9%8F%D8%AD%D9%85%D8%AF_%D8%B1%D8%B6%D8%A7_%D9%BE%DB%81%D9%84%D9%88%DB%8C"
@@ -1133,7 +1133,7 @@
    "lang": "so",
    "language": "Somali",
    "protection": null,
-   "readers": 10,
+   "readers": 6,
    "revid": null,
    "title": "Mohammad Reza Pahlavi",
    "url": "https://so.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
@@ -1142,9 +1142,9 @@
    "characters": 195,
    "citations": 0,
    "lang": "wuu",
-   "language": "Wu Chinese",
+   "language": "wuu",
    "protection": null,
-   "readers": 74,
+   "readers": 47,
    "revid": null,
    "title": "穆罕默德-礼萨·巴列维",
    "url": "https://wuu.wikipedia.org/wiki/%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7-%E7%A4%BC%E8%90%A8%C2%B7%E5%B7%B4%E5%88%97%E7%BB%B4"
@@ -1155,7 +1155,7 @@
    "lang": "zh-yue",
    "language": "zh-yue",
    "protection": null,
-   "readers": 21,
+   "readers": 20,
    "revid": null,
    "title": "巴列維國王",
    "url": "https://zh-yue.wikipedia.org/wiki/%E5%B7%B4%E5%88%97%E7%B6%AD%E5%9C%8B%E7%8E%8B"
@@ -1164,9 +1164,9 @@
    "characters": 171,
    "citations": 0,
    "lang": "crh",
-   "language": "Crimean Tatar",
+   "language": "crh",
    "protection": null,
-   "readers": 18,
+   "readers": 6,
    "revid": null,
    "title": "Muhammed Reza Pehleviy",
    "url": "https://crh.wikipedia.org/wiki/Muhammed_Reza_Pehleviy"

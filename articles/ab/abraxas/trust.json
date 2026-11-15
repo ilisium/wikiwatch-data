@@ -56,6 +56,15 @@
   },
   {
    "historyRead": true,
+   "lang": "ja",
+   "language": "Japanese",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "pt",
    "language": "Portuguese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -65,8 +74,8 @@
   },
   {
    "historyRead": true,
-   "lang": "ja",
-   "language": "Japanese",
+   "lang": "zh",
+   "language": "Chinese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
@@ -85,15 +94,6 @@
    "historyRead": true,
    "lang": "ko",
    "language": "Korean",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "zh",
-   "language": "Chinese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
