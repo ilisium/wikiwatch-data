@@ -130,9 +130,9 @@
    "tier": "calm"
   },
   {
-   "historyRead": true,
-   "lang": "ar",
-   "language": "Arabic",
+   "historyRead": false,
+   "lang": "tr",
+   "language": "Turkish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,

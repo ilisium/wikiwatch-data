@@ -439,9 +439,9 @@
    "tier": "calm"
   },
   {
-   "historyRead": true,
-   "lang": "zh",
-   "language": "Chinese",
+   "historyRead": false,
+   "lang": "en",
+   "language": "English",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,

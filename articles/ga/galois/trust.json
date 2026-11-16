@@ -27,8 +27,8 @@
   },
   {
    "historyRead": true,
-   "lang": "ja",
-   "language": "Japanese",
+   "lang": "ru",
+   "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
@@ -36,8 +36,8 @@
   },
   {
    "historyRead": true,
-   "lang": "ru",
-   "language": "Russian",
+   "lang": "ja",
+   "language": "Japanese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
@@ -54,8 +54,8 @@
   },
   {
    "historyRead": true,
-   "lang": "de",
-   "language": "German",
+   "lang": "zh",
+   "language": "Chinese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
@@ -63,8 +63,8 @@
   },
   {
    "historyRead": true,
-   "lang": "zh",
-   "language": "Chinese",
+   "lang": "de",
+   "language": "German",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
@@ -90,15 +90,6 @@
   },
   {
    "historyRead": true,
-   "lang": "vi",
-   "language": "Vietnamese",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
    "lang": "fa",
    "language": "Persian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -110,6 +101,15 @@
    "historyRead": true,
    "lang": "pl",
    "language": "Polish",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [],
+   "score": 0,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "vi",
+   "language": "Vietnamese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
