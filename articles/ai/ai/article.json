@@ -937,7 +937,7 @@
    "lang": "ga",
    "language": "Irish",
    "protection": null,
-   "readers": 70,
+   "readers": 53,
    "revid": null,
    "title": "Intleacht shaorga",
    "url": "https://ga.wikipedia.org/wiki/Intleacht_shaorga"
@@ -948,7 +948,7 @@
    "lang": "als",
    "language": "Albanian",
    "protection": null,
-   "readers": 124,
+   "readers": 90,
    "revid": null,
    "title": "Künstliche Intelligenz",
    "url": "https://als.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz"
@@ -959,7 +959,7 @@
    "lang": "ne",
    "language": "Nepali",
    "protection": null,
-   "readers": null,
+   "readers": 85,
    "revid": null,
    "title": "कृत्रिम बौद्धिकता",
    "url": "https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE_%E0%A4%AC%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%95%E0%A4%A4%E0%A4%BE"
@@ -970,29 +970,29 @@
    "lang": "ps",
    "language": "Pashto",
    "protection": null,
-   "readers": 88,
+   "readers": 65,
    "revid": null,
    "title": "مصنوعي ځيرکتیا",
    "url": "https://ps.wikipedia.org/wiki/%D9%85%D8%B5%D9%86%D9%88%D8%B9%D9%8A_%DA%81%D9%8A%D8%B1%DA%A9%D8%AA%DB%8C%D8%A7"
   },
   {
-   "characters": 9743,
+   "characters": 9711,
    "citations": 0,
    "lang": "cv",
-   "language": "Chuvash",
+   "language": "cv",
    "protection": null,
-   "readers": 61,
+   "readers": 18,
    "revid": null,
    "title": "Ăслайланă ăстăн",
    "url": "https://cv.wikipedia.org/wiki/%C4%82%D1%81%D0%BB%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%C4%83_%C4%83%D1%81%D1%82%C4%83%D0%BD"
   },
   {
-   "characters": 9592,
+   "characters": 9575,
    "citations": 6,
    "lang": "uz",
    "language": "Uzbek",
    "protection": null,
-   "readers": 2540,
+   "readers": 2757,
    "revid": null,
    "title": "Sunʼiy intellekt",
    "url": "https://uz.wikipedia.org/wiki/Sun%CA%BCiy_intellekt"
@@ -1001,9 +1001,9 @@
    "characters": 9516,
    "citations": 0,
    "lang": "bo",
-   "language": "Tibetan",
+   "language": "bo",
    "protection": null,
-   "readers": 68,
+   "readers": 51,
    "revid": null,
    "title": "མི་བཟོས་རིག་ནུས།",
    "url": "https://bo.wikipedia.org/wiki/%E0%BD%98%E0%BD%B2%E0%BC%8B%E0%BD%96%E0%BD%9F%E0%BD%BC%E0%BD%A6%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BD%82%E0%BC%8B%E0%BD%93%E0%BD%B4%E0%BD%A6%E0%BC%8D"
@@ -1014,7 +1014,7 @@
    "lang": "or",
    "language": "Odia",
    "protection": null,
-   "readers": 143,
+   "readers": 152,
    "revid": null,
    "title": "ଆର୍ଟିଫିସିଆଲ ଇଣ୍ଟେଲିଜେନ୍ସ",
    "url": "https://or.wikipedia.org/wiki/%E0%AC%86%E0%AC%B0%E0%AD%8D%E0%AC%9F%E0%AC%BF%E0%AC%AB%E0%AC%BF%E0%AC%B8%E0%AC%BF%E0%AC%86%E0%AC%B2_%E0%AC%87%E0%AC%A3%E0%AD%8D%E0%AC%9F%E0%AD%87%E0%AC%B2%E0%AC%BF%E0%AC%9C%E0%AD%87%E0%AC%A8%E0%AD%8D%E0%AC%B8"
@@ -1025,7 +1025,7 @@
    "lang": "hyw",
    "language": "Western Armenian",
    "protection": null,
-   "readers": 60,
+   "readers": 44,
    "revid": null,
    "title": "Արուեստական Իմացականութիւն",
    "url": "https://hyw.wikipedia.org/wiki/%D4%B1%D6%80%D5%B8%D6%82%D5%A5%D5%BD%D5%BF%D5%A1%D5%AF%D5%A1%D5%B6_%D4%BB%D5%B4%D5%A1%D6%81%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%AB%D6%82%D5%B6"
@@ -1036,7 +1036,7 @@
    "lang": "ml",
    "language": "Malayalam",
    "protection": null,
-   "readers": 730,
+   "readers": 396,
    "revid": null,
    "title": "നി‍ർമ്മിത ബുദ്ധി",
    "url": "https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B4%BF%E2%80%8D%E0%B5%BC%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B4%BF%E0%B4%A4_%E0%B4%AC%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%A7%E0%B4%BF"
@@ -1047,7 +1047,7 @@
    "lang": "lo",
    "language": "Lao",
    "protection": null,
-   "readers": 82,
+   "readers": 50,
    "revid": null,
    "title": "ປັນຍາປະດິດ",
    "url": "https://lo.wikipedia.org/wiki/%E0%BA%9B%E0%BA%B1%E0%BA%99%E0%BA%8D%E0%BA%B2%E0%BA%9B%E0%BA%B0%E0%BA%94%E0%BA%B4%E0%BA%94"
@@ -1058,7 +1058,7 @@
    "lang": "te",
    "language": "Telugu",
    "protection": null,
-   "readers": 340,
+   "readers": 215,
    "revid": null,
    "title": "కృత్రిమ మేధస్సు",
    "url": "https://te.wikipedia.org/wiki/%E0%B0%95%E0%B1%83%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%BF%E0%B0%AE_%E0%B0%AE%E0%B1%87%E0%B0%A7%E0%B0%B8%E0%B1%8D%E0%B0%B8%E0%B1%81"
@@ -1069,7 +1069,7 @@
    "lang": "lv",
    "language": "Latvian",
    "protection": null,
-   "readers": 462,
+   "readers": 434,
    "revid": null,
    "title": "Mākslīgais intelekts",
    "url": "https://lv.wikipedia.org/wiki/M%C4%81ksl%C4%ABgais_intelekts"
@@ -1080,7 +1080,7 @@
    "lang": "ht",
    "language": "Haitian Creole",
    "protection": null,
-   "readers": 83,
+   "readers": 61,
    "revid": null,
    "title": "Entèlijans atifisyèl",
    "url": "https://ht.wikipedia.org/wiki/Ent%C3%A8lijans_atifisy%C3%A8l"
@@ -1091,18 +1091,29 @@
    "lang": "jv",
    "language": "Javanese",
    "protection": null,
-   "readers": 58,
+   "readers": 35,
    "revid": null,
    "title": "Kacerdhasan gawéyan",
    "url": "https://jv.wikipedia.org/wiki/Kacerdhasan_gaw%C3%A9yan"
   },
   {
-   "characters": 6090,
+   "characters": 6187,
+   "citations": 5,
+   "lang": "lt",
+   "language": "Lithuanian",
+   "protection": null,
+   "readers": 1612,
+   "revid": null,
+   "title": "Dirbtinis intelektas",
+   "url": "https://lt.wikipedia.org/wiki/Dirbtinis_intelektas"
+  },
+  {
+   "characters": 6081,
    "citations": 2,
    "lang": "ms",
    "language": "Malay",
    "protection": null,
-   "readers": 431,
+   "readers": 368,
    "revid": null,
    "title": "Kecerdasan buatan",
    "url": "https://ms.wikipedia.org/wiki/Kecerdasan_buatan"
@@ -1113,7 +1124,7 @@
    "lang": "ka",
    "language": "Georgian",
    "protection": null,
-   "readers": 1010,
+   "readers": 1086,
    "revid": null,
    "title": "ხელოვნური ინტელექტი",
    "url": "https://ka.wikipedia.org/wiki/%E1%83%AE%E1%83%94%E1%83%9A%E1%83%9D%E1%83%95%E1%83%9C%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%9A%E1%83%94%E1%83%A5%E1%83%A2%E1%83%98"
@@ -1124,7 +1135,7 @@
    "lang": "km",
    "language": "Khmer",
    "protection": null,
-   "readers": 172,
+   "readers": 151,
    "revid": null,
    "title": "បញ្ញាសិប្បនិម្មិត",
    "url": "https://km.wikipedia.org/wiki/%E1%9E%94%E1%9E%89%E1%9F%92%E1%9E%89%E1%9E%B6%E1%9E%9F%E1%9E%B7%E1%9E%94%E1%9F%92%E1%9E%94%E1%9E%93%E1%9E%B7%E1%9E%98%E1%9F%92%E1%9E%98%E1%9E%B7%E1%9E%8F"
@@ -1135,7 +1146,7 @@
    "lang": "lb",
    "language": "Luxembourgish",
    "protection": null,
-   "readers": 47,
+   "readers": 31,
    "revid": null,
    "title": "Kënschtlech Intelligenz",
    "url": "https://lb.wikipedia.org/wiki/K%C3%ABnschtlech_Intelligenz"
@@ -1144,9 +1155,9 @@
    "characters": 5503,
    "citations": 12,
    "lang": "iba",
-   "language": "Iban",
+   "language": "iba",
    "protection": null,
-   "readers": 44,
+   "readers": 29,
    "revid": null,
    "title": "Pemintar gaga",
    "url": "https://iba.wikipedia.org/wiki/Pemintar_gaga"
@@ -1155,23 +1166,12 @@
    "characters": 5484,
    "citations": 3,
    "lang": "be-tarask",
-   "language": "Belarusian (Taraskievica orthography)",
+   "language": "Belarusian (TARASK)",
    "protection": null,
-   "readers": 105,
+   "readers": 62,
    "revid": null,
    "title": "Штучны інтэлект",
    "url": "https://be-tarask.wikipedia.org/wiki/%D0%A8%D1%82%D1%83%D1%87%D0%BD%D1%8B_%D1%96%D0%BD%D1%82%D1%8D%D0%BB%D0%B5%D0%BA%D1%82"
-  },
-  {
-   "characters": 5415,
-   "citations": 4,
-   "lang": "lt",
-   "language": "Lithuanian",
-   "protection": null,
-   "readers": 1814,
-   "revid": null,
-   "title": "Dirbtinis intelektas",
-   "url": "https://lt.wikipedia.org/wiki/Dirbtinis_intelektas"
   },
   {
    "characters": 5400,
@@ -1179,10 +1179,21 @@
    "lang": "nso",
    "language": "Northern Sotho",
    "protection": null,
-   "readers": 48,
+   "readers": 37,
    "revid": null,
    "title": "Bohlale bja Maitirelo",
    "url": "https://nso.wikipedia.org/wiki/Bohlale_bja_Maitirelo"
+  },
+  {
+   "characters": 5372,
+   "citations": 1,
+   "lang": "cy",
+   "language": "Welsh",
+   "protection": null,
+   "readers": 59,
+   "revid": null,
+   "title": "Deallusrwydd artiffisial",
+   "url": "https://cy.wikipedia.org/wiki/Deallusrwydd_artiffisial"
   },
   {
    "characters": 5333,
@@ -1190,7 +1201,7 @@
    "lang": "ha",
    "language": "Hausa",
    "protection": null,
-   "readers": 255,
+   "readers": 191,
    "revid": null,
    "title": "Kirkirar Basira",
    "url": "https://ha.wikipedia.org/wiki/Kirkirar_Basira"
@@ -1201,21 +1212,10 @@
    "lang": "blk",
    "language": "Pa'O",
    "protection": null,
-   "readers": 92,
+   "readers": 30,
    "revid": null,
    "title": "ဉာဏ်ႏတုꩻ",
    "url": "https://blk.wikipedia.org/wiki/%E1%80%89%E1%80%AC%E1%80%8F%E1%80%BA%E1%82%8F%E1%80%90%E1%80%AF%EA%A9%BB"
-  },
-  {
-   "characters": 5288,
-   "citations": 1,
-   "lang": "cy",
-   "language": "Welsh",
-   "protection": null,
-   "readers": 55,
-   "revid": null,
-   "title": "Deallusrwydd artiffisial",
-   "url": "https://cy.wikipedia.org/wiki/Deallusrwydd_artiffisial"
   },
   {
    "characters": 5204,
@@ -1223,7 +1223,7 @@
    "lang": "sw",
    "language": "Swahili",
    "protection": null,
-   "readers": 988,
+   "readers": 679,
    "revid": null,
    "title": "Akili mnemba",
    "url": "https://sw.wikipedia.org/wiki/Akili_mnemba"
@@ -1243,7 +1243,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 6394,
+   "readers": 1958,
    "revid": null,
    "title": "Жасанды интеллект",
    "url": "https://kk.wikipedia.org/wiki/%D0%96%D0%B0%D1%81%D0%B0%D0%BD%D0%B4%D1%8B_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82"
@@ -1254,7 +1254,7 @@
    "lang": "azb",
    "language": "South Azerbaijani",
    "protection": null,
-   "readers": 156,
+   "readers": 115,
    "revid": null,
    "title": "مصنوعی ذکا",
    "url": "https://azb.wikipedia.org/wiki/%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C_%D8%B0%DA%A9%D8%A7"
@@ -1265,7 +1265,7 @@
    "lang": "ur",
    "language": "Urdu",
    "protection": null,
-   "readers": 1912,
+   "readers": 842,
    "revid": null,
    "title": "مصنوعی ذہانت",
    "url": "https://ur.wikipedia.org/wiki/%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C_%D8%B0%DB%81%D8%A7%D9%86%D8%AA"
@@ -1276,7 +1276,7 @@
    "lang": "mnw",
    "language": "Mon",
    "protection": null,
-   "readers": 53,
+   "readers": 38,
    "revid": null,
    "title": "ဉာဏ်စက် (AI)",
    "url": "https://mnw.wikipedia.org/wiki/%E1%80%89%E1%80%AC%E1%80%8F%E1%80%BA%E1%80%85%E1%80%80%E1%80%BA_(AI)"
@@ -1287,7 +1287,7 @@
    "lang": "mr",
    "language": "Marathi",
    "protection": null,
-   "readers": 452,
+   "readers": 338,
    "revid": null,
    "title": "कृत्रिम बुद्धिमत्ता",
    "url": "https://mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE_%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE"
@@ -1296,20 +1296,31 @@
    "characters": 4723,
    "citations": 2,
    "lang": "mad",
-   "language": "Madurese",
+   "language": "mad",
    "protection": null,
-   "readers": 65,
+   "readers": 32,
    "revid": null,
    "title": "Kecerdasan buatan",
    "url": "https://mad.wikipedia.org/wiki/Kecerdasan_buatan"
   },
   {
+   "characters": 4372,
+   "citations": 8,
+   "lang": "gu",
+   "language": "Gujarati",
+   "protection": null,
+   "readers": 117,
+   "revid": null,
+   "title": "કૃત્રિમ બુદ્ધિમત્તા",
+   "url": "https://gu.wikipedia.org/wiki/%E0%AA%95%E0%AB%83%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AA%BF%E0%AA%AE_%E0%AA%AC%E0%AB%81%E0%AA%A6%E0%AB%8D%E0%AA%A7%E0%AA%BF%E0%AA%AE%E0%AA%A4%E0%AB%8D%E0%AA%A4%E0%AA%BE"
+  },
+  {
    "characters": 4243,
    "citations": 9,
    "lang": "arz",
-   "language": "Egyptian Arabic",
+   "language": "arz",
    "protection": null,
-   "readers": 130,
+   "readers": 97,
    "revid": null,
    "title": "ذكاء صناعى",
    "url": "https://arz.wikipedia.org/wiki/%D8%B0%D9%83%D8%A7%D8%A1_%D8%B5%D9%86%D8%A7%D8%B9%D9%89"
@@ -1320,7 +1331,7 @@
    "lang": "si",
    "language": "Sinhala",
    "protection": null,
-   "readers": 307,
+   "readers": 276,
    "revid": null,
    "title": "කෘත්‍රීම බුද්ධිය",
    "url": "https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B7%98%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%93%E0%B6%B8_%E0%B6%B6%E0%B7%94%E0%B6%AF%E0%B7%8A%E0%B6%B0%E0%B7%92%E0%B6%BA"
@@ -1329,9 +1340,9 @@
    "characters": 3989,
    "citations": 6,
    "lang": "lij",
-   "language": "Ligurian",
+   "language": "lij",
    "protection": null,
-   "readers": 35,
+   "readers": 20,
    "revid": null,
    "title": "Intelligensa artifiçiale",
    "url": "https://lij.wikipedia.org/wiki/Intelligensa_artifi%C3%A7iale"
@@ -1351,7 +1362,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 170,
+   "readers": 101,
    "revid": null,
    "title": "आर्टिफिशियल इंटेलिजेंस",
    "url": "https://bh.wikipedia.org/wiki/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%AB%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%AF%E0%A4%B2_%E0%A4%87%E0%A4%82%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A4%BF%E0%A4%9C%E0%A5%87%E0%A4%82%E0%A4%B8"
@@ -1360,9 +1371,9 @@
    "characters": 3859,
    "citations": 0,
    "lang": "pcd",
-   "language": "Picard",
+   "language": "pcd",
    "protection": null,
-   "readers": 38,
+   "readers": 27,
    "revid": null,
    "title": "Intérligince artificielle",
    "url": "https://pcd.wikipedia.org/wiki/Int%C3%A9rligince_artificielle"
@@ -1373,7 +1384,7 @@
    "lang": "my",
    "language": "Burmese",
    "protection": null,
-   "readers": 222,
+   "readers": 174,
    "revid": null,
    "title": "ဉာဏ်ရည်တု",
    "url": "https://my.wikipedia.org/wiki/%E1%80%89%E1%80%AC%E1%80%8F%E1%80%BA%E1%80%9B%E1%80%8A%E1%80%BA%E1%80%90%E1%80%AF"
@@ -1384,7 +1395,7 @@
    "lang": "br",
    "language": "Breton",
    "protection": null,
-   "readers": 57,
+   "readers": 36,
    "revid": null,
    "title": "Naouegezh artifisiel",
    "url": "https://br.wikipedia.org/wiki/Naouegezh_artifisiel"
@@ -1393,9 +1404,9 @@
    "characters": 3386,
    "citations": 2,
    "lang": "nds-nl",
-   "language": "Low Saxon",
+   "language": "nds (Netherlands)",
    "protection": null,
-   "readers": null,
+   "readers": 32,
    "revid": null,
    "title": "Keunstklookte",
    "url": "https://nds-nl.wikipedia.org/wiki/Keunstklookte"
@@ -1406,7 +1417,7 @@
    "lang": "fo",
    "language": "Faroese",
    "protection": null,
-   "readers": 53,
+   "readers": 46,
    "revid": null,
    "title": "Ritvit",
    "url": "https://fo.wikipedia.org/wiki/Ritvit"
@@ -1417,7 +1428,7 @@
    "lang": "gd",
    "language": "Scottish Gaelic",
    "protection": null,
-   "readers": 42,
+   "readers": 24,
    "revid": null,
    "title": "Tuigse inntealta",
    "url": "https://gd.wikipedia.org/wiki/Tuigse_inntealta"
@@ -1426,9 +1437,9 @@
    "characters": 3255,
    "citations": 0,
    "lang": "pms",
-   "language": "Piedmontese",
+   "language": "pms",
    "protection": null,
-   "readers": 158,
+   "readers": 100,
    "revid": null,
    "title": "Inteligensa Artifissial",
    "url": "https://pms.wikipedia.org/wiki/Inteligensa_Artifissial"
@@ -1437,9 +1448,9 @@
    "characters": 3223,
    "citations": 4,
    "lang": "ce",
-   "language": "Chechen",
+   "language": "ce",
    "protection": null,
-   "readers": 51,
+   "readers": 32,
    "revid": null,
    "title": "Кхоьллина интеллект",
    "url": "https://ce.wikipedia.org/wiki/%D0%9A%D1%85%D0%BE%D1%8C%D0%BB%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82"
@@ -1448,9 +1459,9 @@
    "characters": 3221,
    "citations": 5,
    "lang": "dtp",
-   "language": "Central Dusun",
+   "language": "dtp",
    "protection": null,
-   "readers": 40,
+   "readers": 35,
    "revid": null,
    "title": "Kabaalan Tinanda",
    "url": "https://dtp.wikipedia.org/wiki/Kabaalan_Tinanda"
@@ -1459,9 +1470,9 @@
    "characters": 3136,
    "citations": 1,
    "lang": "ks",
-   "language": "Kashmiri",
+   "language": "ks",
    "protection": null,
-   "readers": 119,
+   "readers": 28,
    "revid": null,
    "title": "بَنٲومٕژ ذَہٲنِیَتھ",
    "url": "https://ks.wikipedia.org/wiki/%D8%A8%D9%8E%D9%86%D9%B2%D9%88%D9%85%D9%95%DA%98_%D8%B0%D9%8E%DB%81%D9%B2%D9%86%D9%90%DB%8C%D9%8E%D8%AA%DA%BE"
@@ -1472,18 +1483,34 @@
    "lang": "nn",
    "language": "Norwegian Nynorsk",
    "protection": null,
-   "readers": 83,
+   "readers": 66,
    "revid": null,
    "title": "Kunstig intelligens",
    "url": "https://nn.wikipedia.org/wiki/Kunstig_intelligens"
   },
   {
+   "characters": 2839,
+   "citations": 2,
+   "lang": "ky",
+   "language": "Kyrgyz",
+   "protection": {
+    "move": {
+     "expiry": "infinity",
+     "level": "sysop"
+    }
+   },
+   "readers": 355,
+   "revid": null,
+   "title": "Жасалма интеллект",
+   "url": "https://ky.wikipedia.org/wiki/%D0%96%D0%B0%D1%81%D0%B0%D0%BB%D0%BC%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82"
+  },
+  {
    "characters": 2770,
    "citations": 0,
    "lang": "gv",
-   "language": "Manx",
+   "language": "gv",
    "protection": null,
-   "readers": 40,
+   "readers": 34,
    "revid": null,
    "title": "Far-inçhynaght",
    "url": "https://gv.wikipedia.org/wiki/Far-in%C3%A7hynaght"
@@ -1494,45 +1521,18 @@
    "lang": "sa",
    "language": "Sanskrit",
    "protection": null,
-   "readers": 57,
+   "readers": 22,
    "revid": null,
    "title": "कृत्रिमबुद्धिमत्ता",
    "url": "https://sa.wikipedia.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AE%E0%A4%AC%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A7%E0%A4%BF%E0%A4%AE%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE"
   },
   {
-   "characters": 2698,
-   "citations": 2,
-   "lang": "ky",
-   "language": "Kyrgyz",
-   "protection": {
-    "move": {
-     "expiry": "infinity",
-     "level": "sysop"
-    }
-   },
-   "readers": 260,
-   "revid": null,
-   "title": "Жасалма интеллект",
-   "url": "https://ky.wikipedia.org/wiki/%D0%96%D0%B0%D1%81%D0%B0%D0%BB%D0%BC%D0%B0_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82"
-  },
-  {
-   "characters": 2691,
-   "citations": 6,
-   "lang": "gu",
-   "language": "Gujarati",
-   "protection": null,
-   "readers": null,
-   "revid": null,
-   "title": "કૃત્રિમ બુદ્ધિમત્તા",
-   "url": "https://gu.wikipedia.org/wiki/%E0%AA%95%E0%AB%83%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AA%BF%E0%AA%AE_%E0%AA%AC%E0%AB%81%E0%AA%A6%E0%AB%8D%E0%AA%A7%E0%AA%BF%E0%AA%AE%E0%AA%A4%E0%AB%8D%E0%AA%A4%E0%AA%BE"
-  },
-  {
    "characters": 2426,
    "citations": 3,
    "lang": "ary",
-   "language": "Moroccan Arabic",
+   "language": "ary",
    "protection": null,
-   "readers": 414,
+   "readers": 436,
    "revid": null,
    "title": "دكا صطيناعي",
    "url": "https://ary.wikipedia.org/wiki/%D8%AF%D9%83%D8%A7_%D8%B5%D8%B7%D9%8A%D9%86%D8%A7%D8%B9%D9%8A"
@@ -1541,9 +1541,9 @@
    "characters": 2218,
    "citations": 0,
    "lang": "scn",
-   "language": "Sicilian",
+   "language": "scn",
    "protection": null,
-   "readers": 47,
+   "readers": 22,
    "revid": null,
    "title": "Ntilliggenza artificiali",
    "url": "https://scn.wikipedia.org/wiki/Ntilliggenza_artificiali"
@@ -1552,9 +1552,9 @@
    "characters": 2158,
    "citations": 0,
    "lang": "io",
-   "language": "Ido",
+   "language": "io",
    "protection": null,
-   "readers": null,
+   "readers": 37,
    "revid": null,
    "title": "Artifical inteligenteso",
    "url": "https://io.wikipedia.org/wiki/Artifical_inteligenteso"
@@ -1565,7 +1565,7 @@
    "lang": "ceb",
    "language": "Cebuano",
    "protection": null,
-   "readers": 54,
+   "readers": 28,
    "revid": null,
    "title": "Intelihensiya artipisyal",
    "url": "https://ceb.wikipedia.org/wiki/Intelihensiya_artipisyal"
@@ -1576,7 +1576,7 @@
    "lang": "qu",
    "language": "Quechua",
    "protection": null,
-   "readers": 54,
+   "readers": 19,
    "revid": null,
    "title": "Wallpasqa yachay",
    "url": "https://qu.wikipedia.org/wiki/Wallpasqa_yachay"
@@ -1585,9 +1585,9 @@
    "characters": 2078,
    "citations": 3,
    "lang": "nds",
-   "language": "Low German",
+   "language": "nds",
    "protection": null,
-   "readers": null,
+   "readers": 57,
    "revid": null,
    "title": "Künstlike Intelligenz",
    "url": "https://nds.wikipedia.org/wiki/K%C3%BCnstlike_Intelligenz"
@@ -1598,7 +1598,7 @@
    "lang": "ckb",
    "language": "Central Kurdish",
    "protection": null,
-   "readers": 122,
+   "readers": 149,
    "revid": null,
    "title": "ژیریی دەستکرد",
    "url": "https://ckb.wikipedia.org/wiki/%DA%98%DB%8C%D8%B1%DB%8C%DB%8C_%D8%AF%DB%95%D8%B3%D8%AA%DA%A9%D8%B1%D8%AF"
@@ -1609,10 +1609,21 @@
    "lang": "ia",
    "language": "Interlingua",
    "protection": null,
-   "readers": 231,
+   "readers": 60,
    "revid": null,
    "title": "Intelligentia artificial",
    "url": "https://ia.wikipedia.org/wiki/Intelligentia_artificial"
+  },
+  {
+   "characters": 1709,
+   "citations": 5,
+   "lang": "csb",
+   "language": "csb",
+   "protection": null,
+   "readers": 31,
+   "revid": null,
+   "title": "Sztëcznô inteligencjô",
+   "url": "https://csb.wikipedia.org/wiki/Szt%C3%ABczn%C3%B4_inteligencj%C3%B4"
   },
   {
    "characters": 1593,
@@ -1620,7 +1631,7 @@
    "lang": "gn",
    "language": "Guarani",
    "protection": null,
-   "readers": 48,
+   "readers": 32,
    "revid": null,
    "title": "Ava apopyre arandu",
    "url": "https://gn.wikipedia.org/wiki/Ava_apopyre_arandu"
@@ -1629,53 +1640,31 @@
    "characters": 1525,
    "citations": 2,
    "lang": "ki",
-   "language": "Kikuyu",
+   "language": "ki",
    "protection": null,
-   "readers": 41,
+   "readers": 17,
    "revid": null,
    "title": "Ũũgĩ wa Kanyonde",
    "url": "https://ki.wikipedia.org/wiki/%C5%A8%C5%A9g%C4%A9_wa_Kanyonde"
   },
   {
-   "characters": 1484,
-   "citations": 2,
-   "lang": "sco",
-   "language": "Scots",
-   "protection": null,
-   "readers": 200,
-   "revid": null,
-   "title": "Artifeecial intelligence",
-   "url": "https://sco.wikipedia.org/wiki/Artifeecial_intelligence"
-  },
-  {
    "characters": 1479,
    "citations": 5,
    "lang": "zgh",
-   "language": "Standard Moroccan Tamazight",
+   "language": "zgh",
    "protection": null,
-   "readers": 45,
+   "readers": 35,
    "revid": null,
    "title": "ⵜⵉⵖⵉⵙⵜ ⵜⴰⵙⵎⴳⵓⵔⵜ",
    "url": "https://zgh.wikipedia.org/wiki/%E2%B5%9C%E2%B5%89%E2%B5%96%E2%B5%89%E2%B5%99%E2%B5%9C_%E2%B5%9C%E2%B4%B0%E2%B5%99%E2%B5%8E%E2%B4%B3%E2%B5%93%E2%B5%94%E2%B5%9C"
   },
   {
-   "characters": 1477,
-   "citations": 5,
-   "lang": "csb",
-   "language": "Kashubian",
-   "protection": null,
-   "readers": 50,
-   "revid": null,
-   "title": "Sztëcznô inteligencjô",
-   "url": "https://csb.wikipedia.org/wiki/Szt%C3%ABczn%C3%B4_inteligencj%C3%B4"
-  },
-  {
    "characters": 1476,
    "citations": 2,
    "lang": "hif",
-   "language": "Fiji Hindi",
+   "language": "hif",
    "protection": null,
-   "readers": 65,
+   "readers": 38,
    "revid": null,
    "title": "Artificial intelligence",
    "url": "https://hif.wikipedia.org/wiki/Artificial_intelligence"
@@ -1684,9 +1673,9 @@
    "characters": 1415,
    "citations": 0,
    "lang": "sah",
-   "language": "Yakut",
+   "language": "sah",
    "protection": null,
-   "readers": 39,
+   "readers": 27,
    "revid": null,
    "title": "Оҥоһуу интеллект",
    "url": "https://sah.wikipedia.org/wiki/%D0%9E%D2%A5%D0%BE%D2%BB%D1%83%D1%83_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82"
@@ -1697,7 +1686,7 @@
    "lang": "an",
    "language": "Aragonese",
    "protection": null,
-   "readers": 121,
+   "readers": 96,
    "revid": null,
    "title": "Intelichencia artificial",
    "url": "https://an.wikipedia.org/wiki/Intelichencia_artificial"
@@ -1706,9 +1695,9 @@
    "characters": 1406,
    "citations": 0,
    "lang": "ty",
-   "language": "Tahitian",
+   "language": "ty",
    "protection": null,
-   "readers": 35,
+   "readers": 29,
    "revid": null,
    "title": "Intelligence artificiel",
    "url": "https://ty.wikipedia.org/wiki/Intelligence_artificiel"
@@ -1719,7 +1708,7 @@
    "lang": "isv",
    "language": "Interslavic",
    "protection": null,
-   "readers": null,
+   "readers": 34,
    "revid": null,
    "title": "Umětna inteligencija",
    "url": "https://isv.wikipedia.org/wiki/Um%C4%9Btna_inteligencija"
@@ -1728,9 +1717,9 @@
    "characters": 1278,
    "citations": 0,
    "lang": "li",
-   "language": "Limburgish",
+   "language": "li",
    "protection": null,
-   "readers": 43,
+   "readers": 36,
    "revid": null,
    "title": "Kónsmaesige intelligentie",
    "url": "https://li.wikipedia.org/wiki/K%C3%B3nsmaesige_intelligentie"
@@ -1739,9 +1728,9 @@
    "characters": 1260,
    "citations": 0,
    "lang": "new",
-   "language": "Newari",
+   "language": "new",
    "protection": null,
-   "readers": null,
+   "readers": 22,
    "revid": null,
    "title": "आर्टिफिसियल इन्टेलिजेन्स",
    "url": "https://new.wikipedia.org/wiki/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A4%BF%E0%A4%AB%E0%A4%BF%E0%A4%B8%E0%A4%BF%E0%A4%AF%E0%A4%B2_%E0%A4%87%E0%A4%A8%E0%A5%8D%E0%A4%9F%E0%A5%87%E0%A4%B2%E0%A4%BF%E0%A4%9C%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%B8"
@@ -1750,9 +1739,9 @@
    "characters": 1144,
    "citations": 1,
    "lang": "vec",
-   "language": "Venetian",
+   "language": "vec",
    "protection": null,
-   "readers": 50,
+   "readers": 31,
    "revid": null,
    "title": "Intełijensa artifisałe",
    "url": "https://vec.wikipedia.org/wiki/Inte%C5%82ijensa_artifisa%C5%82e"
@@ -1763,7 +1752,7 @@
    "lang": "tk",
    "language": "Turkmen",
    "protection": null,
-   "readers": 50,
+   "readers": 61,
    "revid": null,
    "title": "Ýasama akyl",
    "url": "https://tk.wikipedia.org/wiki/%C3%9Dasama_akyl"
@@ -1772,9 +1761,9 @@
    "characters": 1133,
    "citations": 2,
    "lang": "bxr",
-   "language": "Buriat",
+   "language": "bua",
    "protection": null,
-   "readers": 54,
+   "readers": 22,
    "revid": null,
    "title": "Хэмэл оюун",
    "url": "https://bxr.wikipedia.org/wiki/%D0%A5%D1%8D%D0%BC%D1%8D%D0%BB_%D0%BE%D1%8E%D1%83%D0%BD"
@@ -1783,9 +1772,9 @@
    "characters": 1077,
    "citations": 2,
    "lang": "bcl",
-   "language": "Bikol",
+   "language": "bik",
    "protection": null,
-   "readers": 70,
+   "readers": 62,
    "revid": null,
    "title": "Artipisyal na intelihensya",
    "url": "https://bcl.wikipedia.org/wiki/Artipisyal_na_intelihensya"
@@ -1796,7 +1785,7 @@
    "lang": "fiu-vro",
    "language": "fiu-vro",
    "protection": null,
-   "readers": 72,
+   "readers": 31,
    "revid": null,
    "title": "Kunstmõistus",
    "url": "https://fiu-vro.wikipedia.org/wiki/Kunstm%C3%B5istus"
@@ -1805,9 +1794,9 @@
    "characters": 996,
    "citations": 0,
    "lang": "bew",
-   "language": "Betawi",
+   "language": "bew",
    "protection": null,
-   "readers": 77,
+   "readers": 44,
    "revid": null,
    "title": "Calakan bikinan",
    "url": "https://bew.wikipedia.org/wiki/Calakan_bikinan"
@@ -1816,9 +1805,9 @@
    "characters": 876,
    "citations": 0,
    "lang": "fur",
-   "language": "Friulian",
+   "language": "fur",
    "protection": null,
-   "readers": 67,
+   "readers": 30,
    "revid": null,
    "title": "Inteligjence artificiâl",
    "url": "https://fur.wikipedia.org/wiki/Inteligjence_artifici%C3%A2l"
@@ -1829,7 +1818,7 @@
    "lang": "zh-min-nan",
    "language": "zh-min-nan",
    "protection": null,
-   "readers": 54,
+   "readers": 57,
    "revid": null,
    "title": "Jîn-kang tì-lêng",
    "url": "https://zh-min-nan.wikipedia.org/wiki/J%C3%AEn-kang_t%C3%AC-l%C3%AAng"
@@ -1838,9 +1827,9 @@
    "characters": 855,
    "citations": 0,
    "lang": "sg",
-   "language": "Sango",
+   "language": "sg",
    "protection": null,
-   "readers": 66,
+   "readers": 61,
    "revid": null,
    "title": "Artificial intelligence",
    "url": "https://sg.wikipedia.org/wiki/Artificial_intelligence"
@@ -1849,9 +1838,9 @@
    "characters": 818,
    "citations": 0,
    "lang": "ie",
-   "language": "Interlingue",
+   "language": "ie",
    "protection": null,
-   "readers": 32,
+   "readers": 28,
    "revid": null,
    "title": "Inteligentie artificial",
    "url": "https://ie.wikipedia.org/wiki/Inteligentie_artificial"
@@ -1862,7 +1851,7 @@
    "lang": "wa",
    "language": "Walloon",
    "protection": null,
-   "readers": 37,
+   "readers": 14,
    "revid": null,
    "title": "Sûtisté éndjolike",
    "url": "https://wa.wikipedia.org/wiki/S%C3%BBtist%C3%A9_%C3%A9ndjolike"
@@ -1871,9 +1860,9 @@
    "characters": 756,
    "citations": 1,
    "lang": "ext",
-   "language": "Extremaduran",
+   "language": "ext",
    "protection": null,
-   "readers": 34,
+   "readers": 29,
    "revid": null,
    "title": "Enteligencia artificial",
    "url": "https://ext.wikipedia.org/wiki/Enteligencia_artificial"
@@ -1882,9 +1871,9 @@
    "characters": 755,
    "citations": 0,
    "lang": "frr",
-   "language": "Northern Frisian",
+   "language": "frr",
    "protection": null,
-   "readers": 68,
+   "readers": 30,
    "revid": null,
    "title": "Konstelk Inteligens",
    "url": "https://frr.wikipedia.org/wiki/Konstelk_Inteligens"
@@ -1893,9 +1882,9 @@
    "characters": 753,
    "citations": 0,
    "lang": "lmo",
-   "language": "Lombard",
+   "language": "lmo",
    "protection": null,
-   "readers": 44,
+   "readers": 37,
    "revid": null,
    "title": "Intelligenza artificiala",
    "url": "https://lmo.wikipedia.org/wiki/Intelligenza_artificiala"
@@ -1906,7 +1895,7 @@
    "lang": "syl",
    "language": "Sylheti",
    "protection": null,
-   "readers": null,
+   "readers": 27,
    "revid": null,
    "title": "ꠀꠉ꠆ꠟꠣ ꠀꠇꠟꠖꠣꠞ",
    "url": "https://syl.wikipedia.org/wiki/%EA%A0%80%EA%A0%89%EA%A0%86%EA%A0%9F%EA%A0%A3_%EA%A0%80%EA%A0%87%EA%A0%9F%EA%A0%96%EA%A0%A3%EA%A0%9E"
@@ -1917,7 +1906,7 @@
    "lang": "yi",
    "language": "Yiddish",
    "protection": null,
-   "readers": 54,
+   "readers": 20,
    "revid": null,
    "title": "קינסטלעכע אינטעליגענץ",
    "url": "https://yi.wikipedia.org/wiki/%D7%A7%D7%99%D7%A0%D7%A1%D7%98%D7%9C%D7%A2%D7%9B%D7%A2_%D7%90%D7%99%D7%A0%D7%98%D7%A2%D7%9C%D7%99%D7%92%D7%A2%D7%A0%D7%A5"
@@ -1926,9 +1915,9 @@
    "characters": 600,
    "citations": 0,
    "lang": "fon",
-   "language": "Fon",
+   "language": "fon",
    "protection": null,
-   "readers": 57,
+   "readers": 31,
    "revid": null,
    "title": "Nǔnywɛ gbɛtɔ ɖɔhun tɔn",
    "url": "https://fon.wikipedia.org/wiki/N%C7%94nyw%C9%9B_gb%C9%9Bt%C9%94_%C9%96%C9%94hun_t%C9%94n"
@@ -1939,7 +1928,7 @@
    "lang": "gcr",
    "language": "Guianan Creole",
    "protection": null,
-   "readers": 59,
+   "readers": 30,
    "revid": null,
    "title": "Entélijans artifisyèl",
    "url": "https://gcr.wikipedia.org/wiki/Ent%C3%A9lijans_artifisy%C3%A8l"
@@ -1948,9 +1937,9 @@
    "characters": 576,
    "citations": 0,
    "lang": "jam",
-   "language": "Jamaican Creole English",
+   "language": "jam",
    "protection": null,
-   "readers": 51,
+   "readers": 32,
    "revid": null,
    "title": "Aatifishal intelijens",
    "url": "https://jam.wikipedia.org/wiki/Aatifishal_intelijens"
@@ -1959,9 +1948,9 @@
    "characters": 565,
    "citations": 0,
    "lang": "jbo",
-   "language": "Lojban",
+   "language": "jbo",
    "protection": null,
-   "readers": 93,
+   "readers": 40,
    "revid": null,
    "title": "rutni menli",
    "url": "https://jbo.wikipedia.org/wiki/rutni_menli"
@@ -1970,9 +1959,9 @@
    "characters": 530,
    "citations": 0,
    "lang": "tok",
-   "language": "Toki Pona",
+   "language": "tok",
    "protection": null,
-   "readers": 42,
+   "readers": 27,
    "revid": null,
    "title": "ilo pi sona pali",
    "url": "https://tok.wikipedia.org/wiki/ilo_pi_sona_pali"
@@ -1981,9 +1970,9 @@
    "characters": 470,
    "citations": 0,
    "lang": "diq",
-   "language": "Zaza",
+   "language": "zza",
    "protection": null,
-   "readers": 40,
+   "readers": 26,
    "revid": null,
    "title": "Viro vıraştıkên",
    "url": "https://diq.wikipedia.org/wiki/Viro_v%C4%B1ra%C5%9Ft%C4%B1k%C3%AAn"
@@ -1994,7 +1983,7 @@
    "lang": "zh-classical",
    "language": "zh-classical",
    "protection": null,
-   "readers": 274,
+   "readers": 225,
    "revid": null,
    "title": "人工智能",
    "url": "https://zh-classical.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD"
@@ -2005,7 +1994,7 @@
    "lang": "ig",
    "language": "Igbo",
    "protection": null,
-   "readers": 37,
+   "readers": 29,
    "revid": null,
    "title": "Ọgụgụ isi",
    "url": "https://ig.wikipedia.org/wiki/%E1%BB%8Cg%E1%BB%A5g%E1%BB%A5_isi"
@@ -2014,9 +2003,9 @@
    "characters": 441,
    "citations": 0,
    "lang": "wuu",
-   "language": "Wu Chinese",
+   "language": "wuu",
    "protection": null,
-   "readers": 91,
+   "readers": 97,
    "revid": null,
    "title": "人工智能",
    "url": "https://wuu.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD"
@@ -2027,7 +2016,7 @@
    "lang": "bat-smg",
    "language": "bat-smg",
    "protection": null,
-   "readers": 86,
+   "readers": 39,
    "revid": null,
    "title": "Dėrbtėns intelekts",
    "url": "https://bat-smg.wikipedia.org/wiki/D%C4%97rbt%C4%97ns_intelekts"
@@ -2036,9 +2025,9 @@
    "characters": 374,
    "citations": 0,
    "lang": "rue",
-   "language": "Rusyn",
+   "language": "rue",
    "protection": null,
-   "readers": 50,
+   "readers": 38,
    "revid": null,
    "title": "Умела інтеліґенція",
    "url": "https://rue.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B5%D0%BB%D0%B0_%D1%96%D0%BD%D1%82%D0%B5%D0%BB%D1%96%D2%91%D0%B5%D0%BD%D1%86%D1%96%D1%8F"
@@ -2047,9 +2036,9 @@
    "characters": 367,
    "citations": 0,
    "lang": "bar",
-   "language": "Bavarian",
+   "language": "bar",
    "protection": null,
-   "readers": 68,
+   "readers": 63,
    "revid": null,
    "title": "Kinschtlicha Intelligenz",
    "url": "https://bar.wikipedia.org/wiki/Kinschtlicha_Intelligenz"
@@ -2058,9 +2047,9 @@
    "characters": 265,
    "citations": 0,
    "lang": "war",
-   "language": "Waray",
+   "language": "war",
    "protection": null,
-   "readers": 28,
+   "readers": 15,
    "revid": null,
    "title": "Intelihensya artipisyal",
    "url": "https://war.wikipedia.org/wiki/Intelihensya_artipisyal"
@@ -2069,9 +2058,9 @@
    "characters": 194,
    "citations": 0,
    "lang": "ksh",
-   "language": "Colognian",
+   "language": "ksh",
    "protection": null,
-   "readers": 49,
+   "readers": 50,
    "revid": null,
    "title": "Artificial Intelligence",
    "url": "https://ksh.wikipedia.org/wiki/Artificial_Intelligence"
@@ -2080,9 +2069,9 @@
    "characters": 154,
    "citations": 0,
    "lang": "gan",
-   "language": "Gan Chinese",
+   "language": "gan",
    "protection": null,
-   "readers": 80,
+   "readers": 46,
    "revid": null,
    "title": "人工智能",
    "url": "https://gan.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD"
@@ -2091,12 +2080,23 @@
    "characters": 152,
    "citations": 0,
    "lang": "pnb",
-   "language": "Western Panjabi",
+   "language": "lah",
    "protection": null,
-   "readers": 39,
+   "readers": 29,
    "revid": null,
    "title": "بنائی گئی ذہانت",
    "url": "https://pnb.wikipedia.org/wiki/%D8%A8%D9%86%D8%A7%D8%A6%DB%8C_%DA%AF%D8%A6%DB%8C_%D8%B0%DB%81%D8%A7%D9%86%D8%AA"
+  },
+  {
+   "characters": 38,
+   "citations": 0,
+   "lang": "sco",
+   "language": "sco",
+   "protection": null,
+   "readers": 159,
+   "revid": null,
+   "title": "Artifeecial intelligence",
+   "url": "https://sco.wikipedia.org/wiki/Artifeecial_intelligence"
   }
  ]
 }

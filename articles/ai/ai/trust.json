@@ -54,6 +54,71 @@
   },
   {
    "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1373538630&oldid=1373494473",
+       "kind": "diff",
+       "text": "2026-09-06, Tenpop421, 2 references: /* Ethics */ Street art has no relevance and is of dubious copyright status"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1382961533&oldid=1382941215",
+       "kind": "diff",
+       "text": "2026-10-31, Alenoach, 3 references: /* Regulation */ I don't find a secondary source for this, it looks too niche for an article as broad as the one on AI"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1375948970&oldid=1375947937",
+       "kind": "diff",
+       "text": "2026-09-21, Alenoach, 2 references: /* In fiction */ moving the content on Doraemon to Artificial intelligence in fiction"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 3 removals taking out 7 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1382686376&oldid=1382685861",
+       "kind": "diff",
+       "text": "2026-10-29, Noailles, 4 references: added 2 paragraphs and references"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1382685861&oldid=1382684438",
+       "kind": "diff",
+       "text": "2026-10-29, Noailles, 2 references: added 2 paragraphs with refereinces"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1382684438&oldid=1382595805",
+       "kind": "diff",
+       "text": "2026-10-29, Noailles, 5 references: added three paragraphs on new regulation"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-09-22: 4 reverts by ApLundell, Grayfell, Fram, Belbury"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    }
+   ],
+   "score": 39,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
    "lang": "fr",
    "language": "French",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -436,15 +501,6 @@
     }
    ],
    "score": 8,
-   "tier": "calm"
-  },
-  {
-   "historyRead": false,
-   "lang": "en",
-   "language": "English",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
    "tier": "calm"
   }
  ]

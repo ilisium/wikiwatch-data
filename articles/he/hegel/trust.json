@@ -130,7 +130,7 @@
    "tier": "calm"
   },
   {
-   "historyRead": false,
+   "historyRead": true,
    "lang": "tr",
    "language": "Turkish",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
