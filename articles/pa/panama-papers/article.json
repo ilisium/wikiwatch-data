@@ -12,23 +12,23 @@
  "title": "Panama Papers",
  "versions": [
   {
-   "characters": 276378,
+   "characters": 276379,
    "citations": 456,
    "lang": "es",
    "language": "Spanish",
    "protection": null,
-   "readers": 2336,
+   "readers": 1939,
    "revid": null,
    "title": "Papeles de Panamá",
    "url": "https://es.wikipedia.org/wiki/Papeles_de_Panam%C3%A1"
   },
   {
-   "characters": 163262,
+   "characters": 163251,
    "citations": 276,
    "lang": "en",
    "language": "English",
    "protection": null,
-   "readers": 29776,
+   "readers": 25172,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://en.wikipedia.org/wiki/Panama_Papers"
@@ -39,7 +39,7 @@
    "lang": "hy",
    "language": "Armenian",
    "protection": null,
-   "readers": 13,
+   "readers": 15,
    "revid": null,
    "title": "Պանամայի փաստաթղթեր",
    "url": "https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%B6%D5%A1%D5%B4%D5%A1%D5%B5%D5%AB_%D6%83%D5%A1%D5%BD%D5%BF%D5%A1%D5%A9%D5%B2%D5%A9%D5%A5%D6%80"
@@ -50,7 +50,7 @@
    "lang": "fr",
    "language": "French",
    "protection": null,
-   "readers": 3044,
+   "readers": 3073,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://fr.wikipedia.org/wiki/Panama_Papers"
@@ -61,7 +61,7 @@
    "lang": "de",
    "language": "German",
    "protection": null,
-   "readers": 2551,
+   "readers": 2625,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://de.wikipedia.org/wiki/Panama_Papers"
@@ -72,7 +72,7 @@
    "lang": "vi",
    "language": "Vietnamese",
    "protection": null,
-   "readers": 240,
+   "readers": 306,
    "revid": null,
    "title": "Tài liệu Panama",
    "url": "https://vi.wikipedia.org/wiki/T%C3%A0i_li%E1%BB%87u_Panama"
@@ -83,7 +83,7 @@
    "lang": "fi",
    "language": "Finnish",
    "protection": null,
-   "readers": 316,
+   "readers": 230,
    "revid": null,
    "title": "Panaman paperit",
    "url": "https://fi.wikipedia.org/wiki/Panaman_paperit"
@@ -94,7 +94,7 @@
    "lang": "ru",
    "language": "Russian",
    "protection": null,
-   "readers": 1586,
+   "readers": 1788,
    "revid": null,
    "title": "Панамские документы",
    "url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B"
@@ -105,7 +105,7 @@
    "lang": "pt",
    "language": "Portuguese",
    "protection": null,
-   "readers": 481,
+   "readers": 567,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://pt.wikipedia.org/wiki/Panama_Papers"
@@ -116,29 +116,29 @@
    "lang": "cs",
    "language": "Czech",
    "protection": null,
-   "readers": 209,
+   "readers": 278,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://cs.wikipedia.org/wiki/Panama_Papers"
   },
   {
-   "characters": 56255,
+   "characters": 56250,
    "citations": 124,
    "lang": "da",
    "language": "Danish",
    "protection": null,
-   "readers": 88,
+   "readers": 95,
    "revid": null,
    "title": "Panama-papirerne",
    "url": "https://da.wikipedia.org/wiki/Panama-papirerne"
   },
   {
-   "characters": 47055,
+   "characters": 47062,
    "citations": 105,
    "lang": "zh",
    "language": "Chinese",
    "protection": null,
-   "readers": 4452,
+   "readers": 4291,
    "revid": null,
    "title": "巴拿馬文件",
    "url": "https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6"
@@ -149,7 +149,7 @@
    "lang": "oc",
    "language": "Occitan",
    "protection": null,
-   "readers": 14,
+   "readers": 4,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://oc.wikipedia.org/wiki/Panama_Papers"
@@ -160,7 +160,7 @@
    "lang": "ms",
    "language": "Malay",
    "protection": null,
-   "readers": 18,
+   "readers": 13,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://ms.wikipedia.org/wiki/Panama_Papers"
@@ -171,7 +171,7 @@
    "lang": "ja",
    "language": "Japanese",
    "protection": null,
-   "readers": 1997,
+   "readers": 1666,
    "revid": null,
    "title": "パナマ文書",
    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E6%96%87%E6%9B%B8"
@@ -182,7 +182,7 @@
    "lang": "id",
    "language": "Indonesian",
    "protection": null,
-   "readers": 301,
+   "readers": 205,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://id.wikipedia.org/wiki/Panama_Papers"
@@ -193,18 +193,18 @@
    "lang": "sr",
    "language": "Serbian",
    "protection": null,
-   "readers": 37,
+   "readers": 34,
    "revid": null,
    "title": "Панамски папири",
    "url": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%BC%D1%81%D0%BA%D0%B8_%D0%BF%D0%B0%D0%BF%D0%B8%D1%80%D0%B8"
   },
   {
-   "characters": 29903,
+   "characters": 30042,
    "citations": 66,
    "lang": "nl",
    "language": "Dutch",
    "protection": null,
-   "readers": 420,
+   "readers": 445,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://nl.wikipedia.org/wiki/Panama_Papers"
@@ -215,29 +215,29 @@
    "lang": "my",
    "language": "Burmese",
    "protection": null,
-   "readers": 40,
+   "readers": 16,
    "revid": null,
    "title": "ပနားမား စာရွက်စာတမ်းများ",
    "url": "https://my.wikipedia.org/wiki/%E1%80%95%E1%80%94%E1%80%AC%E1%80%B8%E1%80%99%E1%80%AC%E1%80%B8_%E1%80%85%E1%80%AC%E1%80%9B%E1%80%BD%E1%80%80%E1%80%BA%E1%80%85%E1%80%AC%E1%80%90%E1%80%99%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8"
   },
   {
-   "characters": 23092,
+   "characters": 23108,
    "citations": 59,
    "lang": "ar",
    "language": "Arabic",
    "protection": null,
-   "readers": 535,
+   "readers": 412,
    "revid": null,
    "title": "وثائق بنما",
    "url": "https://ar.wikipedia.org/wiki/%D9%88%D8%AB%D8%A7%D8%A6%D9%82_%D8%A8%D9%86%D9%85%D8%A7"
   },
   {
-   "characters": 22566,
+   "characters": 22542,
    "citations": 45,
    "lang": "it",
    "language": "Italian",
    "protection": null,
-   "readers": 1316,
+   "readers": 931,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://it.wikipedia.org/wiki/Panama_Papers"
@@ -248,7 +248,7 @@
    "lang": "uk",
    "language": "Ukrainian",
    "protection": null,
-   "readers": 145,
+   "readers": 99,
    "revid": null,
    "title": "Панамські документи",
    "url": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%BC%D1%81%D1%8C%D0%BA%D1%96_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8"
@@ -259,7 +259,7 @@
    "lang": "tr",
    "language": "Turkish",
    "protection": null,
-   "readers": 184,
+   "readers": 280,
    "revid": null,
    "title": "Panama Belgeleri",
    "url": "https://tr.wikipedia.org/wiki/Panama_Belgeleri"
@@ -270,7 +270,7 @@
    "lang": "no",
    "language": "Norwegian",
    "protection": null,
-   "readers": 60,
+   "readers": 49,
    "revid": null,
    "title": "Panama-dokumentene",
    "url": "https://no.wikipedia.org/wiki/Panama-dokumentene"
@@ -281,7 +281,7 @@
    "lang": "ca",
    "language": "Catalan",
    "protection": null,
-   "readers": 63,
+   "readers": 62,
    "revid": null,
    "title": "Papers de Panamà",
    "url": "https://ca.wikipedia.org/wiki/Papers_de_Panam%C3%A0"
@@ -292,18 +292,18 @@
    "lang": "lt",
    "language": "Lithuanian",
    "protection": null,
-   "readers": 25,
+   "readers": 20,
    "revid": null,
    "title": "Panamos dokumentai",
    "url": "https://lt.wikipedia.org/wiki/Panamos_dokumentai"
   },
   {
-   "characters": 13634,
+   "characters": 13575,
    "citations": 16,
    "lang": "fa",
    "language": "Persian",
    "protection": null,
-   "readers": 475,
+   "readers": 619,
    "revid": null,
    "title": "اسناد پاناما",
    "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D9%86%D8%A7%D8%AF_%D9%BE%D8%A7%D9%86%D8%A7%D9%85%D8%A7"
@@ -314,7 +314,7 @@
    "lang": "ur",
    "language": "Urdu",
    "protection": null,
-   "readers": 12,
+   "readers": 10,
    "revid": null,
    "title": "پاناما دستاویزات",
    "url": "https://ur.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D8%A7%D9%85%D8%A7_%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%DB%8C%D8%B2%D8%A7%D8%AA"
@@ -325,18 +325,18 @@
    "lang": "sl",
    "language": "Slovenian",
    "protection": null,
-   "readers": 19,
+   "readers": 24,
    "revid": null,
    "title": "Panamski dokumenti",
    "url": "https://sl.wikipedia.org/wiki/Panamski_dokumenti"
   },
   {
-   "characters": 12342,
+   "characters": 12474,
    "citations": 28,
    "lang": "sv",
    "language": "Swedish",
    "protection": null,
-   "readers": 200,
+   "readers": 161,
    "revid": null,
    "title": "Panamadokumenten",
    "url": "https://sv.wikipedia.org/wiki/Panamadokumenten"
@@ -347,7 +347,7 @@
    "lang": "pl",
    "language": "Polish",
    "protection": null,
-   "readers": 523,
+   "readers": 352,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://pl.wikipedia.org/wiki/Panama_Papers"
@@ -356,20 +356,20 @@
    "characters": 11329,
    "citations": 18,
    "lang": "pnb",
-   "language": "Western Panjabi",
+   "language": "lah",
    "protection": null,
-   "readers": 6,
+   "readers": 13,
    "revid": null,
    "title": "پاناما دستاویزات",
    "url": "https://pnb.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D8%A7%D9%85%D8%A7_%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%DB%8C%D8%B2%D8%A7%D8%AA"
   },
   {
-   "characters": 10457,
+   "characters": 10624,
    "citations": 18,
    "lang": "sd",
    "language": "Sindhi",
    "protection": null,
-   "readers": 6,
+   "readers": 9,
    "revid": null,
    "title": "پاناما دستاويزون",
    "url": "https://sd.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D8%A7%D9%85%D8%A7_%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D9%8A%D8%B2%D9%88%D9%86"
@@ -380,7 +380,7 @@
    "lang": "th",
    "language": "Thai",
    "protection": null,
-   "readers": 20,
+   "readers": 23,
    "revid": null,
    "title": "เอกสารปานามา",
    "url": "https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B2"
@@ -391,7 +391,7 @@
    "lang": "is",
    "language": "Icelandic",
    "protection": null,
-   "readers": 50,
+   "readers": 27,
    "revid": null,
    "title": "Panamaskjölin",
    "url": "https://is.wikipedia.org/wiki/Panamaskj%C3%B6lin"
@@ -402,7 +402,7 @@
    "lang": "he",
    "language": "Hebrew",
    "protection": null,
-   "readers": 155,
+   "readers": 98,
    "revid": null,
    "title": "מסמכי פנמה",
    "url": "https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9E%D7%9B%D7%99_%D7%A4%D7%A0%D7%9E%D7%94"
@@ -413,7 +413,7 @@
    "lang": "mr",
    "language": "Marathi",
    "protection": null,
-   "readers": 17,
+   "readers": 14,
    "revid": null,
    "title": "पनामा पेपर्स",
    "url": "https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%BE_%E0%A4%AA%E0%A5%87%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%B8"
@@ -424,7 +424,7 @@
    "lang": "ml",
    "language": "Malayalam",
    "protection": null,
-   "readers": 13,
+   "readers": 15,
    "revid": null,
    "title": "പനാമ പേപ്പേർസ്",
    "url": "https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B4%A8%E0%B4%BE%E0%B4%AE_%E0%B4%AA%E0%B5%87%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%87%E0%B5%BC%E0%B4%B8%E0%B5%8D"
@@ -435,18 +435,18 @@
    "lang": "ta",
    "language": "Tamil",
    "protection": null,
-   "readers": 18,
+   "readers": 7,
    "revid": null,
    "title": "பனாமா ஆவணங்கள்",
    "url": "https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%A9%E0%AE%BE%E0%AE%AE%E0%AE%BE_%E0%AE%86%E0%AE%B5%E0%AE%A3%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D"
   },
   {
-   "characters": 6654,
+   "characters": 6660,
    "citations": 12,
    "lang": "ro",
    "language": "Romanian",
    "protection": null,
-   "readers": 160,
+   "readers": 51,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://ro.wikipedia.org/wiki/Panama_Papers"
@@ -457,7 +457,7 @@
    "lang": "bn",
    "language": "Bengali",
    "protection": null,
-   "readers": 23,
+   "readers": 21,
    "revid": null,
    "title": "পানামা পেপার্স",
    "url": "https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A6%BE_%E0%A6%AA%E0%A7%87%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8"
@@ -468,7 +468,7 @@
    "lang": "br",
    "language": "Breton",
    "protection": null,
-   "readers": 10,
+   "readers": 8,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://br.wikipedia.org/wiki/Panama_Papers"
@@ -490,7 +490,7 @@
    "lang": "bg",
    "language": "Bulgarian",
    "protection": null,
-   "readers": 24,
+   "readers": 19,
    "revid": null,
    "title": "Досиета от Панама",
    "url": "https://bg.wikipedia.org/wiki/%D0%94%D0%BE%D1%81%D0%B8%D0%B5%D1%82%D0%B0_%D0%BE%D1%82_%D0%9F%D0%B0%D0%BD%D0%B0%D0%BC%D0%B0"
@@ -501,7 +501,7 @@
    "lang": "mk",
    "language": "Macedonian",
    "protection": null,
-   "readers": 8,
+   "readers": 10,
    "revid": null,
    "title": "Панамски документи",
    "url": "https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%BC%D1%81%D0%BA%D0%B8_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8"
@@ -512,7 +512,7 @@
    "lang": "nn",
    "language": "Norwegian Nynorsk",
    "protection": null,
-   "readers": 13,
+   "readers": 25,
    "revid": null,
    "title": "Panamapapira",
    "url": "https://nn.wikipedia.org/wiki/Panamapapira"
@@ -523,7 +523,7 @@
    "lang": "el",
    "language": "Greek",
    "protection": null,
-   "readers": 87,
+   "readers": 91,
    "revid": null,
    "title": "Έγγραφα του Παναμά",
    "url": "https://el.wikipedia.org/wiki/%CE%88%CE%B3%CE%B3%CF%81%CE%B1%CF%86%CE%B1_%CF%84%CE%BF%CF%85_%CE%A0%CE%B1%CE%BD%CE%B1%CE%BC%CE%AC"
@@ -534,7 +534,7 @@
    "lang": "sk",
    "language": "Slovak",
    "protection": null,
-   "readers": 38,
+   "readers": 30,
    "revid": null,
    "title": "Panamské dokumenty",
    "url": "https://sk.wikipedia.org/wiki/Panamsk%C3%A9_dokumenty"
@@ -545,7 +545,7 @@
    "lang": "sh",
    "language": "Serbian (Latin)",
    "protection": null,
-   "readers": 4,
+   "readers": 9,
    "revid": null,
    "title": "Panamski papiri",
    "url": "https://sh.wikipedia.org/wiki/Panamski_papiri"
@@ -556,7 +556,7 @@
    "lang": "et",
    "language": "Estonian",
    "protection": null,
-   "readers": 23,
+   "readers": 24,
    "revid": null,
    "title": "Panama dokumendid",
    "url": "https://et.wikipedia.org/wiki/Panama_dokumendid"
@@ -567,18 +567,18 @@
    "lang": "hu",
    "language": "Hungarian",
    "protection": null,
-   "readers": 66,
+   "readers": 83,
    "revid": null,
    "title": "Panama-akták",
    "url": "https://hu.wikipedia.org/wiki/Panama-akt%C3%A1k"
   },
   {
-   "characters": 3881,
+   "characters": 3886,
    "citations": 5,
    "lang": "af",
    "language": "Afrikaans",
    "protection": null,
-   "readers": 12,
+   "readers": 22,
    "revid": null,
    "title": "Panama-dokumente",
    "url": "https://af.wikipedia.org/wiki/Panama-dokumente"
@@ -589,7 +589,7 @@
    "lang": "la",
    "language": "Latin",
    "protection": null,
-   "readers": 5,
+   "readers": 4,
    "revid": null,
    "title": "Compilatio Panamensis",
    "url": "https://la.wikipedia.org/wiki/Compilatio_Panamensis"
@@ -600,7 +600,7 @@
    "lang": "simple",
    "language": "Simple English",
    "protection": null,
-   "readers": 39,
+   "readers": 30,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://simple.wikipedia.org/wiki/Panama_Papers"
@@ -611,7 +611,7 @@
    "lang": "be",
    "language": "Belarusian",
    "protection": null,
-   "readers": 6,
+   "readers": 12,
    "revid": null,
    "title": "Панамскія дакументы",
    "url": "https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%BC%D1%81%D0%BA%D1%96%D1%8F_%D0%B4%D0%B0%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B"
@@ -622,7 +622,7 @@
    "lang": "mg",
    "language": "Malagasy",
    "protection": null,
-   "readers": 5,
+   "readers": 8,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://mg.wikipedia.org/wiki/Panama_Papers"
@@ -633,7 +633,7 @@
    "lang": "cy",
    "language": "Welsh",
    "protection": null,
-   "readers": 5,
+   "readers": 4,
    "revid": null,
    "title": "Papurau Panama",
    "url": "https://cy.wikipedia.org/wiki/Papurau_Panama"
@@ -644,7 +644,7 @@
    "lang": "az",
    "language": "Azerbaijani",
    "protection": null,
-   "readers": 7,
+   "readers": 12,
    "revid": null,
    "title": "Panama sənədləri",
    "url": "https://az.wikipedia.org/wiki/Panama_s%C9%99n%C9%99dl%C9%99ri"
@@ -655,7 +655,7 @@
    "lang": "hr",
    "language": "Croatian",
    "protection": null,
-   "readers": 21,
+   "readers": 29,
    "revid": null,
    "title": "Panamski dokumenti",
    "url": "https://hr.wikipedia.org/wiki/Panamski_dokumenti"
@@ -666,7 +666,7 @@
    "lang": "ko",
    "language": "Korean",
    "protection": null,
-   "readers": 43,
+   "readers": 52,
    "revid": null,
    "title": "파나마 페이퍼스",
    "url": "https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%82%98%EB%A7%88_%ED%8E%98%EC%9D%B4%ED%8D%BC%EC%8A%A4"
@@ -677,7 +677,7 @@
    "lang": "gl",
    "language": "Galician",
    "protection": null,
-   "readers": 16,
+   "readers": 12,
    "revid": null,
    "title": "Papeis de Panamá",
    "url": "https://gl.wikipedia.org/wiki/Papeis_de_Panam%C3%A1"
@@ -688,7 +688,7 @@
    "lang": "lv",
    "language": "Latvian",
    "protection": null,
-   "readers": 12,
+   "readers": 16,
    "revid": null,
    "title": "Panamas dokumenti",
    "url": "https://lv.wikipedia.org/wiki/Panamas_dokumenti"
@@ -699,7 +699,7 @@
    "lang": "zh-yue",
    "language": "zh-yue",
    "protection": null,
-   "readers": 21,
+   "readers": 22,
    "revid": null,
    "title": "巴拿馬文件",
    "url": "https://zh-yue.wikipedia.org/wiki/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6"
@@ -710,7 +710,7 @@
    "lang": "eu",
    "language": "Basque",
    "protection": null,
-   "readers": 13,
+   "readers": 15,
    "revid": null,
    "title": "Panamako paperak",
    "url": "https://eu.wikipedia.org/wiki/Panamako_paperak"
@@ -721,7 +721,7 @@
    "lang": "jv",
    "language": "Javanese",
    "protection": null,
-   "readers": 4,
+   "readers": 5,
    "revid": null,
    "title": "Layang Panama",
    "url": "https://jv.wikipedia.org/wiki/Layang_Panama"
@@ -732,7 +732,7 @@
    "lang": "bs",
    "language": "Bosnian",
    "protection": null,
-   "readers": 4,
+   "readers": 16,
    "revid": null,
    "title": "Panamska dokumentacija",
    "url": "https://bs.wikipedia.org/wiki/Panamska_dokumentacija"
@@ -743,7 +743,7 @@
    "lang": "hi",
    "language": "Hindi",
    "protection": null,
-   "readers": 15,
+   "readers": 22,
    "revid": null,
    "title": "पनामा पत्र",
    "url": "https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%A8%E0%A4%BE%E0%A4%AE%E0%A4%BE_%E0%A4%AA%E0%A4%A4%E0%A5%8D%E0%A4%B0"
@@ -752,9 +752,9 @@
    "characters": 1685,
    "citations": 2,
    "lang": "sco",
-   "language": "Scots",
+   "language": "sco",
    "protection": null,
-   "readers": 5,
+   "readers": 8,
    "revid": null,
    "title": "Panama Papers",
    "url": "https://sco.wikipedia.org/wiki/Panama_Papers"
@@ -765,7 +765,7 @@
    "lang": "uz",
    "language": "Uzbek",
    "protection": null,
-   "readers": 9,
+   "readers": 10,
    "revid": null,
    "title": "Panama hujjatlari",
    "url": "https://uz.wikipedia.org/wiki/Panama_hujjatlari"
@@ -776,7 +776,7 @@
    "lang": "pa",
    "language": "Punjabi",
    "protection": null,
-   "readers": 7,
+   "readers": 14,
    "revid": null,
    "title": "ਪਨਾਮਾ ਪੇਪਰ",
    "url": "https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%A8%E0%A8%BE%E0%A8%AE%E0%A8%BE_%E0%A8%AA%E0%A9%87%E0%A8%AA%E0%A8%B0"
@@ -787,7 +787,7 @@
    "lang": "tl",
    "language": "Filipino",
    "protection": null,
-   "readers": 4,
+   "readers": 9,
    "revid": null,
    "title": "Mga papeles ng Panama",
    "url": "https://tl.wikipedia.org/wiki/Mga_papeles_ng_Panama"
@@ -798,7 +798,7 @@
    "lang": "lo",
    "language": "Lao",
    "protection": null,
-   "readers": 3,
+   "readers": 10,
    "revid": null,
    "title": "ເອກະສານປານາມາ",
    "url": "https://lo.wikipedia.org/wiki/%E0%BB%80%E0%BA%AD%E0%BA%81%E0%BA%B0%E0%BA%AA%E0%BA%B2%E0%BA%99%E0%BA%9B%E0%BA%B2%E0%BA%99%E0%BA%B2%E0%BA%A1%E0%BA%B2"
@@ -809,7 +809,7 @@
    "lang": "zh-min-nan",
    "language": "zh-min-nan",
    "protection": null,
-   "readers": 7,
+   "readers": 5,
    "revid": null,
    "title": "Panama Bûn-kiāⁿ",
    "url": "https://zh-min-nan.wikipedia.org/wiki/Panama_B%C3%BBn-ki%C4%81%E2%81%BF"
@@ -820,7 +820,7 @@
    "lang": "tk",
    "language": "Turkmen",
    "protection": null,
-   "readers": 6,
+   "readers": 4,
    "revid": null,
    "title": "Panama kagyzlary",
    "url": "https://tk.wikipedia.org/wiki/Panama_kagyzlary"
@@ -829,7 +829,7 @@
    "characters": 128,
    "citations": 0,
    "lang": "wuu",
-   "language": "Wu Chinese",
+   "language": "wuu",
    "protection": null,
    "readers": 18,
    "revid": null,
