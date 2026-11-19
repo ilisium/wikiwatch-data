@@ -47,6 +47,26 @@
    "url": "https://en.wikipedia.org/wiki/Wikipedia"
   },
   {
+   "characters": 334118,
+   "citations": 620,
+   "lang": "so",
+   "language": "Somali",
+   "protection": {
+    "edit": {
+     "expiry": "infinity",
+     "level": "autoconfirmed"
+    },
+    "move": {
+     "expiry": "infinity",
+     "level": "autoconfirmed"
+    }
+   },
+   "readers": 138,
+   "revid": null,
+   "title": "Wikibidhiya",
+   "url": "https://so.wikipedia.org/wiki/Wikibidhiya"
+  },
+  {
    "characters": 248395,
    "citations": 455,
    "lang": "no",
@@ -1638,7 +1658,7 @@
    "lang": "xh",
    "language": "Xhosa",
    "protection": null,
-   "readers": 180,
+   "readers": 153,
    "revid": null,
    "title": "Iwikipedia",
    "url": "https://xh.wikipedia.org/wiki/Iwikipedia"
@@ -1649,7 +1669,7 @@
    "lang": "yi",
    "language": "Yiddish",
    "protection": null,
-   "readers": 308,
+   "readers": 241,
    "revid": null,
    "title": "וויקיפעדיע",
    "url": "https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%A2%D7%93%D7%99%D7%A2"
@@ -1658,9 +1678,9 @@
    "characters": 8229,
    "citations": 14,
    "lang": "pnt",
-   "language": "Pontic",
+   "language": "pnt",
    "protection": null,
-   "readers": 287,
+   "readers": 180,
    "revid": null,
    "title": "Βικιπαίδεια",
    "url": "https://pnt.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1"
@@ -1669,9 +1689,9 @@
    "characters": 7964,
    "citations": 0,
    "lang": "tly",
-   "language": "Talysh",
+   "language": "tly",
    "protection": null,
-   "readers": 405,
+   "readers": 249,
    "revid": null,
    "title": "Vikipedija",
    "url": "https://tly.wikipedia.org/wiki/Vikipedija"
@@ -1682,7 +1702,7 @@
    "lang": "lb",
    "language": "Luxembourgish",
    "protection": null,
-   "readers": 265,
+   "readers": 127,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://lb.wikipedia.org/wiki/Wikipedia"
@@ -1693,7 +1713,7 @@
    "lang": "mn",
    "language": "Mongolian",
    "protection": null,
-   "readers": 508,
+   "readers": 509,
    "revid": null,
    "title": "Википедиа",
    "url": "https://mn.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0"
@@ -1702,34 +1722,45 @@
    "characters": 7702,
    "citations": 1,
    "lang": "nqo",
-   "language": "N’Ko",
+   "language": "nqo",
    "protection": null,
-   "readers": 189,
+   "readers": 154,
    "revid": null,
    "title": "ߥߞߌߔߋߘߌߦߊ",
    "url": "https://nqo.wikipedia.org/wiki/%DF%A5%DF%9E%DF%8C%DF%94%DF%8B%DF%98%DF%8C%DF%A6%DF%8A"
   },
   {
-   "characters": 7590,
+   "characters": 7583,
+   "citations": 9,
+   "lang": "mai",
+   "language": "Maithili",
+   "protection": null,
+   "readers": 219,
+   "revid": null,
+   "title": "विकिपिडिया",
+   "url": "https://mai.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE"
+  },
+  {
+   "characters": 7583,
    "citations": 9,
    "lang": "sq",
    "language": "Albanian",
    "protection": null,
-   "readers": 811,
+   "readers": 332,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://sq.wikipedia.org/wiki/Wikipedia"
   },
   {
-   "characters": 7584,
-   "citations": 9,
-   "lang": "mai",
-   "language": "Maithili",
+   "characters": 7581,
+   "citations": 7,
+   "lang": "syl",
+   "language": "Sylheti",
    "protection": null,
-   "readers": 330,
+   "readers": 149,
    "revid": null,
-   "title": "विकिपिडिया",
-   "url": "https://mai.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE"
+   "title": "ꠃꠁꠇꠤꠙꠤꠒꠤꠀ",
+   "url": "https://syl.wikipedia.org/wiki/%EA%A0%83%EA%A0%81%EA%A0%87%EA%A0%A4%EA%A0%99%EA%A0%A4%EA%A0%92%EA%A0%A4%EA%A0%80"
   },
   {
    "characters": 7579,
@@ -1737,7 +1768,7 @@
    "lang": "mr",
    "language": "Marathi",
    "protection": null,
-   "readers": 561,
+   "readers": 379,
    "revid": null,
    "title": "विकिपीडिया",
    "url": "https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE"
@@ -1748,7 +1779,7 @@
    "lang": "map-bms",
    "language": "map-bms",
    "protection": null,
-   "readers": 339,
+   "readers": 225,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://map-bms.wikipedia.org/wiki/Wikipedia"
@@ -1759,7 +1790,7 @@
    "lang": "kn",
    "language": "Kannada",
    "protection": null,
-   "readers": 422,
+   "readers": 277,
    "revid": null,
    "title": "ವಿಕಿಪೀಡಿಯ",
    "url": "https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%BF%E0%B2%95%E0%B2%BF%E0%B2%AA%E0%B3%80%E0%B2%A1%E0%B2%BF%E0%B2%AF"
@@ -1770,7 +1801,7 @@
    "lang": "tg",
    "language": "Tajik",
    "protection": null,
-   "readers": 265,
+   "readers": 225,
    "revid": null,
    "title": "Википедия",
    "url": "https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
@@ -1779,9 +1810,9 @@
    "characters": 7200,
    "citations": 14,
    "lang": "sah",
-   "language": "Yakut",
+   "language": "sah",
    "protection": null,
-   "readers": 238,
+   "readers": 127,
    "revid": null,
    "title": "Бикипиэдьийэ",
    "url": "https://sah.wikipedia.org/wiki/%D0%91%D0%B8%D0%BA%D0%B8%D0%BF%D0%B8%D1%8D%D0%B4%D1%8C%D0%B8%D0%B9%D1%8D"
@@ -1792,7 +1823,7 @@
    "lang": "is",
    "language": "Icelandic",
    "protection": null,
-   "readers": 373,
+   "readers": 236,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://is.wikipedia.org/wiki/Wikipedia"
@@ -1801,9 +1832,9 @@
    "characters": 6934,
    "citations": 5,
    "lang": "shi",
-   "language": "Tachelhit",
+   "language": "shi",
    "protection": null,
-   "readers": 271,
+   "readers": 83,
    "revid": null,
    "title": "Wikipidya",
    "url": "https://shi.wikipedia.org/wiki/Wikipidya"
@@ -1812,9 +1843,9 @@
    "characters": 6846,
    "citations": 0,
    "lang": "tpi",
-   "language": "Tok Pisin",
+   "language": "tpi",
    "protection": null,
-   "readers": 353,
+   "readers": 214,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://tpi.wikipedia.org/wiki/Wikipedia"
@@ -1825,29 +1856,29 @@
    "lang": "mni",
    "language": "Manipuri",
    "protection": null,
-   "readers": 369,
+   "readers": 159,
    "revid": null,
    "title": "ꯋꯤꯀꯤꯄꯦꯗꯤꯌꯥ",
    "url": "https://mni.wikipedia.org/wiki/%EA%AF%8B%EA%AF%A4%EA%AF%80%EA%AF%A4%EA%AF%84%EA%AF%A6%EA%AF%97%EA%AF%A4%EA%AF%8C%EA%AF%A5"
   },
   {
-   "characters": 6613,
+   "characters": 6654,
    "citations": 3,
    "lang": "ga",
    "language": "Irish",
    "protection": null,
-   "readers": 278,
+   "readers": 156,
    "revid": null,
    "title": "An Vicipéid",
    "url": "https://ga.wikipedia.org/wiki/An_Vicip%C3%A9id"
   },
   {
-   "characters": 6545,
+   "characters": 6631,
    "citations": 11,
    "lang": "blk",
    "language": "Pa'O",
    "protection": null,
-   "readers": 261,
+   "readers": 214,
    "revid": null,
    "title": "ဝီခီပီးဒီးယား",
    "url": "https://blk.wikipedia.org/wiki/%E1%80%9D%E1%80%AE%E1%80%81%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8"
@@ -1856,9 +1887,9 @@
    "characters": 6444,
    "citations": 3,
    "lang": "be-tarask",
-   "language": "Belarusian (Taraskievica orthography)",
+   "language": "Belarusian (TARASK)",
    "protection": null,
-   "readers": 403,
+   "readers": 346,
    "revid": null,
    "title": "Вікіпэдыя",
    "url": "https://be-tarask.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F"
@@ -1869,7 +1900,7 @@
    "lang": "ka",
    "language": "Georgian",
    "protection": null,
-   "readers": 1842,
+   "readers": 936,
    "revid": null,
    "title": "ვიკიპედია",
    "url": "https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90"
@@ -1880,7 +1911,7 @@
    "lang": "sm",
    "language": "Samoan",
    "protection": null,
-   "readers": 236,
+   "readers": 156,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://sm.wikipedia.org/wiki/Wikipedia"
@@ -1889,9 +1920,9 @@
    "characters": 6288,
    "citations": 0,
    "lang": "io",
-   "language": "Ido",
+   "language": "io",
    "protection": null,
-   "readers": 311,
+   "readers": 218,
    "revid": null,
    "title": "Wikipedio",
    "url": "https://io.wikipedia.org/wiki/Wikipedio"
@@ -1900,9 +1931,9 @@
    "characters": 6283,
    "citations": 0,
    "lang": "mrj",
-   "language": "Western Mari",
+   "language": "mrj",
    "protection": null,
-   "readers": 210,
+   "readers": 141,
    "revid": null,
    "title": "Википеди",
    "url": "https://mrj.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8"
@@ -1922,7 +1953,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 406,
+   "readers": 518,
    "revid": null,
    "title": "維基大典",
    "url": "https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E5%A4%A7%E5%85%B8"
@@ -1931,9 +1962,9 @@
    "characters": 6266,
    "citations": 0,
    "lang": "bug",
-   "language": "Buginese",
+   "language": "bug",
    "protection": null,
-   "readers": 350,
+   "readers": 246,
    "revid": null,
    "title": "ᨓᨗᨀᨗᨄᨙᨉᨗᨐ",
    "url": "https://bug.wikipedia.org/wiki/%E1%A8%93%E1%A8%97%E1%A8%80%E1%A8%97%E1%A8%84%E1%A8%99%E1%A8%89%E1%A8%97%E1%A8%90"
@@ -1942,9 +1973,9 @@
    "characters": 5936,
    "citations": 11,
    "lang": "gor",
-   "language": "Gorontalo",
+   "language": "gor",
    "protection": null,
-   "readers": 283,
+   "readers": 163,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://gor.wikipedia.org/wiki/Wikipedia"
@@ -1964,7 +1995,7 @@
      "level": "sysop"
     }
    },
-   "readers": 410,
+   "readers": 426,
    "revid": null,
    "title": "ဝီကီပီးဒီးယား",
    "url": "https://my.wikipedia.org/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8"
@@ -1973,9 +2004,9 @@
    "characters": 5578,
    "citations": 8,
    "lang": "rue",
-   "language": "Rusyn",
+   "language": "rue",
    "protection": null,
-   "readers": 281,
+   "readers": 174,
    "revid": null,
    "title": "Вікіпедія",
    "url": "https://rue.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F"
@@ -1986,7 +2017,7 @@
    "lang": "ts",
    "language": "Tsonga",
    "protection": null,
-   "readers": 244,
+   "readers": 190,
    "revid": null,
    "title": "Wikipediya",
    "url": "https://ts.wikipedia.org/wiki/Wikipediya"
@@ -1995,20 +2026,20 @@
    "characters": 5431,
    "citations": 5,
    "lang": "zgh",
-   "language": "Standard Moroccan Tamazight",
+   "language": "zgh",
    "protection": null,
-   "readers": 309,
+   "readers": 250,
    "revid": null,
    "title": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ",
    "url": "https://zgh.wikipedia.org/wiki/%E2%B5%A1%E2%B5%89%E2%B4%BD%E2%B5%89%E2%B4%B1%E2%B5%89%E2%B4%B7%E2%B5%A2%E2%B4%B0"
   },
   {
-   "characters": 5430,
+   "characters": 5400,
    "citations": 4,
    "lang": "te",
    "language": "Telugu",
    "protection": null,
-   "readers": 390,
+   "readers": 339,
    "revid": null,
    "title": "వికీపీడియా",
    "url": "https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE"
@@ -2019,21 +2050,10 @@
    "lang": "qu",
    "language": "Quechua",
    "protection": null,
-   "readers": 258,
+   "readers": 153,
    "revid": null,
    "title": "Wikipidiya",
    "url": "https://qu.wikipedia.org/wiki/Wikipidiya"
-  },
-  {
-   "characters": 5375,
-   "citations": 4,
-   "lang": "so",
-   "language": "Somali",
-   "protection": null,
-   "readers": 151,
-   "revid": null,
-   "title": "Wikibidhiya",
-   "url": "https://so.wikipedia.org/wiki/Wikibidhiya"
   },
   {
    "characters": 5364,
@@ -2041,7 +2061,7 @@
    "lang": "gn",
    "language": "Guarani",
    "protection": null,
-   "readers": 344,
+   "readers": 205,
    "revid": null,
    "title": "Vikipetã",
    "url": "https://gn.wikipedia.org/wiki/Vikipet%C3%A3"
@@ -2052,13 +2072,13 @@
    "lang": "mnw",
    "language": "Mon",
    "protection": null,
-   "readers": 266,
+   "readers": 197,
    "revid": null,
    "title": "ဝဳကဳပဳဒဳယာ",
    "url": "https://mnw.wikipedia.org/wiki/%E1%80%9D%E1%80%B3%E1%80%80%E1%80%B3%E1%80%95%E1%80%B3%E1%80%92%E1%80%B3%E1%80%9A%E1%80%AC"
   },
   {
-   "characters": 5279,
+   "characters": 5275,
    "citations": 4,
    "lang": "uz",
    "language": "Uzbek",
@@ -2072,7 +2092,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 838,
+   "readers": 1310,
    "revid": null,
    "title": "Vikipediya",
    "url": "https://uz.wikipedia.org/wiki/Vikipediya"
@@ -2081,9 +2101,9 @@
    "characters": 5196,
    "citations": 7,
    "lang": "iba",
-   "language": "Iban",
+   "language": "iba",
    "protection": null,
-   "readers": 242,
+   "readers": 125,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://iba.wikipedia.org/wiki/Wikipedia"
@@ -2092,9 +2112,9 @@
    "characters": 5128,
    "citations": 16,
    "lang": "krc",
-   "language": "Karachay-Balkar",
+   "language": "krc",
    "protection": null,
-   "readers": 219,
+   "readers": 196,
    "revid": null,
    "title": "Википедия",
    "url": "https://krc.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
@@ -2105,7 +2125,7 @@
    "lang": "nn",
    "language": "Norwegian Nynorsk",
    "protection": null,
-   "readers": 410,
+   "readers": 288,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://nn.wikipedia.org/wiki/Wikipedia"
@@ -2125,7 +2145,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 408,
+   "readers": 303,
    "revid": null,
    "title": "Уикипедия",
    "url": "https://kk.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
@@ -2134,9 +2154,9 @@
    "characters": 4722,
    "citations": 0,
    "lang": "vec",
-   "language": "Venetian",
+   "language": "vec",
    "protection": null,
-   "readers": 245,
+   "readers": 191,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://vec.wikipedia.org/wiki/Wikipedia"
@@ -2147,7 +2167,7 @@
    "lang": "tdd",
    "language": "tdd",
    "protection": null,
-   "readers": 810,
+   "readers": 226,
    "revid": null,
    "title": "ᥝᥤᥱ ᥑᥤᥱ ᥚᥤᥱ ᥖᥤᥱ ᥕᥣᥱ",
    "url": "https://tdd.wikipedia.org/wiki/%E1%A5%9D%E1%A5%A4%E1%A5%B1_%E1%A5%91%E1%A5%A4%E1%A5%B1_%E1%A5%9A%E1%A5%A4%E1%A5%B1_%E1%A5%96%E1%A5%A4%E1%A5%B1_%E1%A5%95%E1%A5%A3%E1%A5%B1"
@@ -2156,9 +2176,9 @@
    "characters": 4589,
    "citations": 0,
    "lang": "xmf",
-   "language": "Mingrelian",
+   "language": "xmf",
    "protection": null,
-   "readers": 228,
+   "readers": 204,
    "revid": null,
    "title": "ვიკიპედია",
    "url": "https://xmf.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90"
@@ -2178,9 +2198,9 @@
    "characters": 4532,
    "citations": 0,
    "lang": "ltg",
-   "language": "Latgalian",
+   "language": "ltg",
    "protection": null,
-   "readers": 267,
+   "readers": 175,
    "revid": null,
    "title": "Vikipedeja",
    "url": "https://ltg.wikipedia.org/wiki/Vikipedeja"
@@ -2189,9 +2209,9 @@
    "characters": 4403,
    "citations": 1,
    "lang": "tok",
-   "language": "Toki Pona",
+   "language": "tok",
    "protection": null,
-   "readers": 425,
+   "readers": 342,
    "revid": null,
    "title": "lipu Wikipesija",
    "url": "https://tok.wikipedia.org/wiki/lipu_Wikipesija"
@@ -2202,7 +2222,7 @@
    "lang": "ha",
    "language": "Hausa",
    "protection": null,
-   "readers": 247,
+   "readers": 143,
    "revid": null,
    "title": "Wikipidiya",
    "url": "https://ha.wikipedia.org/wiki/Wikipidiya"
@@ -2211,9 +2231,9 @@
    "characters": 4218,
    "citations": 4,
    "lang": "kaa",
-   "language": "Kara-Kalpak",
+   "language": "kaa",
    "protection": null,
-   "readers": 290,
+   "readers": 222,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://kaa.wikipedia.org/wiki/Wikipedia"
@@ -2222,9 +2242,9 @@
    "characters": 4198,
    "citations": 0,
    "lang": "ng",
-   "language": "Ndonga",
+   "language": "ng",
    "protection": null,
-   "readers": 646,
+   "readers": 115,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ng.wikipedia.org/wiki/Wikipedia"
@@ -2233,9 +2253,9 @@
    "characters": 4144,
    "citations": 3,
    "lang": "mzn",
-   "language": "Mazanderani",
+   "language": "mzn",
    "protection": null,
-   "readers": 158,
+   "readers": 192,
    "revid": null,
    "title": "ویکی‌پدیا",
    "url": "https://mzn.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7"
@@ -2246,7 +2266,7 @@
    "lang": "la",
    "language": "Latin",
    "protection": null,
-   "readers": 349,
+   "readers": 235,
    "revid": null,
    "title": "Vicipaedia",
    "url": "https://la.wikipedia.org/wiki/Vicipaedia"
@@ -2257,7 +2277,7 @@
    "lang": "ku",
    "language": "Kurdish",
    "protection": null,
-   "readers": 405,
+   "readers": 274,
    "revid": null,
    "title": "Wîkîpediya",
    "url": "https://ku.wikipedia.org/wiki/W%C3%AEk%C3%AEpediya"
@@ -2268,7 +2288,7 @@
    "lang": "wo",
    "language": "Wolof",
    "protection": null,
-   "readers": 419,
+   "readers": 225,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://wo.wikipedia.org/wiki/Wikipedia"
@@ -2277,9 +2297,9 @@
    "characters": 4027,
    "citations": 6,
    "lang": "bbc",
-   "language": "Batak Toba",
+   "language": "bbc",
    "protection": null,
-   "readers": 286,
+   "readers": 170,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://bbc.wikipedia.org/wiki/Wikipedia"
@@ -2290,7 +2310,7 @@
    "lang": "lbe",
    "language": "lbe",
    "protection": null,
-   "readers": 405,
+   "readers": 186,
    "revid": null,
    "title": "Википедия",
    "url": "https://lbe.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
@@ -2301,7 +2321,7 @@
    "lang": "zh-min-nan",
    "language": "zh-min-nan",
    "protection": null,
-   "readers": 9557,
+   "readers": 9656,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://zh-min-nan.wikipedia.org/wiki/Wikipedia"
@@ -2310,9 +2330,9 @@
    "characters": 3702,
    "citations": 2,
    "lang": "frp",
-   "language": "Arpitan",
+   "language": "frp",
    "protection": null,
-   "readers": 339,
+   "readers": 225,
    "revid": null,
    "title": "Vouiquipèdia",
    "url": "https://frp.wikipedia.org/wiki/Vouiquip%C3%A8dia"
@@ -2323,7 +2343,7 @@
    "lang": "mk",
    "language": "Macedonian",
    "protection": null,
-   "readers": 308,
+   "readers": 222,
    "revid": null,
    "title": "Википедија",
    "url": "https://mk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0"
@@ -2332,9 +2352,9 @@
    "characters": 3617,
    "citations": 0,
    "lang": "ext",
-   "language": "Extremaduran",
+   "language": "ext",
    "protection": null,
-   "readers": 255,
+   "readers": 139,
    "revid": null,
    "title": "Güiquipedia",
    "url": "https://ext.wikipedia.org/wiki/G%C3%BCiquipedia"
@@ -2343,9 +2363,9 @@
    "characters": 3529,
    "citations": 0,
    "lang": "fj",
-   "language": "Fijian",
+   "language": "fj",
    "protection": null,
-   "readers": 390,
+   "readers": 188,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://fj.wikipedia.org/wiki/Wikipedia"
@@ -2354,9 +2374,9 @@
    "characters": 3521,
    "citations": 0,
    "lang": "bar",
-   "language": "Bavarian",
+   "language": "bar",
    "protection": null,
-   "readers": 322,
+   "readers": 226,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://bar.wikipedia.org/wiki/Wikipedia"
@@ -2367,29 +2387,18 @@
    "lang": "rki",
    "language": "rki",
    "protection": null,
-   "readers": 426,
+   "readers": 252,
    "revid": null,
    "title": "ဝီကီးပီးဒီးယား",
    "url": "https://rki.wikipedia.org/wiki/%E1%80%9D%E1%80%AE%E1%80%80%E1%80%AE%E1%80%B8%E1%80%95%E1%80%AE%E1%80%B8%E1%80%92%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8"
   },
   {
-   "characters": 3461,
-   "citations": 0,
-   "lang": "csb",
-   "language": "Kashubian",
-   "protection": null,
-   "readers": 323,
-   "revid": null,
-   "title": "Wikipediô",
-   "url": "https://csb.wikipedia.org/wiki/Wikipedi%C3%B4"
-  },
-  {
    "characters": 3431,
    "citations": 7,
    "lang": "ban",
-   "language": "Balinese",
+   "language": "ban",
    "protection": null,
-   "readers": 382,
+   "readers": 208,
    "revid": null,
    "title": "Wikipédia",
    "url": "https://ban.wikipedia.org/wiki/Wikip%C3%A9dia"
@@ -2409,7 +2418,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 74194,
+   "readers": 68809,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://gpe.wikipedia.org/wiki/Wikipedia"
@@ -2418,9 +2427,9 @@
    "characters": 3419,
    "citations": 1,
    "lang": "wuu",
-   "language": "Wu Chinese",
+   "language": "wuu",
    "protection": null,
-   "readers": 1201,
+   "readers": 248,
    "revid": null,
    "title": "维基百科",
    "url": "https://wuu.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91"
@@ -2429,9 +2438,9 @@
    "characters": 3412,
    "citations": 0,
    "lang": "szl",
-   "language": "Silesian",
+   "language": "szl",
    "protection": null,
-   "readers": 352,
+   "readers": 319,
    "revid": null,
    "title": "Wikipedyjo",
    "url": "https://szl.wikipedia.org/wiki/Wikipedyjo"
@@ -2440,9 +2449,9 @@
    "characters": 3353,
    "citations": 0,
    "lang": "sat",
-   "language": "Santali",
+   "language": "sat",
    "protection": null,
-   "readers": 247,
+   "readers": 170,
    "revid": null,
    "title": "ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ",
    "url": "https://sat.wikipedia.org/wiki/%E1%B1%A3%E1%B1%A4%E1%B1%A0%E1%B1%A4%E1%B1%AF%E1%B1%A4%E1%B1%B0%E1%B1%A4%E1%B1%AD%E1%B1%9F"
@@ -2451,9 +2460,9 @@
    "characters": 3341,
    "citations": 0,
    "lang": "pms",
-   "language": "Piedmontese",
+   "language": "pms",
    "protection": null,
-   "readers": 162,
+   "readers": 134,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://pms.wikipedia.org/wiki/Wikipedia"
@@ -2462,9 +2471,9 @@
    "characters": 3336,
    "citations": 6,
    "lang": "glk",
-   "language": "Gilaki",
+   "language": "glk",
    "protection": null,
-   "readers": 255,
+   "readers": 103,
    "revid": null,
    "title": "ويکيپديا",
    "url": "https://glk.wikipedia.org/wiki/%D9%88%D9%8A%DA%A9%D9%8A%D9%BE%D8%AF%D9%8A%D8%A7"
@@ -2473,9 +2482,9 @@
    "characters": 3263,
    "citations": 0,
    "lang": "mdf",
-   "language": "Moksha",
+   "language": "mdf",
    "protection": null,
-   "readers": 255,
+   "readers": 128,
    "revid": null,
    "title": "Википедиесь",
    "url": "https://mdf.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B5%D1%81%D1%8C"
@@ -2484,9 +2493,9 @@
    "characters": 3211,
    "citations": 2,
    "lang": "pap",
-   "language": "Papiamento",
+   "language": "pap",
    "protection": null,
-   "readers": 194,
+   "readers": 129,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://pap.wikipedia.org/wiki/Wikipedia"
@@ -2506,18 +2515,29 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 365,
+   "readers": 321,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://sw.wikipedia.org/wiki/Wikipedia"
   },
   {
+   "characters": 3173,
+   "citations": 0,
+   "lang": "csb",
+   "language": "csb",
+   "protection": null,
+   "readers": 194,
+   "revid": null,
+   "title": "Wikipediô",
+   "url": "https://csb.wikipedia.org/wiki/Wikipedi%C3%B4"
+  },
+  {
    "characters": 3135,
    "citations": 0,
    "lang": "pfl",
-   "language": "Palatine German",
+   "language": "pfl",
    "protection": null,
-   "readers": 186,
+   "readers": 134,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://pfl.wikipedia.org/wiki/Wikipedia"
@@ -2526,7 +2546,7 @@
    "characters": 3073,
    "citations": 5,
    "lang": "gv",
-   "language": "Manx",
+   "language": "gv",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -2537,7 +2557,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 331,
+   "readers": 184,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://gv.wikipedia.org/wiki/Wikipedia"
@@ -2546,9 +2566,9 @@
    "characters": 3026,
    "citations": 0,
    "lang": "mad",
-   "language": "Madurese",
+   "language": "mad",
    "protection": null,
-   "readers": 237,
+   "readers": 134,
    "revid": null,
    "title": "Wikipèḍia",
    "url": "https://mad.wikipedia.org/wiki/Wikip%C3%A8%E1%B8%8Dia"
@@ -2568,7 +2588,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 178,
+   "readers": 144,
    "revid": null,
    "title": "Uicchipèdie",
    "url": "https://roa-tara.wikipedia.org/wiki/Uicchip%C3%A8die"
@@ -2577,23 +2597,12 @@
    "characters": 2923,
    "citations": 4,
    "lang": "lad",
-   "language": "Ladino",
+   "language": "lad",
    "protection": null,
-   "readers": 540,
+   "readers": 234,
    "revid": null,
    "title": "Vikipedya",
    "url": "https://lad.wikipedia.org/wiki/Vikipedya"
-  },
-  {
-   "characters": 2913,
-   "citations": 0,
-   "lang": "mwl",
-   "language": "Mirandese",
-   "protection": null,
-   "readers": 212,
-   "revid": null,
-   "title": "Wikipedia",
-   "url": "https://mwl.wikipedia.org/wiki/Wikipedia"
   },
   {
    "characters": 2912,
@@ -2601,18 +2610,29 @@
    "lang": "bol",
    "language": "bol",
    "protection": null,
-   "readers": 898,
+   "readers": 214,
    "revid": null,
    "title": "Wikipidiya",
    "url": "https://bol.wikipedia.org/wiki/Wikipidiya"
   },
   {
+   "characters": 2912,
+   "citations": 0,
+   "lang": "mwl",
+   "language": "mwl",
+   "protection": null,
+   "readers": 109,
+   "revid": null,
+   "title": "Wikipedia",
+   "url": "https://mwl.wikipedia.org/wiki/Wikipedia"
+  },
+  {
    "characters": 2891,
    "citations": 2,
    "lang": "tcy",
-   "language": "Tulu",
+   "language": "tcy",
    "protection": null,
-   "readers": 231,
+   "readers": 189,
    "revid": null,
    "title": "ವಿಕಿಪೀಡಿಯ",
    "url": "https://tcy.wikipedia.org/wiki/%E0%B2%B5%E0%B2%BF%E0%B2%95%E0%B2%BF%E0%B2%AA%E0%B3%80%E0%B2%A1%E0%B2%BF%E0%B2%AF"
@@ -2621,9 +2641,9 @@
    "characters": 2816,
    "citations": 3,
    "lang": "mag",
-   "language": "Magahi",
+   "language": "mag",
    "protection": null,
-   "readers": 346,
+   "readers": 154,
    "revid": null,
    "title": "विकिपीडिया",
    "url": "https://mag.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE"
@@ -2632,7 +2652,7 @@
    "characters": 2794,
    "citations": 0,
    "lang": "fur",
-   "language": "Friulian",
+   "language": "fur",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -2643,7 +2663,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 304,
+   "readers": 163,
    "revid": null,
    "title": "Vichipedie",
    "url": "https://fur.wikipedia.org/wiki/Vichipedie"
@@ -2654,10 +2674,21 @@
    "lang": "lg",
    "language": "Ganda",
    "protection": null,
-   "readers": 227,
+   "readers": 199,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://lg.wikipedia.org/wiki/Wikipedia"
+  },
+  {
+   "characters": 2675,
+   "citations": 0,
+   "lang": "pcd",
+   "language": "pcd",
+   "protection": null,
+   "readers": 103,
+   "revid": null,
+   "title": "Wikipédia",
+   "url": "https://pcd.wikipedia.org/wiki/Wikip%C3%A9dia"
   },
   {
    "characters": 2635,
@@ -2665,29 +2696,18 @@
    "lang": "tk",
    "language": "Turkmen",
    "protection": null,
-   "readers": 313,
+   "readers": 219,
    "revid": null,
    "title": "Wikipediýa",
    "url": "https://tk.wikipedia.org/wiki/Wikipedi%C3%BDa"
   },
   {
-   "characters": 2632,
-   "citations": 0,
-   "lang": "pcd",
-   "language": "Picard",
-   "protection": null,
-   "readers": 158,
-   "revid": null,
-   "title": "Wikipédia",
-   "url": "https://pcd.wikipedia.org/wiki/Wikip%C3%A9dia"
-  },
-  {
    "characters": 2555,
    "citations": 4,
    "lang": "pag",
-   "language": "Pangasinan",
+   "language": "pag",
    "protection": null,
-   "readers": 267,
+   "readers": 177,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://pag.wikipedia.org/wiki/Wikipedia"
@@ -2698,7 +2718,7 @@
    "lang": "bm",
    "language": "Bambara",
    "protection": null,
-   "readers": 283,
+   "readers": 197,
    "revid": null,
    "title": "Wikipedi",
    "url": "https://bm.wikipedia.org/wiki/Wikipedi"
@@ -2709,7 +2729,7 @@
    "lang": "kbp",
    "language": "Kabiye",
    "protection": null,
-   "readers": 492,
+   "readers": 178,
    "revid": null,
    "title": "Wikipediya",
    "url": "https://kbp.wikipedia.org/wiki/Wikipediya"
@@ -2718,9 +2738,9 @@
    "characters": 2509,
    "citations": 0,
    "lang": "nds-nl",
-   "language": "Low Saxon",
+   "language": "nds (Netherlands)",
    "protection": null,
-   "readers": 502,
+   "readers": 285,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://nds-nl.wikipedia.org/wiki/Wikipedia"
@@ -2731,7 +2751,7 @@
    "lang": "isv",
    "language": "Interslavic",
    "protection": null,
-   "readers": 369,
+   "readers": 206,
    "revid": null,
    "title": "Vikipedija",
    "url": "https://isv.wikipedia.org/wiki/Vikipedija"
@@ -2740,9 +2760,9 @@
    "characters": 2402,
    "citations": 4,
    "lang": "nr",
-   "language": "South Ndebele",
+   "language": "nr",
    "protection": null,
-   "readers": 389,
+   "readers": 161,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://nr.wikipedia.org/wiki/Wikipedia"
@@ -2753,7 +2773,7 @@
    "lang": "fo",
    "language": "Faroese",
    "protection": null,
-   "readers": 330,
+   "readers": 177,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://fo.wikipedia.org/wiki/Wikipedia"
@@ -2764,7 +2784,7 @@
    "lang": "ny",
    "language": "Nyanja",
    "protection": null,
-   "readers": 248,
+   "readers": 163,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ny.wikipedia.org/wiki/Wikipedia"
@@ -2775,29 +2795,18 @@
    "lang": "ia",
    "language": "Interlingua",
    "protection": null,
-   "readers": 464,
+   "readers": 234,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ia.wikipedia.org/wiki/Wikipedia"
   },
   {
-   "characters": 2271,
-   "citations": 1,
-   "lang": "syl",
-   "language": "Sylheti",
-   "protection": null,
-   "readers": 239,
-   "revid": null,
-   "title": "ꠃꠁꠇꠤꠙꠤꠒꠤꠀ",
-   "url": "https://syl.wikipedia.org/wiki/%EA%A0%83%EA%A0%81%EA%A0%87%EA%A0%A4%EA%A0%99%EA%A0%A4%EA%A0%92%EA%A0%A4%EA%A0%80"
-  },
-  {
    "characters": 2241,
    "citations": 0,
    "lang": "guc",
-   "language": "Wayuu",
+   "language": "guc",
    "protection": null,
-   "readers": 256,
+   "readers": 119,
    "revid": null,
    "title": "Wikiakuaipa",
    "url": "https://guc.wikipedia.org/wiki/Wikiakuaipa"
@@ -2806,9 +2815,9 @@
    "characters": 2216,
    "citations": 1,
    "lang": "knc",
-   "language": "Kanuri",
+   "language": "kr",
    "protection": null,
-   "readers": 271,
+   "readers": 138,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://knc.wikipedia.org/wiki/Wikipedia"
@@ -2817,9 +2826,9 @@
    "characters": 2214,
    "citations": 4,
    "lang": "bew",
-   "language": "Betawi",
+   "language": "bew",
    "protection": null,
-   "readers": 246,
+   "readers": 142,
    "revid": null,
    "title": "Wikipédi",
    "url": "https://bew.wikipedia.org/wiki/Wikip%C3%A9di"
@@ -2828,9 +2837,9 @@
    "characters": 2178,
    "citations": 0,
    "lang": "li",
-   "language": "Limburgish",
+   "language": "li",
    "protection": null,
-   "readers": 313,
+   "readers": 176,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://li.wikipedia.org/wiki/Wikipedia"
@@ -2850,7 +2859,7 @@
      "level": "sysop"
     }
    },
-   "readers": 388,
+   "readers": 352,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://an.wikipedia.org/wiki/Wikipedia"
@@ -2859,9 +2868,9 @@
    "characters": 2121,
    "citations": 0,
    "lang": "lij",
-   "language": "Ligurian",
+   "language": "lij",
    "protection": null,
-   "readers": 255,
+   "readers": 118,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://lij.wikipedia.org/wiki/Wikipedia"
@@ -2870,9 +2879,9 @@
    "characters": 2087,
    "citations": 0,
    "lang": "ann",
-   "language": "Obolo",
+   "language": "ann",
    "protection": null,
-   "readers": 301,
+   "readers": 262,
    "revid": null,
    "title": "Wìkìpedia",
    "url": "https://ann.wikipedia.org/wiki/W%C3%ACk%C3%ACpedia"
@@ -2883,7 +2892,7 @@
    "lang": "yo",
    "language": "Yoruba",
    "protection": null,
-   "readers": 262,
+   "readers": 199,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://yo.wikipedia.org/wiki/Wikipedia"
@@ -2892,9 +2901,9 @@
    "characters": 2071,
    "citations": 0,
    "lang": "ang",
-   "language": "Old English",
+   "language": "ang",
    "protection": null,
-   "readers": 580,
+   "readers": 587,
    "revid": null,
    "title": "Wikipǣdia",
    "url": "https://ang.wikipedia.org/wiki/Wikip%C7%A3dia"
@@ -2903,9 +2912,9 @@
    "characters": 2044,
    "citations": 2,
    "lang": "kcg",
-   "language": "Tyap",
+   "language": "kcg",
    "protection": null,
-   "readers": 257,
+   "readers": 164,
    "revid": null,
    "title": "Wukipedia",
    "url": "https://kcg.wikipedia.org/wiki/Wukipedia"
@@ -2914,7 +2923,7 @@
    "characters": 2044,
    "citations": 2,
    "lang": "smn",
-   "language": "Inari Sami",
+   "language": "smn",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -2925,7 +2934,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 168,
+   "readers": 161,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://smn.wikipedia.org/wiki/Wikipedia"
@@ -2934,9 +2943,9 @@
    "characters": 2040,
    "citations": 1,
    "lang": "vep",
-   "language": "Veps",
+   "language": "vep",
    "protection": null,
-   "readers": 335,
+   "readers": 219,
    "revid": null,
    "title": "Vikipedii",
    "url": "https://vep.wikipedia.org/wiki/Vikipedii"
@@ -2945,7 +2954,7 @@
    "characters": 2039,
    "citations": 3,
    "lang": "scn",
-   "language": "Sicilian",
+   "language": "scn",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -2956,7 +2965,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 251,
+   "readers": 130,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://scn.wikipedia.org/wiki/Wikipedia"
@@ -2965,9 +2974,9 @@
    "characters": 1928,
    "citations": 0,
    "lang": "vls",
-   "language": "West Flemish",
+   "language": "vls",
    "protection": null,
-   "readers": 232,
+   "readers": 160,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://vls.wikipedia.org/wiki/Wikipedia"
@@ -2976,9 +2985,9 @@
    "characters": 1908,
    "citations": 3,
    "lang": "bcl",
-   "language": "Bikol",
+   "language": "bik",
    "protection": null,
-   "readers": 329,
+   "readers": 195,
    "revid": null,
    "title": "Wikipedya",
    "url": "https://bcl.wikipedia.org/wiki/Wikipedya"
@@ -2987,7 +2996,7 @@
    "characters": 1892,
    "citations": 1,
    "lang": "lmo",
-   "language": "Lombard",
+   "language": "lmo",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -2998,7 +3007,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 261,
+   "readers": 193,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://lmo.wikipedia.org/wiki/Wikipedia"
@@ -3007,9 +3016,9 @@
    "characters": 1886,
    "citations": 0,
    "lang": "ki",
-   "language": "Kikuyu",
+   "language": "ki",
    "protection": null,
-   "readers": 324,
+   "readers": 137,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ki.wikipedia.org/wiki/Wikipedia"
@@ -3020,7 +3029,7 @@
    "lang": "nah",
    "language": "nah",
    "protection": null,
-   "readers": 486,
+   "readers": 149,
    "revid": null,
    "title": "Huiquipedia",
    "url": "https://nah.wikipedia.org/wiki/Huiquipedia"
@@ -3036,7 +3045,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 340,
+   "readers": 158,
    "revid": null,
    "title": "Uicipeid",
    "url": "https://gd.wikipedia.org/wiki/Uicipeid"
@@ -3045,9 +3054,9 @@
    "characters": 1860,
    "citations": 2,
    "lang": "inh",
-   "language": "Ingush",
+   "language": "inh",
    "protection": null,
-   "readers": 264,
+   "readers": 152,
    "revid": null,
    "title": "Википеди",
    "url": "https://inh.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8"
@@ -3058,7 +3067,7 @@
    "lang": "gcr",
    "language": "Guianan Creole",
    "protection": null,
-   "readers": 353,
+   "readers": 198,
    "revid": null,
    "title": "Wikipédja",
    "url": "https://gcr.wikipedia.org/wiki/Wikip%C3%A9dja"
@@ -3067,7 +3076,7 @@
    "characters": 1803,
    "citations": 1,
    "lang": "sco",
-   "language": "Scots",
+   "language": "sco",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -3078,7 +3087,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 367,
+   "readers": 397,
    "revid": null,
    "title": "Wikipaedia",
    "url": "https://sco.wikipedia.org/wiki/Wikipaedia"
@@ -3087,9 +3096,9 @@
    "characters": 1735,
    "citations": 0,
    "lang": "nds",
-   "language": "Low German",
+   "language": "nds",
    "protection": null,
-   "readers": 249,
+   "readers": 138,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://nds.wikipedia.org/wiki/Wikipedia"
@@ -3098,9 +3107,9 @@
    "characters": 1677,
    "citations": 0,
    "lang": "bo",
-   "language": "Tibetan",
+   "language": "bo",
    "protection": null,
-   "readers": 239,
+   "readers": 166,
    "revid": null,
    "title": "ལྦེ་ཁེ་རིག་མཛོད",
    "url": "https://bo.wikipedia.org/wiki/%E0%BD%A3%E0%BE%A6%E0%BD%BA%E0%BC%8B%E0%BD%81%E0%BD%BA%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BD%82%E0%BC%8B%E0%BD%98%E0%BD%9B%E0%BD%BC%E0%BD%91"
@@ -3109,9 +3118,9 @@
    "characters": 1642,
    "citations": 0,
    "lang": "hsb",
-   "language": "Upper Sorbian",
+   "language": "hsb",
    "protection": null,
-   "readers": 298,
+   "readers": 119,
    "revid": null,
    "title": "Wikipedija",
    "url": "https://hsb.wikipedia.org/wiki/Wikipedija"
@@ -3122,18 +3131,29 @@
    "lang": "ug",
    "language": "Uyghur",
    "protection": null,
-   "readers": 207,
+   "readers": 157,
    "revid": null,
    "title": "ۋىكىپېدىيە",
    "url": "https://ug.wikipedia.org/wiki/%DB%8B%D9%89%D9%83%D9%89%D9%BE%DB%90%D8%AF%D9%89%D9%8A%DB%95"
   },
   {
+   "characters": 1627,
+   "citations": 0,
+   "lang": "nso",
+   "language": "Northern Sotho",
+   "protection": null,
+   "readers": 95,
+   "revid": null,
+   "title": "Wikipedia",
+   "url": "https://nso.wikipedia.org/wiki/Wikipedia"
+  },
+  {
    "characters": 1613,
    "citations": 2,
    "lang": "tyv",
-   "language": "Tuvinian",
+   "language": "tyv",
    "protection": null,
-   "readers": 213,
+   "readers": 156,
    "revid": null,
    "title": "Википедия",
    "url": "https://tyv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
@@ -3144,7 +3164,7 @@
    "lang": "ppl",
    "language": "ppl",
    "protection": null,
-   "readers": 168,
+   "readers": 74,
    "revid": null,
    "title": "Wikipediaj",
    "url": "https://ppl.wikipedia.org/wiki/Wikipediaj"
@@ -3153,9 +3173,9 @@
    "characters": 1584,
    "citations": 0,
    "lang": "ve",
-   "language": "Venda",
+   "language": "ve",
    "protection": null,
-   "readers": 395,
+   "readers": 144,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ve.wikipedia.org/wiki/Wikipedia"
@@ -3164,9 +3184,9 @@
    "characters": 1577,
    "citations": 0,
    "lang": "diq",
-   "language": "Zaza",
+   "language": "zza",
    "protection": null,
-   "readers": 458,
+   "readers": 212,
    "revid": null,
    "title": "Wikipediya",
    "url": "https://diq.wikipedia.org/wiki/Wikipediya"
@@ -3175,9 +3195,9 @@
    "characters": 1558,
    "citations": 0,
    "lang": "av",
-   "language": "Avaric",
+   "language": "av",
    "protection": null,
-   "readers": 334,
+   "readers": 222,
    "revid": null,
    "title": "Википедия",
    "url": "https://av.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
@@ -3188,7 +3208,7 @@
    "lang": "guw",
    "language": "guw",
    "protection": null,
-   "readers": 382,
+   "readers": 158,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://guw.wikipedia.org/wiki/Wikipedia"
@@ -3197,9 +3217,9 @@
    "characters": 1508,
    "citations": 1,
    "lang": "cu",
-   "language": "Church Slavic",
+   "language": "cu",
    "protection": null,
-   "readers": 441,
+   "readers": 435,
    "revid": null,
    "title": "Википєдїꙗ",
    "url": "https://cu.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D1%94%D0%B4%D1%97%EA%99%97"
@@ -3208,9 +3228,9 @@
    "characters": 1494,
    "citations": 0,
    "lang": "zea",
-   "language": "Zeelandic",
+   "language": "zea",
    "protection": null,
-   "readers": 781,
+   "readers": 522,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://zea.wikipedia.org/wiki/Wikipedia"
@@ -3221,7 +3241,7 @@
    "lang": "ln",
    "language": "Lingala",
    "protection": null,
-   "readers": 399,
+   "readers": 167,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ln.wikipedia.org/wiki/Wikipedia"
@@ -3232,7 +3252,7 @@
    "lang": "mi",
    "language": "Māori",
    "protection": null,
-   "readers": 419,
+   "readers": 178,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://mi.wikipedia.org/wiki/Wikipedia"
@@ -3243,7 +3263,7 @@
    "lang": "tw",
    "language": "Akan",
    "protection": null,
-   "readers": 203,
+   "readers": 119,
    "revid": null,
    "title": "Wikipidia",
    "url": "https://tw.wikipedia.org/wiki/Wikipidia"
@@ -3252,9 +3272,9 @@
    "characters": 1382,
    "citations": 2,
    "lang": "dz",
-   "language": "Dzongkha",
+   "language": "dz",
    "protection": null,
-   "readers": 225,
+   "readers": 133,
    "revid": null,
    "title": "ཝི་ཀི་པི་ཌི་ཡ།",
    "url": "https://dz.wikipedia.org/wiki/%E0%BD%9D%E0%BD%B2%E0%BC%8B%E0%BD%80%E0%BD%B2%E0%BC%8B%E0%BD%94%E0%BD%B2%E0%BC%8B%E0%BD%8C%E0%BD%B2%E0%BC%8B%E0%BD%A1%E0%BC%8D"
@@ -3265,7 +3285,7 @@
    "lang": "ast",
    "language": "Asturian",
    "protection": null,
-   "readers": 441,
+   "readers": 293,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ast.wikipedia.org/wiki/Wikipedia"
@@ -3276,7 +3296,7 @@
    "lang": "nrm",
    "language": "Norman",
    "protection": null,
-   "readers": 172,
+   "readers": 96,
    "revid": null,
    "title": "Viqùipédie",
    "url": "https://nrm.wikipedia.org/wiki/Viq%C3%B9ip%C3%A9die"
@@ -3285,7 +3305,7 @@
    "characters": 1364,
    "citations": 0,
    "lang": "frr",
-   "language": "Northern Frisian",
+   "language": "frr",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -3296,7 +3316,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 251,
+   "readers": 123,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://frr.wikipedia.org/wiki/Wikipedia"
@@ -3307,7 +3327,7 @@
    "lang": "co",
    "language": "Corsican",
    "protection": null,
-   "readers": 291,
+   "readers": 171,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://co.wikipedia.org/wiki/Wikipedia"
@@ -3316,9 +3336,9 @@
    "characters": 1321,
    "citations": 0,
    "lang": "hak",
-   "language": "Hakka Chinese",
+   "language": "hak",
    "protection": null,
-   "readers": 347,
+   "readers": 174,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://hak.wikipedia.org/wiki/Wikipedia"
@@ -3327,9 +3347,9 @@
    "characters": 1286,
    "citations": 0,
    "lang": "ksh",
-   "language": "Colognian",
+   "language": "ksh",
    "protection": null,
-   "readers": 669,
+   "readers": 358,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ksh.wikipedia.org/wiki/Wikipedia"
@@ -3340,7 +3360,7 @@
    "lang": "cdo",
    "language": "cdo",
    "protection": null,
-   "readers": 1130,
+   "readers": 538,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://cdo.wikipedia.org/wiki/Wikipedia"
@@ -3349,9 +3369,9 @@
    "characters": 1165,
    "citations": 0,
    "lang": "stq",
-   "language": "Saterland Frisian",
+   "language": "stq",
    "protection": null,
-   "readers": 502,
+   "readers": 204,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://stq.wikipedia.org/wiki/Wikipedia"
@@ -3360,9 +3380,9 @@
    "characters": 1137,
    "citations": 1,
    "lang": "kab",
-   "language": "Kabyle",
+   "language": "kab",
    "protection": null,
-   "readers": 769,
+   "readers": 178,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://kab.wikipedia.org/wiki/Wikipedia"
@@ -3371,9 +3391,9 @@
    "characters": 1130,
    "citations": 0,
    "lang": "ik",
-   "language": "Inupiaq",
+   "language": "ik",
    "protection": null,
-   "readers": 363,
+   "readers": 105,
    "revid": null,
    "title": "Uiqipitia",
    "url": "https://ik.wikipedia.org/wiki/Uiqipitia"
@@ -3384,7 +3404,7 @@
    "lang": "chr",
    "language": "Cherokee",
    "protection": null,
-   "readers": 385,
+   "readers": 343,
    "revid": null,
    "title": "ᏫᎩᏇᏗᏯ",
    "url": "https://chr.wikipedia.org/wiki/%E1%8F%AB%E1%8E%A9%E1%8F%87%E1%8F%97%E1%8F%AF"
@@ -3395,7 +3415,7 @@
    "lang": "fy",
    "language": "Western Frisian",
    "protection": null,
-   "readers": 466,
+   "readers": 148,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://fy.wikipedia.org/wiki/Wikipedia"
@@ -3404,9 +3424,9 @@
    "characters": 1062,
    "citations": 2,
    "lang": "ff",
-   "language": "Fula",
+   "language": "ff",
    "protection": null,
-   "readers": 351,
+   "readers": 165,
    "revid": null,
    "title": "Wikipeediya",
    "url": "https://ff.wikipedia.org/wiki/Wikipeediya"
@@ -3415,9 +3435,9 @@
    "characters": 1041,
    "citations": 0,
    "lang": "sg",
-   "language": "Sango",
+   "language": "sg",
    "protection": null,
-   "readers": 200,
+   "readers": 158,
    "revid": null,
    "title": "Wïkïpêdïyäa",
    "url": "https://sg.wikipedia.org/wiki/W%C3%AFk%C3%AFp%C3%AAd%C3%AFy%C3%A4a"
@@ -3428,7 +3448,7 @@
    "lang": "igl",
    "language": "igl",
    "protection": null,
-   "readers": 275,
+   "readers": 141,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://igl.wikipedia.org/wiki/Wikipedia"
@@ -3439,7 +3459,7 @@
    "lang": "su",
    "language": "Sundanese",
    "protection": null,
-   "readers": 195,
+   "readers": 179,
    "revid": null,
    "title": "Wikipédia",
    "url": "https://su.wikipedia.org/wiki/Wikip%C3%A9dia"
@@ -3450,7 +3470,7 @@
    "lang": "gom",
    "language": "Konkani",
    "protection": null,
-   "readers": 376,
+   "readers": 205,
    "revid": null,
    "title": "विकिपीडिया",
    "url": "https://gom.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE"
@@ -3461,7 +3481,7 @@
    "lang": "fiu-vro",
    "language": "fiu-vro",
    "protection": null,
-   "readers": 477,
+   "readers": 243,
    "revid": null,
    "title": "Vikipeediä",
    "url": "https://fiu-vro.wikipedia.org/wiki/Vikipeedi%C3%A4"
@@ -3472,7 +3492,7 @@
    "lang": "ilo",
    "language": "Iloko",
    "protection": null,
-   "readers": 299,
+   "readers": 179,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ilo.wikipedia.org/wiki/Wikipedia"
@@ -3483,7 +3503,7 @@
    "lang": "ti",
    "language": "Tigrinya",
    "protection": null,
-   "readers": 895,
+   "readers": 614,
    "revid": null,
    "title": "ዊኪፐድያ",
    "url": "https://ti.wikipedia.org/wiki/%E1%8B%8A%E1%8A%AA%E1%8D%90%E1%8B%B5%E1%8B%AB"
@@ -3492,9 +3512,9 @@
    "characters": 903,
    "citations": 0,
    "lang": "dsb",
-   "language": "Lower Sorbian",
+   "language": "dsb",
    "protection": null,
-   "readers": 291,
+   "readers": 178,
    "revid": null,
    "title": "Wikipedija",
    "url": "https://dsb.wikipedia.org/wiki/Wikipedija"
@@ -3503,9 +3523,9 @@
    "characters": 869,
    "citations": 0,
    "lang": "arc",
-   "language": "Aramaic",
+   "language": "arc",
    "protection": null,
-   "readers": 451,
+   "readers": 347,
    "revid": null,
    "title": "ܘܝܩܝܦܕܝܐ",
    "url": "https://arc.wikipedia.org/wiki/%DC%98%DC%9D%DC%A9%DC%9D%DC%A6%DC%95%DC%9D%DC%90"
@@ -3516,7 +3536,7 @@
    "lang": "szy",
    "language": "szy",
    "protection": null,
-   "readers": 136,
+   "readers": 144,
    "revid": null,
    "title": "u holic hananay",
    "url": "https://szy.wikipedia.org/wiki/u_holic_hananay"
@@ -3525,9 +3545,9 @@
    "characters": 854,
    "citations": 0,
    "lang": "bpy",
-   "language": "Bishnupriya",
+   "language": "bpy",
    "protection": null,
-   "readers": 287,
+   "readers": 193,
    "revid": null,
    "title": "উইকিপিডিয়া",
    "url": "https://bpy.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE"
@@ -3536,9 +3556,9 @@
    "characters": 854,
    "citations": 0,
    "lang": "crh",
-   "language": "Crimean Tatar",
+   "language": "crh",
    "protection": null,
-   "readers": 322,
+   "readers": 176,
    "revid": null,
    "title": "Vikipediya",
    "url": "https://crh.wikipedia.org/wiki/Vikipediya"
@@ -3547,9 +3567,9 @@
    "characters": 828,
    "citations": 0,
    "lang": "mhr",
-   "language": "Mari",
+   "language": "chm",
    "protection": null,
-   "readers": 255,
+   "readers": 149,
    "revid": null,
    "title": "Википедий",
    "url": "https://mhr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9"
@@ -3558,9 +3578,9 @@
    "characters": 789,
    "citations": 0,
    "lang": "pcm",
-   "language": "Nigerian Pidgin",
+   "language": "pcm",
    "protection": null,
-   "readers": 241,
+   "readers": 168,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://pcm.wikipedia.org/wiki/Wikipedia"
@@ -3569,9 +3589,9 @@
    "characters": 782,
    "citations": 0,
    "lang": "kw",
-   "language": "Cornish",
+   "language": "kw",
    "protection": null,
-   "readers": 609,
+   "readers": 418,
    "revid": null,
    "title": "Wikipedya",
    "url": "https://kw.wikipedia.org/wiki/Wikipedya"
@@ -3580,9 +3600,9 @@
    "characters": 771,
    "citations": 0,
    "lang": "srn",
-   "language": "Sranan Tongo",
+   "language": "srn",
    "protection": null,
-   "readers": 285,
+   "readers": 218,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://srn.wikipedia.org/wiki/Wikipedia"
@@ -3593,7 +3613,7 @@
    "lang": "nup",
    "language": "nup",
    "protection": null,
-   "readers": 161,
+   "readers": 88,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://nup.wikipedia.org/wiki/Wikipedia"
@@ -3602,9 +3622,9 @@
    "characters": 729,
    "citations": 0,
    "lang": "rmy",
-   "language": "Romany",
+   "language": "rom",
    "protection": null,
-   "readers": 920,
+   "readers": 170,
    "revid": null,
    "title": "Vikipidiya",
    "url": "https://rmy.wikipedia.org/wiki/Vikipidiya"
@@ -3615,7 +3635,7 @@
    "lang": "kge",
    "language": "kge",
    "protection": null,
-   "readers": 288,
+   "readers": 160,
    "revid": null,
    "title": "Wikipidiya",
    "url": "https://kge.wikipedia.org/wiki/Wikipidiya"
@@ -3624,18 +3644,29 @@
    "characters": 704,
    "citations": 0,
    "lang": "lez",
-   "language": "Lezghian",
+   "language": "lez",
    "protection": null,
-   "readers": 311,
+   "readers": 127,
    "revid": null,
    "title": "Википедия",
    "url": "https://lez.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
   },
   {
+   "characters": 690,
+   "citations": 0,
+   "lang": "om",
+   "language": "Oromo",
+   "protection": null,
+   "readers": 85,
+   "revid": null,
+   "title": "Wiikiipiidiyaa",
+   "url": "https://om.wikipedia.org/wiki/Wiikiipiidiyaa"
+  },
+  {
    "characters": 689,
    "citations": 0,
    "lang": "gag",
-   "language": "Gagauz",
+   "language": "gag",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -3646,7 +3677,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 328,
+   "readers": 364,
    "revid": null,
    "title": "Vikipediya",
    "url": "https://gag.wikipedia.org/wiki/Vikipediya"
@@ -3655,20 +3686,20 @@
    "characters": 686,
    "citations": 0,
    "lang": "myv",
-   "language": "Erzya",
+   "language": "myv",
    "protection": null,
-   "readers": 242,
+   "readers": 233,
    "revid": null,
    "title": "Википедиясь",
    "url": "https://myv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%D1%81%D1%8C"
   },
   {
-   "characters": 665,
+   "characters": 669,
    "citations": 0,
    "lang": "iu",
-   "language": "Inuktitut",
+   "language": "iu",
    "protection": null,
-   "readers": 558,
+   "readers": 316,
    "revid": null,
    "title": "ᐅᐃᑭᐱᑎᐊ",
    "url": "https://iu.wikipedia.org/wiki/%E1%90%85%E1%90%83%E1%91%AD%E1%90%B1%E1%91%8E%E1%90%8A"
@@ -3677,9 +3708,9 @@
    "characters": 643,
    "citations": 0,
    "lang": "os",
-   "language": "Ossetic",
+   "language": "os",
    "protection": null,
-   "readers": 212,
+   "readers": 147,
    "revid": null,
    "title": "Википеди",
    "url": "https://os.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8"
@@ -3688,9 +3719,9 @@
    "characters": 637,
    "citations": 0,
    "lang": "ie",
-   "language": "Interlingue",
+   "language": "ie",
    "protection": null,
-   "readers": 257,
+   "readers": 106,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ie.wikipedia.org/wiki/Wikipedia"
@@ -3701,7 +3732,7 @@
    "lang": "st",
    "language": "Southern Sotho",
    "protection": null,
-   "readers": 208,
+   "readers": 140,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://st.wikipedia.org/wiki/Wikipedia"
@@ -3710,9 +3741,9 @@
    "characters": 630,
    "citations": 0,
    "lang": "udm",
-   "language": "Udmurt",
+   "language": "udm",
    "protection": null,
-   "readers": 196,
+   "readers": 112,
    "revid": null,
    "title": "Википедия",
    "url": "https://udm.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
@@ -3721,9 +3752,9 @@
    "characters": 592,
    "citations": 0,
    "lang": "ss",
-   "language": "Swati",
+   "language": "ss",
    "protection": null,
-   "readers": 375,
+   "readers": 214,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ss.wikipedia.org/wiki/Wikipedia"
@@ -3734,7 +3765,7 @@
    "lang": "bat-smg",
    "language": "bat-smg",
    "protection": null,
-   "readers": 246,
+   "readers": 171,
    "revid": null,
    "title": "Vikipedėjė",
    "url": "https://bat-smg.wikipedia.org/wiki/Vikiped%C4%97j%C4%97"
@@ -3743,9 +3774,9 @@
    "characters": 558,
    "citations": 0,
    "lang": "atj",
-   "language": "Atikamekw",
+   "language": "atj",
    "protection": null,
-   "readers": 351,
+   "readers": 201,
    "revid": null,
    "title": "Wikipetcia",
    "url": "https://atj.wikipedia.org/wiki/Wikipetcia"
@@ -3754,9 +3785,9 @@
    "characters": 546,
    "citations": 0,
    "lang": "xal",
-   "language": "Kalmyk",
+   "language": "xal",
    "protection": null,
-   "readers": 274,
+   "readers": 156,
    "revid": null,
    "title": "Википеди",
    "url": "https://xal.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8"
@@ -3765,9 +3796,9 @@
    "characters": 528,
    "citations": 0,
    "lang": "za",
-   "language": "Zhuang",
+   "language": "za",
    "protection": null,
-   "readers": 279,
+   "readers": 163,
    "revid": null,
    "title": "Veizgiek Bakgoh",
    "url": "https://za.wikipedia.org/wiki/Veizgiek_Bakgoh"
@@ -3776,9 +3807,9 @@
    "characters": 511,
    "citations": 1,
    "lang": "gan",
-   "language": "Gan Chinese",
+   "language": "gan",
    "protection": null,
-   "readers": 14677,
+   "readers": 14209,
    "revid": null,
    "title": "維基百科",
    "url": "https://gan.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91"
@@ -3787,9 +3818,9 @@
    "characters": 458,
    "citations": 0,
    "lang": "war",
-   "language": "Waray",
+   "language": "war",
    "protection": null,
-   "readers": 272,
+   "readers": 163,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://war.wikipedia.org/wiki/Wikipedia"
@@ -3798,9 +3829,9 @@
    "characters": 454,
    "citations": 0,
    "lang": "koi",
-   "language": "Komi-Permyak",
+   "language": "koi",
    "protection": null,
-   "readers": 414,
+   "readers": 146,
    "revid": null,
    "title": "Википедия",
    "url": "https://koi.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F"
@@ -3809,9 +3840,9 @@
    "characters": 442,
    "citations": 0,
    "lang": "lfn",
-   "language": "Lingua Franca Nova",
+   "language": "lfn",
    "protection": null,
-   "readers": 259,
+   "readers": 116,
    "revid": null,
    "title": "Vicipedia",
    "url": "https://lfn.wikipedia.org/wiki/Vicipedia"
@@ -3820,9 +3851,9 @@
    "characters": 416,
    "citations": 0,
    "lang": "jam",
-   "language": "Jamaican Creole English",
+   "language": "jam",
    "protection": null,
-   "readers": 281,
+   "readers": 165,
    "revid": null,
    "title": "Wikipidia",
    "url": "https://jam.wikipedia.org/wiki/Wikipidia"
@@ -3831,9 +3862,9 @@
    "characters": 389,
    "citations": 0,
    "lang": "jbo",
-   "language": "Lojban",
+   "language": "jbo",
    "protection": null,
-   "readers": 231,
+   "readers": 139,
    "revid": null,
    "title": "la .uikipedi'as.",
    "url": "https://jbo.wikipedia.org/wiki/la_.uikipedi%27as."
@@ -3842,7 +3873,7 @@
    "characters": 371,
    "citations": 0,
    "lang": "bi",
-   "language": "Bislama",
+   "language": "bi",
    "protection": {
     "edit": {
      "expiry": "2023-07-04T05:41:43Z",
@@ -3853,7 +3884,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 836,
+   "readers": 164,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://bi.wikipedia.org/wiki/Wikipedia"
@@ -3864,7 +3895,7 @@
    "lang": "ay",
    "language": "Aymara",
    "protection": null,
-   "readers": 476,
+   "readers": 184,
    "revid": null,
    "title": "Wikipidiya",
    "url": "https://ay.wikipedia.org/wiki/Wikipidiya"
@@ -3875,7 +3906,7 @@
    "lang": "lld",
    "language": "lld",
    "protection": null,
-   "readers": 241,
+   "readers": 81,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://lld.wikipedia.org/wiki/Wikipedia"
@@ -3884,9 +3915,9 @@
    "characters": 348,
    "citations": 0,
    "lang": "nov",
-   "language": "Novial",
+   "language": "nov",
    "protection": null,
-   "readers": 320,
+   "readers": 128,
    "revid": null,
    "title": "Wikipedie",
    "url": "https://nov.wikipedia.org/wiki/Wikipedie"
@@ -3895,7 +3926,7 @@
    "characters": 348,
    "citations": 0,
    "lang": "se",
-   "language": "Northern Sami",
+   "language": "se",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -3906,7 +3937,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 172,
+   "readers": 89,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://se.wikipedia.org/wiki/Wikipedia"
@@ -3915,9 +3946,9 @@
    "characters": 326,
    "citations": 0,
    "lang": "ch",
-   "language": "Chamorro",
+   "language": "ch",
    "protection": null,
-   "readers": 331,
+   "readers": 205,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://ch.wikipedia.org/wiki/Wikipedia"
@@ -3928,7 +3959,7 @@
    "lang": "mt",
    "language": "Maltese",
    "protection": null,
-   "readers": 284,
+   "readers": 249,
    "revid": null,
    "title": "Wikipedija",
    "url": "https://mt.wikipedia.org/wiki/Wikipedija"
@@ -3937,7 +3968,7 @@
    "characters": 308,
    "citations": 0,
    "lang": "ab",
-   "language": "Abkhazian",
+   "language": "ab",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -3948,7 +3979,7 @@
      "level": "sysop"
     }
    },
-   "readers": 492,
+   "readers": 312,
    "revid": null,
    "title": "Авикипедиа",
    "url": "https://ab.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0"
@@ -3959,7 +3990,7 @@
    "lang": "roa-rup",
    "language": "roa-rup",
    "protection": null,
-   "readers": 186,
+   "readers": 143,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://roa-rup.wikipedia.org/wiki/Wikipedia"
@@ -3968,9 +3999,9 @@
    "characters": 299,
    "citations": 0,
    "lang": "vo",
-   "language": "Volapük",
+   "language": "vo",
    "protection": null,
-   "readers": 211,
+   "readers": 125,
    "revid": null,
    "title": "Vükiped",
    "url": "https://vo.wikipedia.org/wiki/V%C3%BCkiped"
@@ -3979,9 +4010,9 @@
    "characters": 276,
    "citations": 0,
    "lang": "ace",
-   "language": "Acehnese",
+   "language": "ace",
    "protection": null,
-   "readers": 720,
+   "readers": 502,
    "revid": null,
    "title": "Wikipèdia",
    "url": "https://ace.wikipedia.org/wiki/Wikip%C3%A8dia"
@@ -3990,23 +4021,12 @@
    "characters": 255,
    "citations": 0,
    "lang": "din",
-   "language": "Dinka",
+   "language": "din",
    "protection": null,
-   "readers": 225,
+   "readers": 133,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://din.wikipedia.org/wiki/Wikipedia"
-  },
-  {
-   "characters": 232,
-   "citations": 0,
-   "lang": "om",
-   "language": "Oromo",
-   "protection": null,
-   "readers": 144,
-   "revid": null,
-   "title": "Wiikiipiidiyaa",
-   "url": "https://om.wikipedia.org/wiki/Wiikiipiidiyaa"
   },
   {
    "characters": 229,
@@ -4014,7 +4034,7 @@
    "lang": "olo",
    "language": "Livvi-Karelian",
    "protection": null,
-   "readers": 247,
+   "readers": 113,
    "revid": null,
    "title": "Wikipedii",
    "url": "https://olo.wikipedia.org/wiki/Wikipedii"
@@ -4023,9 +4043,9 @@
    "characters": 228,
    "citations": 0,
    "lang": "ty",
-   "language": "Tahitian",
+   "language": "ty",
    "protection": null,
-   "readers": 175,
+   "readers": 146,
    "revid": null,
    "title": "Vitipetia",
    "url": "https://ty.wikipedia.org/wiki/Vitipetia"
@@ -4034,9 +4054,9 @@
    "characters": 216,
    "citations": 0,
    "lang": "tet",
-   "language": "Tetum",
+   "language": "tet",
    "protection": null,
-   "readers": 494,
+   "readers": 153,
    "revid": null,
    "title": "Wikipédia",
    "url": "https://tet.wikipedia.org/wiki/Wikip%C3%A9dia"
@@ -4045,9 +4065,9 @@
    "characters": 199,
    "citations": 0,
    "lang": "ady",
-   "language": "Adyghe",
+   "language": "ady",
    "protection": null,
-   "readers": 381,
+   "readers": 288,
    "revid": null,
    "title": "Википедие",
    "url": "https://ady.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B5"
@@ -4056,9 +4076,9 @@
    "characters": 181,
    "citations": 0,
    "lang": "kbd",
-   "language": "Kabardian",
+   "language": "kbd",
    "protection": null,
-   "readers": 232,
+   "readers": 83,
    "revid": null,
    "title": "Уикипедиэ",
    "url": "https://kbd.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8D"
@@ -4067,9 +4087,9 @@
    "characters": 163,
    "citations": 0,
    "lang": "rn",
-   "language": "Rundi",
+   "language": "rn",
    "protection": null,
-   "readers": 155,
+   "readers": 67,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://rn.wikipedia.org/wiki/Wikipedia"
@@ -4078,9 +4098,9 @@
    "characters": 158,
    "citations": 0,
    "lang": "chy",
-   "language": "Cheyenne",
+   "language": "chy",
    "protection": null,
-   "readers": 282,
+   "readers": 118,
    "revid": null,
    "title": "Vekepete'a",
    "url": "https://chy.wikipedia.org/wiki/Vekepete%27a"
@@ -4091,7 +4111,7 @@
    "lang": "rm",
    "language": "Romansh",
    "protection": null,
-   "readers": 157,
+   "readers": 88,
    "revid": null,
    "title": "Vichipedia",
    "url": "https://rm.wikipedia.org/wiki/Vichipedia"
@@ -4100,9 +4120,9 @@
    "characters": 153,
    "citations": 0,
    "lang": "awa",
-   "language": "Awadhi",
+   "language": "awa",
    "protection": null,
-   "readers": 255,
+   "readers": 145,
    "revid": null,
    "title": "विकिपीडिया",
    "url": "https://awa.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE"
@@ -4113,7 +4133,7 @@
    "lang": "eml",
    "language": "Emilian-Romagnol",
    "protection": null,
-   "readers": 249,
+   "readers": 136,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://eml.wikipedia.org/wiki/Wikipedia"
@@ -4122,9 +4142,9 @@
    "characters": 126,
    "citations": 0,
    "lang": "pdc",
-   "language": "Pennsylvania German",
+   "language": "pdc",
    "protection": null,
-   "readers": 218,
+   "readers": 107,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://pdc.wikipedia.org/wiki/Wikipedia"
@@ -4135,21 +4155,10 @@
    "lang": "sn",
    "language": "Shona",
    "protection": null,
-   "readers": 159,
+   "readers": 76,
    "revid": null,
    "title": "Wikipidhiya",
    "url": "https://sn.wikipedia.org/wiki/Wikipidhiya"
-  },
-  {
-   "characters": 115,
-   "citations": 0,
-   "lang": "nso",
-   "language": "Northern Sotho",
-   "protection": null,
-   "readers": 96,
-   "revid": null,
-   "title": "Wikipedia",
-   "url": "https://nso.wikipedia.org/wiki/Wikipedia"
   },
   {
    "characters": 111,
@@ -4157,7 +4166,7 @@
    "lang": "fat",
    "language": "Akan",
    "protection": null,
-   "readers": 879,
+   "readers": 125,
    "revid": null,
    "title": "Wikipedia",
    "url": "https://fat.wikipedia.org/wiki/Wikipedia"
@@ -4166,7 +4175,7 @@
    "characters": 78,
    "citations": 0,
    "lang": "got",
-   "language": "Gothic",
+   "language": "got",
    "protection": {
     "edit": {
      "expiry": "infinity",
@@ -4177,7 +4186,7 @@
      "level": "autoconfirmed"
     }
    },
-   "readers": 326,
+   "readers": 133,
    "revid": null,
    "title": "𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰",
    "url": "https://got.wikipedia.org/wiki/%F0%90%8D%85%F0%90%8C%B9%F0%90%8C%BA%F0%90%8C%B9%F0%90%8D%80%F0%90%8C%B0%F0%90%8C%B9%F0%90%8C%B3%F0%90%8C%BE%F0%90%8C%B0"
@@ -4188,7 +4197,7 @@
    "lang": "bh",
    "language": "Bhojpuri",
    "protection": null,
-   "readers": 269,
+   "readers": 163,
    "revid": null,
    "title": "विकिपीडिया",
    "url": "https://bh.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE"
@@ -4199,7 +4208,7 @@
    "lang": "gu",
    "language": "Gujarati",
    "protection": null,
-   "readers": 381,
+   "readers": 219,
    "revid": null,
    "title": "વિકિપીડિયા",
    "url": "https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%95%E0%AA%BF%E0%AA%AA%E0%AB%80%E0%AA%A1%E0%AA%BF%E0%AA%AF%E0%AA%BE"
