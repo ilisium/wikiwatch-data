@@ -43,79 +43,31 @@
      "text": "Sourced material removed and not restored: 2 removals taking out 4 references."
     },
     {
+     "evidence": [
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=268021390&oldid=267998083",
+       "kind": "diff",
+       "text": "2026-06-18, Hans Christian Blecke, 1 references: Seit einiger Zeit wird öffentlich diskutiert, Label für KI freie Arbeiten einzuführen. Zum Beispiel beim OMR 2026 oder auch auf der Buchmesse: https://www.deutschlandfunkkultur.de/kulturpolitiker-lehmann-fordert-label-fuer-ki-freie-werke-100.html/"
+      },
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=267995335&oldid=267982988",
+       "kind": "diff",
+       "text": "2026-06-17, Fährtenleser, 1 references: Wieso ist das hier irrelevant? Bitte ggf. diskutieren statt einfach löschen."
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "17% of its latest 250 edits undo others."
+     "text": "18% of its latest 250 edits undo others."
     }
    ],
-   "score": 40,
-   "tier": "watch"
-  },
-  {
-   "historyRead": true,
-   "lang": "en",
-   "language": "English",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1373538630&oldid=1373494473",
-       "kind": "diff",
-       "text": "2026-09-06, Tenpop421, 2 references: /* Ethics */ Street art has no relevance and is of dubious copyright status"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382961533&oldid=1382941215",
-       "kind": "diff",
-       "text": "2026-10-31, Alenoach, 3 references: /* Regulation */ I don't find a secondary source for this, it looks too niche for an article as broad as the one on AI"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1375948970&oldid=1375947937",
-       "kind": "diff",
-       "text": "2026-09-21, Alenoach, 2 references: /* In fiction */ moving the content on Doraemon to Artificial intelligence in fiction"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "Sourced material removed and not restored: 3 removals taking out 7 references."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382686376&oldid=1382685861",
-       "kind": "diff",
-       "text": "2026-10-29, Noailles, 4 references: added 2 paragraphs and references"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382685861&oldid=1382684438",
-       "kind": "diff",
-       "text": "2026-10-29, Noailles, 2 references: added 2 paragraphs with refereinces"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382684438&oldid=1382595805",
-       "kind": "diff",
-       "text": "2026-10-29, Noailles, 5 references: added three paragraphs on new regulation"
-      }
-     ],
-     "group": "history",
-     "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
-    },
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2026-09-22: 4 reverts by ApLundell, Grayfell, Fram, Belbury"
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "1 edit war in the last year (three reverts or more within a day)."
-    }
-   ],
-   "score": 39,
-   "tier": "watch"
+   "score": 50,
+   "tier": "alarm"
   },
   {
    "historyRead": true,
@@ -194,11 +146,16 @@
        "href": "https://pt.wikipedia.org/w/index.php?diff=72168542&oldid=72014118",
        "kind": "diff",
        "text": "2026-05-02, Julio de Lima Luz, 3 references: no summary"
+      },
+      {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=71626236&oldid=71518993",
+       "kind": "diff",
+       "text": "2026-01-28, Francisco Paiva Junior, 5 references: /* Aplicações */ IA especializada em autismo"
       }
      ],
      "group": "history",
      "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+     "text": "Sourced additions turned away: 4 edits adding references, reverted."
     },
     {
      "evidence": [],
@@ -278,14 +235,14 @@
     {
      "evidence": [
       {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=77620345&oldid=77421399",
+       "kind": "diff",
+       "text": "2026-11-17, Ghu888, 1 references: /* انظر أيضًا */"
+      },
+      {
        "href": "https://ar.wikipedia.org/w/index.php?diff=76682815&oldid=76682786",
        "kind": "diff",
        "text": "2026-09-23, خالد موسى, 16 references: تنسيق وتوثيق تقني: إصلاح وسوم الاستشهاد المعطوبة برمجياً في القسم العلوي والمقدمة (Dartmouth workshop ،Succ1 ،Tools of AI) لضمان اتساق المراجع مع دليل الأسلوب."
-      },
-      {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=76428407&oldid=76347737",
-       "kind": "diff",
-       "text": "2026-09-04, شاهين 1, 3 references: إضافة أهداف الذكاء الاصطناعي"
       }
      ],
      "group": "history",
@@ -296,7 +253,7 @@
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "23% of its latest 250 edits undo others."
+     "text": "22% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -432,6 +389,39 @@
     }
    ],
    "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-09-22: 4 reverts by ApLundell, Grayfell, Fram, Belbury"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1373538630&oldid=1373494473",
+       "kind": "diff",
+       "text": "2026-09-06, Tenpop421, 2 references: /* Ethics */ Street art has no relevance and is of dubious copyright status"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    }
+   ],
+   "score": 16,
    "tier": "calm"
   },
   {
