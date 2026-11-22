@@ -2,75 +2,6 @@
  "versions": [
   {
    "historyRead": true,
-   "lang": "de",
-   "language": "German",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2026-02-08: 3 reverts by Langusto, PM3"
-      },
-      {
-       "kind": "war",
-       "text": "2026-05-19: 3 reverts by NDG"
-      },
-      {
-       "kind": "war",
-       "text": "2026-07-16: 3 reverts by Andol, Wan Shi Tong, Gustav von Aschenbach"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "4 edit wars in the last year (three reverts or more within a day)."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://de.wikipedia.org/w/index.php?diff=271675299&oldid=271654938",
-       "kind": "diff",
-       "text": "2026-10-27, Wan Shi Tong, 2 references: /* Das KI-Observatorium */ Absatz ohne Rezeption gestrichen"
-      },
-      {
-       "href": "https://de.wikipedia.org/w/index.php?diff=268989977&oldid=268988919",
-       "kind": "diff",
-       "text": "2026-07-21, Wan Shi Tong, 2 references: /* Verbreitung von KI in Deutschland */ Veralteten Abschnitt entfernt"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "Sourced material removed and not restored: 2 removals taking out 4 references."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://de.wikipedia.org/w/index.php?diff=268021390&oldid=267998083",
-       "kind": "diff",
-       "text": "2026-06-18, Hans Christian Blecke, 1 references: Seit einiger Zeit wird öffentlich diskutiert, Label für KI freie Arbeiten einzuführen. Zum Beispiel beim OMR 2026 oder auch auf der Buchmesse: https://www.deutschlandfunkkultur.de/kulturpolitiker-lehmann-fordert-label-fuer-ki-freie-werke-100.html/"
-      },
-      {
-       "href": "https://de.wikipedia.org/w/index.php?diff=267995335&oldid=267982988",
-       "kind": "diff",
-       "text": "2026-06-17, Fährtenleser, 1 references: Wieso ist das hier irrelevant? Bitte ggf. diskutieren statt einfach löschen."
-      }
-     ],
-     "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "17% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 50,
-   "tier": "alarm"
-  },
-  {
-   "historyRead": true,
    "lang": "en",
    "language": "English",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -338,6 +269,41 @@
   },
   {
    "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-02-08: 3 reverts by Langusto, PM3"
+      },
+      {
+       "kind": "war",
+       "text": "2026-05-19: 3 reverts by NDG"
+      },
+      {
+       "kind": "war",
+       "text": "2026-07-16: 3 reverts by Andol, Wan Shi Tong, Gustav von Aschenbach"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "4 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "17% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 24,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "ru",
    "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -488,9 +454,21 @@
      "group": "history",
      "points": 16,
      "text": "Sourced material removed and not restored: 4 removals taking out 111 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://it.wikipedia.org/w/index.php?diff=153473518&oldid=153392216",
+       "kind": "diff",
+       "text": "2026-11-21, ~2026-61399-57, 1 references: /* Etica dell'intelligenza artificiale */"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
     }
    ],
-   "score": 16,
+   "score": 21,
    "tier": "calm"
   },
   {

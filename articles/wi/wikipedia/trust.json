@@ -192,17 +192,30 @@
   },
   {
    "historyRead": true,
-   "lang": "de",
-   "language": "German",
+   "lang": "ru",
+   "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [],
-   "score": 0,
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=151161710&oldid=151161446",
+       "kind": "diff",
+       "text": "2026-01-14, Eraevsky, 4 references: /* Издания */"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 4 references."
+    }
+   ],
+   "score": 8,
    "tier": "calm"
   },
   {
    "historyRead": true,
-   "lang": "ru",
-   "language": "Russian",
+   "lang": "de",
+   "language": "German",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [],
    "score": 0,
