@@ -122,6 +122,53 @@
   },
   {
    "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-02-08: 3 reverts by Langusto, PM3"
+      },
+      {
+       "kind": "war",
+       "text": "2026-05-19: 3 reverts by NDG"
+      },
+      {
+       "kind": "war",
+       "text": "2026-07-16: 3 reverts by Andol, Wan Shi Tong, Gustav von Aschenbach"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "4 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "17% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=271675299&oldid=271654938",
+       "kind": "diff",
+       "text": "2026-10-27, Wan Shi Tong, 2 references: /* Das KI-Observatorium */ Absatz ohne Rezeption gestrichen"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    }
+   ],
+   "score": 32,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
    "lang": "pt",
    "language": "Portuguese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -249,7 +296,7 @@
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "22% of its latest 250 edits undo others."
+     "text": "23% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -266,41 +313,6 @@
    ],
    "score": 26,
    "tier": "watch"
-  },
-  {
-   "historyRead": true,
-   "lang": "de",
-   "language": "German",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2026-02-08: 3 reverts by Langusto, PM3"
-      },
-      {
-       "kind": "war",
-       "text": "2026-05-19: 3 reverts by NDG"
-      },
-      {
-       "kind": "war",
-       "text": "2026-07-16: 3 reverts by Andol, Wan Shi Tong, Gustav von Aschenbach"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "4 edit wars in the last year (three reverts or more within a day)."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "17% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 24,
-   "tier": "calm"
   },
   {
    "historyRead": true,
