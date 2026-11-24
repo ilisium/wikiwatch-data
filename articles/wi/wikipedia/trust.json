@@ -76,45 +76,6 @@
   },
   {
    "historyRead": true,
-   "lang": "fr",
-   "language": "French",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=231495049&oldid=231494842",
-       "kind": "diff",
-       "text": "2025-12-15, Padarquetty, 2 references: /* Jeux basés sur Wikipédia */ encore des sources primaires"
-      },
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=230903901&oldid=230903892",
-       "kind": "diff",
-       "text": "2025-11-24, Padarquetty, 2 references: /* Jeux basés sur Wikipédia */ source primaire commerciale"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "Sourced material removed and not restored: 2 removals taking out 4 references."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://fr.wikipedia.org/w/index.php?diff=237272544&oldid=237270250",
-       "kind": "diff",
-       "text": "2026-06-23, Utilisateur ouikipedia, 1 references: /* Sur Internet */ Ajout d'une source"
-      }
-     ],
-     "group": "history",
-     "points": 5,
-     "text": "Sourced additions turned away: 1 edit adding references, reverted."
-    }
-   ],
-   "score": 21,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
    "lang": "fa",
    "language": "Persian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -161,6 +122,40 @@
     }
    ],
    "score": 14,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fr",
+   "language": "French",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=231495049&oldid=231494842",
+       "kind": "diff",
+       "text": "2025-12-15, Padarquetty, 2 references: /* Jeux basés sur Wikipédia */ encore des sources primaires"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://fr.wikipedia.org/w/index.php?diff=237272544&oldid=237270250",
+       "kind": "diff",
+       "text": "2026-06-23, Utilisateur ouikipedia, 1 references: /* Sur Internet */ Ajout d'une source"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 13,
    "tier": "calm"
   },
   {
