@@ -2,71 +2,6 @@
  "versions": [
   {
    "historyRead": true,
-   "lang": "en",
-   "language": "English",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1373538630&oldid=1373494473",
-       "kind": "diff",
-       "text": "2026-09-06, Tenpop421, 2 references: /* Ethics */ Street art has no relevance and is of dubious copyright status"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382961533&oldid=1382941215",
-       "kind": "diff",
-       "text": "2026-10-31, Alenoach, 3 references: /* Regulation */ I don't find a secondary source for this, it looks too niche for an article as broad as the one on AI"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1375948970&oldid=1375947937",
-       "kind": "diff",
-       "text": "2026-09-21, Alenoach, 2 references: /* In fiction */ moving the content on Doraemon to Artificial intelligence in fiction"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "Sourced material removed and not restored: 3 removals taking out 7 references."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382686376&oldid=1382685861",
-       "kind": "diff",
-       "text": "2026-10-29, Noailles, 4 references: added 2 paragraphs and references"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382685861&oldid=1382684438",
-       "kind": "diff",
-       "text": "2026-10-29, Noailles, 2 references: added 2 paragraphs with refereinces"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382684438&oldid=1382595805",
-       "kind": "diff",
-       "text": "2026-10-29, Noailles, 5 references: added three paragraphs on new regulation"
-      }
-     ],
-     "group": "history",
-     "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
-    },
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2026-09-22: 4 reverts by ApLundell, Grayfell, Fram, Belbury"
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "1 edit war in the last year (three reverts or more within a day)."
-    }
-   ],
-   "score": 39,
-   "tier": "watch"
-  },
-  {
-   "historyRead": true,
    "lang": "fr",
    "language": "French",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -130,26 +65,26 @@
      "evidence": [
       {
        "kind": "war",
-       "text": "2026-02-08: 3 reverts by Langusto, PM3"
-      },
-      {
-       "kind": "war",
        "text": "2026-05-19: 3 reverts by NDG"
       },
       {
        "kind": "war",
        "text": "2026-07-16: 3 reverts by Andol, Wan Shi Tong, Gustav von Aschenbach"
+      },
+      {
+       "kind": "war",
+       "text": "2026-09-11: 4 reverts by Andol, Mautpreller, Planetblue"
       }
      ],
      "group": "history",
      "points": 16,
-     "text": "4 edit wars in the last year (three reverts or more within a day)."
+     "text": "3 edit wars in the last year (three reverts or more within a day)."
     },
     {
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "17% of its latest 250 edits undo others."
+     "text": "16% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -271,48 +206,46 @@
   },
   {
    "historyRead": true,
-   "lang": "ar",
-   "language": "Arabic",
+   "lang": "en",
+   "language": "English",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
    "reasons": [
     {
      "evidence": [
       {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=77620345&oldid=77421399",
+       "href": "https://en.wikipedia.org/w/index.php?diff=1373538630&oldid=1373494473",
        "kind": "diff",
-       "text": "2026-11-17, Ghu888, 1 references: /* انظر أيضًا */"
+       "text": "2026-09-06, Tenpop421, 2 references: /* Ethics */ Street art has no relevance and is of dubious copyright status"
       },
       {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=76682815&oldid=76682786",
+       "href": "https://en.wikipedia.org/w/index.php?diff=1382961533&oldid=1382941215",
        "kind": "diff",
-       "text": "2026-09-23, خالد موسى, 16 references: تنسيق وتوثيق تقني: إصلاح وسوم الاستشهاد المعطوبة برمجياً في القسم العلوي والمقدمة (Dartmouth workshop ،Succ1 ،Tools of AI) لضمان اتساق المراجع مع دليل الأسلوب."
+       "text": "2026-10-31, Alenoach, 3 references: /* Regulation */ I don't find a secondary source for this, it looks too niche for an article as broad as the one on AI"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1375948970&oldid=1375947937",
+       "kind": "diff",
+       "text": "2026-09-21, Alenoach, 2 references: /* In fiction */ moving the content on Doraemon to Artificial intelligence in fiction"
       }
      ],
      "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "23% of its latest 250 edits undo others."
+     "points": 16,
+     "text": "Sourced material removed and not restored: 3 removals taking out 7 references."
     },
     {
      "evidence": [
       {
-       "href": "https://ar.wikipedia.org/w/index.php?diff=74262869&oldid=74262080",
-       "kind": "diff",
-       "text": "2026-04-13, إسلام, 50 references: الرجوع عن 19 تعديلا معلقا من Sapientia Sigvísa، Mr.Ibrahembot و ~2026-22758-41 إلى نسخة 74219270 من Serfezi."
+       "kind": "war",
+       "text": "2026-09-22: 4 reverts by ApLundell, Grayfell, Fram, Belbury"
       }
      ],
      "group": "history",
      "points": 8,
-     "text": "Sourced material removed and not restored: 1 removal taking out 50 references."
+     "text": "1 edit war in the last year (three reverts or more within a day)."
     }
    ],
-   "score": 26,
-   "tier": "watch"
+   "score": 24,
+   "tier": "calm"
   },
   {
    "historyRead": true,
@@ -481,6 +414,34 @@
     }
    ],
    "score": 21,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ar",
+   "language": "Arabic",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "23% of its latest 250 edits undo others."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://ar.wikipedia.org/w/index.php?diff=74262869&oldid=74262080",
+       "kind": "diff",
+       "text": "2026-04-13, إسلام, 50 references: الرجوع عن 19 تعديلا معلقا من Sapientia Sigvísa، Mr.Ibrahembot و ~2026-22758-41 إلى نسخة 74219270 من Serfezi."
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "Sourced material removed and not restored: 1 removal taking out 50 references."
+    }
+   ],
+   "score": 16,
    "tier": "calm"
   },
   {
