@@ -2,6 +2,135 @@
  "versions": [
   {
    "historyRead": true,
+   "lang": "de",
+   "language": "German",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-05-19: 3 reverts by NDG"
+      },
+      {
+       "kind": "war",
+       "text": "2026-07-16: 3 reverts by Andol, Wan Shi Tong, Gustav von Aschenbach"
+      },
+      {
+       "kind": "war",
+       "text": "2026-09-11: 4 reverts by Andol, Mautpreller, Planetblue"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "3 edit wars in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=271675299&oldid=271654938",
+       "kind": "diff",
+       "text": "2026-10-27, Wan Shi Tong, 2 references: /* Das KI-Observatorium */ Absatz ohne Rezeption gestrichen"
+      },
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=268989977&oldid=268988919",
+       "kind": "diff",
+       "text": "2026-07-21, Wan Shi Tong, 2 references: /* Verbreitung von KI in Deutschland */ Veralteten Abschnitt entfernt"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 2 removals taking out 4 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=268021390&oldid=267998083",
+       "kind": "diff",
+       "text": "2026-06-18, Hans Christian Blecke, 1 references: Seit einiger Zeit wird öffentlich diskutiert, Label für KI freie Arbeiten einzuführen. Zum Beispiel beim OMR 2026 oder auch auf der Buchmesse: https://www.deutschlandfunkkultur.de/kulturpolitiker-lehmann-fordert-label-fuer-ki-freie-werke-100.html/"
+      },
+      {
+       "href": "https://de.wikipedia.org/w/index.php?diff=267995335&oldid=267982988",
+       "kind": "diff",
+       "text": "2026-06-17, Fährtenleser, 1 references: Wieso ist das hier irrelevant? Bitte ggf. diskutieren statt einfach löschen."
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "16% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 50,
+   "tier": "alarm"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1373538630&oldid=1373494473",
+       "kind": "diff",
+       "text": "2026-09-06, Tenpop421, 2 references: /* Ethics */ Street art has no relevance and is of dubious copyright status"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1382961533&oldid=1382941215",
+       "kind": "diff",
+       "text": "2026-10-31, Alenoach, 3 references: /* Regulation */ I don't find a secondary source for this, it looks too niche for an article as broad as the one on AI"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1375948970&oldid=1375947937",
+       "kind": "diff",
+       "text": "2026-09-21, Alenoach, 2 references: /* In fiction */ moving the content on Doraemon to Artificial intelligence in fiction"
+      }
+     ],
+     "group": "history",
+     "points": 16,
+     "text": "Sourced material removed and not restored: 3 removals taking out 7 references."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1382686376&oldid=1382685861",
+       "kind": "diff",
+       "text": "2026-10-29, Noailles, 4 references: added 2 paragraphs and references"
+      },
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1382685861&oldid=1382684438",
+       "kind": "diff",
+       "text": "2026-10-29, Noailles, 2 references: added 2 paragraphs with refereinces"
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [
+      {
+       "kind": "war",
+       "text": "2026-09-22: 4 reverts by ApLundell, Grayfell, Fram, Belbury"
+      }
+     ],
+     "group": "history",
+     "points": 8,
+     "text": "1 edit war in the last year (three reverts or more within a day)."
+    }
+   ],
+   "score": 34,
+   "tier": "watch"
+  },
+  {
+   "historyRead": true,
    "lang": "fr",
    "language": "French",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -53,53 +182,6 @@
     }
    ],
    "score": 34,
-   "tier": "watch"
-  },
-  {
-   "historyRead": true,
-   "lang": "de",
-   "language": "German",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2026-05-19: 3 reverts by NDG"
-      },
-      {
-       "kind": "war",
-       "text": "2026-07-16: 3 reverts by Andol, Wan Shi Tong, Gustav von Aschenbach"
-      },
-      {
-       "kind": "war",
-       "text": "2026-09-11: 4 reverts by Andol, Mautpreller, Planetblue"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "3 edit wars in the last year (three reverts or more within a day)."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "16% of its latest 250 edits undo others."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://de.wikipedia.org/w/index.php?diff=271675299&oldid=271654938",
-       "kind": "diff",
-       "text": "2026-10-27, Wan Shi Tong, 2 references: /* Das KI-Observatorium */ Absatz ohne Rezeption gestrichen"
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "Sourced material removed and not restored: 1 removal taking out 2 references."
-    }
-   ],
-   "score": 32,
    "tier": "watch"
   },
   {
@@ -167,26 +249,26 @@
      "evidence": [
       {
        "kind": "war",
-       "text": "2026-05-23: 3 reverts by R2d21024, Eduardosalg"
-      },
-      {
-       "kind": "war",
        "text": "2026-05-26: 4 reverts by ~2026-29913-46, Automoderador, SeroBOT, R2d21024"
       },
       {
        "kind": "war",
        "text": "2026-06-03: 6 reverts by SeroBOT, Leoncastro, Alainpepri, Renamed user 792640219528496a9159cdde15306982"
+      },
+      {
+       "kind": "war",
+       "text": "2026-07-17: 7 reverts by Christii, Dinamino, Leoncastro, Der-Wir-Ing, SeroBOT"
       }
      ],
      "group": "history",
      "points": 16,
-     "text": "10 edit wars in the last year (three reverts or more within a day)."
+     "text": "9 edit wars in the last year (three reverts or more within a day)."
     },
     {
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "37% of its latest 250 edits undo others."
+     "text": "36% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -203,125 +285,6 @@
    ],
    "score": 29,
    "tier": "watch"
-  },
-  {
-   "historyRead": true,
-   "lang": "en",
-   "language": "English",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1373538630&oldid=1373494473",
-       "kind": "diff",
-       "text": "2026-09-06, Tenpop421, 2 references: /* Ethics */ Street art has no relevance and is of dubious copyright status"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1382961533&oldid=1382941215",
-       "kind": "diff",
-       "text": "2026-10-31, Alenoach, 3 references: /* Regulation */ I don't find a secondary source for this, it looks too niche for an article as broad as the one on AI"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1375948970&oldid=1375947937",
-       "kind": "diff",
-       "text": "2026-09-21, Alenoach, 2 references: /* In fiction */ moving the content on Doraemon to Artificial intelligence in fiction"
-      }
-     ],
-     "group": "history",
-     "points": 16,
-     "text": "Sourced material removed and not restored: 3 removals taking out 7 references."
-    },
-    {
-     "evidence": [
-      {
-       "kind": "war",
-       "text": "2026-09-22: 4 reverts by ApLundell, Grayfell, Fram, Belbury"
-      }
-     ],
-     "group": "history",
-     "points": 8,
-     "text": "1 edit war in the last year (three reverts or more within a day)."
-    }
-   ],
-   "score": 24,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "ru",
-   "language": "Russian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://ru.wikipedia.org/w/index.php?diff=153883556&oldid=153654048",
-       "kind": "diff",
-       "text": "2026-07-09, P.crafter, 1 references: /* Правовые вопросы */ дополнение, источники"
-      },
-      {
-       "href": "https://ru.wikipedia.org/w/index.php?diff=152814897&oldid=152696507",
-       "kind": "diff",
-       "text": "2026-04-21, Site.lighting, 1 references: Добавлен академический источник о культурно-философском анализе ИИ, включая проект «Анжела Богданова» и эксперимент «Яндекса» как публичные кейсы обсуждения субъектности искусственного интеллекта"
-      },
-      {
-       "href": "https://ru.wikipedia.org/w/index.php?diff=152262041&oldid=152202204",
-       "kind": "diff",
-       "text": "2026-03-16, 176.195.90.185, 1 references: /* СССР */"
-      }
-     ],
-     "group": "history",
-     "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "16% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 23,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "fa",
-   "language": "Persian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=44018599&oldid=43973690",
-       "kind": "diff",
-       "text": "2026-07-16, ~2026-40235-67, 1 references: اضافه کردن منبع"
-      },
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=43859721&oldid=43851738",
-       "kind": "diff",
-       "text": "2026-06-19, LProfo, 4 references: /* */ کاربر:Raeste naema مطلب منبع‌دار را با توجیه تک‌واژه‌ای حذف نکنید. اگر واژه‌ای در منابع رسمی و معتبر کاربرد دارد پس از پیش وجود دارد."
-      },
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=43565163&oldid=43565112",
-       "kind": "diff",
-       "text": "2026-03-10, ~2026-15445-75, 8 references: no summary"
-      }
-     ],
-     "group": "history",
-     "points": 15,
-     "text": "Sourced additions turned away: 3 edits adding references, reverted."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "20% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 23,
-   "tier": "calm"
   },
   {
    "historyRead": true,
@@ -369,6 +332,39 @@
   },
   {
    "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=44018599&oldid=43973690",
+       "kind": "diff",
+       "text": "2026-07-16, ~2026-40235-67, 1 references: اضافه کردن منبع"
+      },
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=43859721&oldid=43851738",
+       "kind": "diff",
+       "text": "2026-06-19, LProfo, 4 references: /* */ کاربر:Raeste naema مطلب منبع‌دار را با توجیه تک‌واژه‌ای حذف نکنید. اگر واژه‌ای در منابع رسمی و معتبر کاربرد دارد پس از پیش وجود دارد."
+      }
+     ],
+     "group": "history",
+     "points": 10,
+     "text": "Sourced additions turned away: 2 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "19% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 18,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "it",
    "language": "Italian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -389,31 +385,14 @@
        "href": "https://it.wikipedia.org/w/index.php?diff=152732737&oldid=152732734",
        "kind": "diff",
        "text": "2026-10-03, S.vecchiato, 16 references: Spostam ◇"
-      },
-      {
-       "href": "https://it.wikipedia.org/w/index.php?diff=152732763&oldid=152732755",
-       "kind": "diff",
-       "text": "2026-10-03, S.vecchiato, 9 references: no summary"
       }
      ],
      "group": "history",
      "points": 16,
-     "text": "Sourced material removed and not restored: 4 removals taking out 111 references."
-    },
-    {
-     "evidence": [
-      {
-       "href": "https://it.wikipedia.org/w/index.php?diff=153473518&oldid=153392216",
-       "kind": "diff",
-       "text": "2026-11-21, ~2026-61399-57, 1 references: /* Etica dell'intelligenza artificiale */"
-      }
-     ],
-     "group": "history",
-     "points": 5,
-     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+     "text": "Sourced material removed and not restored: 3 removals taking out 102 references."
     }
    ],
-   "score": 21,
+   "score": 16,
    "tier": "calm"
   },
   {
@@ -426,7 +405,7 @@
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "23% of its latest 250 edits undo others."
+     "text": "20% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -442,6 +421,22 @@
     }
    ],
    "score": 16,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "16% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 8,
    "tier": "calm"
   },
   {
