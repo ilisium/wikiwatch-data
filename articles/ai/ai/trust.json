@@ -288,6 +288,87 @@
   },
   {
    "historyRead": true,
+   "lang": "ru",
+   "language": "Russian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=153883556&oldid=153654048",
+       "kind": "diff",
+       "text": "2026-07-09, P.crafter, 1 references: /* Правовые вопросы */ дополнение, источники"
+      },
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=152814897&oldid=152696507",
+       "kind": "diff",
+       "text": "2026-04-21, Site.lighting, 1 references: Добавлен академический источник о культурно-философском анализе ИИ, включая проект «Анжела Богданова» и эксперимент «Яндекса» как публичные кейсы обсуждения субъектности искусственного интеллекта"
+      },
+      {
+       "href": "https://ru.wikipedia.org/w/index.php?diff=152262041&oldid=152202204",
+       "kind": "diff",
+       "text": "2026-03-16, 176.195.90.185, 1 references: /* СССР */"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 3 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "16% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "fa",
+   "language": "Persian",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=44018599&oldid=43973690",
+       "kind": "diff",
+       "text": "2026-07-16, ~2026-40235-67, 1 references: اضافه کردن منبع"
+      },
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=43859721&oldid=43851738",
+       "kind": "diff",
+       "text": "2026-06-19, LProfo, 4 references: /* */ کاربر:Raeste naema مطلب منبع‌دار را با توجیه تک‌واژه‌ای حذف نکنید. اگر واژه‌ای در منابع رسمی و معتبر کاربرد دارد پس از پیش وجود دارد."
+      },
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=43565163&oldid=43565112",
+       "kind": "diff",
+       "text": "2026-03-10, ~2026-15445-75, 8 references: no summary"
+      },
+      {
+       "href": "https://fa.wikipedia.org/w/index.php?diff=43433441&oldid=43366280",
+       "kind": "diff",
+       "text": "2026-02-11, ~2026-92000-0, 4 references: /* اهداف */"
+      }
+     ],
+     "group": "history",
+     "points": 15,
+     "text": "Sourced additions turned away: 4 edits adding references, reverted."
+    },
+    {
+     "evidence": [],
+     "group": "history",
+     "points": 8,
+     "text": "19% of its latest 250 edits undo others."
+    }
+   ],
+   "score": 23,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
    "lang": "ja",
    "language": "Japanese",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -332,39 +413,6 @@
   },
   {
    "historyRead": true,
-   "lang": "fa",
-   "language": "Persian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=44018599&oldid=43973690",
-       "kind": "diff",
-       "text": "2026-07-16, ~2026-40235-67, 1 references: اضافه کردن منبع"
-      },
-      {
-       "href": "https://fa.wikipedia.org/w/index.php?diff=43859721&oldid=43851738",
-       "kind": "diff",
-       "text": "2026-06-19, LProfo, 4 references: /* */ کاربر:Raeste naema مطلب منبع‌دار را با توجیه تک‌واژه‌ای حذف نکنید. اگر واژه‌ای در منابع رسمی و معتبر کاربرد دارد پس از پیش وجود دارد."
-      }
-     ],
-     "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    },
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "19% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 18,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
    "lang": "it",
    "language": "Italian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -405,7 +453,7 @@
      "evidence": [],
      "group": "history",
      "points": 8,
-     "text": "20% of its latest 250 edits undo others."
+     "text": "19% of its latest 250 edits undo others."
     },
     {
      "evidence": [
@@ -421,22 +469,6 @@
     }
    ],
    "score": 16,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
-   "lang": "ru",
-   "language": "Russian",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [],
-     "group": "history",
-     "points": 8,
-     "text": "16% of its latest 250 edits undo others."
-    }
-   ],
-   "score": 8,
    "tier": "calm"
   },
   {

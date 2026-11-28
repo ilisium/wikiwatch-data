@@ -160,33 +160,6 @@
   },
   {
    "historyRead": true,
-   "lang": "en",
-   "language": "English",
-   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
-   "reasons": [
-    {
-     "evidence": [
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1348280979&oldid=1348247842",
-       "kind": "diff",
-       "text": "2026-04-11, North8000, 2 references: Undid revision 1348247842 by Randy Kryn (talk) Thanks for major bold change/removal. Now is has moved to discussion. ~~~~"
-      },
-      {
-       "href": "https://en.wikipedia.org/w/index.php?diff=1348246397&oldid=1348243261",
-       "kind": "diff",
-       "text": "2026-04-11, Off and running, 4 references: The quote just needs to be corrected, not deleted. It does not need to be the exact same quote as the on in WP:ABOUT"
-      }
-     ],
-     "group": "history",
-     "points": 10,
-     "text": "Sourced additions turned away: 2 edits adding references, reverted."
-    }
-   ],
-   "score": 10,
-   "tier": "calm"
-  },
-  {
-   "historyRead": true,
    "lang": "ru",
    "language": "Russian",
    "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
@@ -205,6 +178,28 @@
     }
    ],
    "score": 8,
+   "tier": "calm"
+  },
+  {
+   "historyRead": true,
+   "lang": "en",
+   "language": "English",
+   "next": "Distortion needs people to check this version's claims, or a fact it leaves out, against sources.",
+   "reasons": [
+    {
+     "evidence": [
+      {
+       "href": "https://en.wikipedia.org/w/index.php?diff=1348280979&oldid=1348247842",
+       "kind": "diff",
+       "text": "2026-04-11, North8000, 2 references: Undid revision 1348247842 by Randy Kryn (talk) Thanks for major bold change/removal. Now is has moved to discussion. ~~~~"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
+    }
+   ],
+   "score": 5,
    "tier": "calm"
   },
   {

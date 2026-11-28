@@ -284,9 +284,21 @@
      "group": "history",
      "points": 8,
      "text": "1 edit war in the last year (three reverts or more within a day)."
+    },
+    {
+     "evidence": [
+      {
+       "href": "https://pt.wikipedia.org/w/index.php?diff=71986603&oldid=71986593",
+       "kind": "diff",
+       "text": "2026-03-27, Chronus, 28 references: Desfeita a edição 71986593 de Mandorake Reposição de dados e referências retirados sem justificativa"
+      }
+     ],
+     "group": "history",
+     "points": 5,
+     "text": "Sourced additions turned away: 1 edit adding references, reverted."
     }
    ],
-   "score": 8,
+   "score": 13,
    "tier": "calm"
   },
   {
